@@ -1,0 +1,48 @@
+﻿@page "/"
+
+<div class="welcome-container">
+
+    <img src="images/chietalogo.png" alt="" style="height: 100px;" />
+
+
+    <br />
+    <br />
+
+    <h2 class="welcome-heading">Welcome!</h2>
+
+    <p>
+        Access discretionary & mandatory grants,<br />
+        manage your SDF applications, & apply for<br />
+        student funding
+    </p>
+
+    <br />
+
+    <p><em>[Another image will be here]</em></p>
+
+    <br />
+
+    <button class="login-button" @onclick="GoToLogin">
+        Login
+    </button>
+
+    <br /><br />
+
+    <p class="register-message">
+        Don't have an account? <a href="#">Register Now</a>
+    </p>
+</div>
+
+
+
+
+@code {
+     [Inject]
+    NavigationManager Navigation { get; set; }
+
+    void GoToLogin()
+    {
+        Navigation.NavigateTo("/login");
+    }
+
+}
