@@ -33,4 +33,77 @@
 
 .register-message {
     font-size: 16px;
+    cursor: pointer;
+}
+
+.register-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    background-color: #f3f4f6;
+    height: 100vh;
+}
+
+.register-box {
+    background-color: white;
+    padding: 30px;
+    width: 350px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.logo {
+    width: 120px;
+    margin-bottom: 20px;
+}
+
+.tenant-label {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.input {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+}
+
+.validation-error {
+    color: red;
+    font-size: 12px;
+    text-align: left;
+}
+
+.checkbox-group {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.register-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 15px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.login-link {
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+
+span {
+    color: #B7791F;
 }

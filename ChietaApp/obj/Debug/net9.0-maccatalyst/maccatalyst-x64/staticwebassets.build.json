@@ -1,0 +1,2165 @@
+{
+  "Version": 1,
+  "Hash": "tMU14jesvRqOW7SVkO7Wc2CzvqyJ2ZFoAuj2qzOjW5M=",
+  "Source": "ChietaApp",
+  "BasePath": "/",
+  "Mode": "Root",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ChietaApp\\wwwroot",
+      "Source": "ChietaApp",
+      "ContentRoot": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\",
+      "BasePath": "/",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\053obva0vb-8inm30yfxf.gz",
+      "SourceId": "ChietaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fbl5ivwo6k",
+      "Integrity": "Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\9w8ash39pw-8whpw7uog5.gz",
+      "SourceId": "ChietaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/app#[.{fingerprint=8whpw7uog5}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\css\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ooz98uextr",
+      "Integrity": "6HxVtdzWxBJuYHiGkt817yDxBIWB8SsZQlRI9pdU73Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\btc5k7c35h-tw4sc55izp.gz",
+      "SourceId": "ChietaApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "ChietaApp#[.{fingerprint=tw4sc55izp}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\projectbundle\\ChietaApp.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ejzyo3p8oq",
+      "Integrity": "loM19x97HL78BfeuyKoxo++ATArnZiOIo0DdVXOf0bs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\projectbundle\\ChietaApp.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\byu1sj4xpy-6gzpyzhau4.gz",
+      "SourceId": "ChietaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint=6gzpyzhau4}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "joqzyw7ssu",
+      "Integrity": "LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\e25xx7drf2-asx38bmddw.gz",
+      "SourceId": "ChietaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint=asx38bmddw}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "z9c1prvz5p",
+      "Integrity": "Z6lvUPn2TFE8UiO/qvuNmmZ1hcieMqqs57P04A0oLek=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\r14fuvwmtm-tw4sc55izp.gz",
+      "SourceId": "ChietaApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "ChietaApp#[.{fingerprint=tw4sc55izp}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\ChietaApp.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ejzyo3p8oq",
+      "Integrity": "loM19x97HL78BfeuyKoxo++ATArnZiOIo0DdVXOf0bs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\ChietaApp.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\ChietaApp.styles.css",
+      "SourceId": "ChietaApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\",
+      "BasePath": "/",
+      "RelativePath": "ChietaApp#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "tw4sc55izp",
+      "Integrity": "3Zcff9htpeg6CZoI6EVjFl01izVzt6aBBm2b9obt3rQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\ChietaApp.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\projectbundle\\ChietaApp.bundle.scp.css",
+      "SourceId": "ChietaApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\projectbundle\\",
+      "BasePath": "/",
+      "RelativePath": "ChietaApp#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "tw4sc55izp",
+      "Integrity": "3Zcff9htpeg6CZoI6EVjFl01izVzt6aBBm2b9obt3rQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\projectbundle\\ChietaApp.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\css\\app.css",
+      "SourceId": "ChietaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8whpw7uog5",
+      "Integrity": "2KL+IQBmjJ1+/sQSOgOMZbxH5zZdHwvgL52+KL8t/80=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "SourceId": "ChietaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "ChietaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\images\\chietalogo.png",
+      "SourceId": "ChietaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/chietalogo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2i5ozeg6ab",
+      "Integrity": "JlNcZLU+k3XBKy8/NxcTPxZ3ZuUvBwpgxMZIUPbl+oY=",
+      "CopyToOutputDirectory": "Always",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\chietalogo.png"
+    },
+    {
+      "Identity": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\index.html",
+      "SourceId": "ChietaApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "asx38bmddw",
+      "Integrity": "Nn5Zm/Q9tbi1OrtsYmBheS8oslrbQlzlttitL0HC0js=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "ChietaApp.bundle.scp.css",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\btc5k7c35h-tw4sc55izp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000614628150"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1626"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"loM19x97HL78BfeuyKoxo++ATArnZiOIo0DdVXOf0bs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 22:19:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3Zcff9htpeg6CZoI6EVjFl01izVzt6aBBm2b9obt3rQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3Zcff9htpeg6CZoI6EVjFl01izVzt6aBBm2b9obt3rQ="
+        }
+      ]
+    },
+    {
+      "Route": "ChietaApp.bundle.scp.css",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\projectbundle\\ChietaApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3Zcff9htpeg6CZoI6EVjFl01izVzt6aBBm2b9obt3rQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 22:19:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3Zcff9htpeg6CZoI6EVjFl01izVzt6aBBm2b9obt3rQ="
+        }
+      ]
+    },
+    {
+      "Route": "ChietaApp.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\btc5k7c35h-tw4sc55izp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"loM19x97HL78BfeuyKoxo++ATArnZiOIo0DdVXOf0bs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 22:19:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-loM19x97HL78BfeuyKoxo++ATArnZiOIo0DdVXOf0bs="
+        }
+      ]
+    },
+    {
+      "Route": "ChietaApp.styles.css",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\r14fuvwmtm-tw4sc55izp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000614628150"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1626"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"loM19x97HL78BfeuyKoxo++ATArnZiOIo0DdVXOf0bs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 22:19:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3Zcff9htpeg6CZoI6EVjFl01izVzt6aBBm2b9obt3rQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3Zcff9htpeg6CZoI6EVjFl01izVzt6aBBm2b9obt3rQ="
+        }
+      ]
+    },
+    {
+      "Route": "ChietaApp.styles.css",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\ChietaApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3Zcff9htpeg6CZoI6EVjFl01izVzt6aBBm2b9obt3rQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 22:19:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3Zcff9htpeg6CZoI6EVjFl01izVzt6aBBm2b9obt3rQ="
+        }
+      ]
+    },
+    {
+      "Route": "ChietaApp.styles.css.gz",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\r14fuvwmtm-tw4sc55izp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"loM19x97HL78BfeuyKoxo++ATArnZiOIo0DdVXOf0bs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 22:19:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-loM19x97HL78BfeuyKoxo++ATArnZiOIo0DdVXOf0bs="
+        }
+      ]
+    },
+    {
+      "Route": "ChietaApp.tw4sc55izp.bundle.scp.css",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\btc5k7c35h-tw4sc55izp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000614628150"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1626"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"loM19x97HL78BfeuyKoxo++ATArnZiOIo0DdVXOf0bs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 22:19:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3Zcff9htpeg6CZoI6EVjFl01izVzt6aBBm2b9obt3rQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tw4sc55izp"
+        },
+        {
+          "Name": "label",
+          "Value": "ChietaApp.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3Zcff9htpeg6CZoI6EVjFl01izVzt6aBBm2b9obt3rQ="
+        }
+      ]
+    },
+    {
+      "Route": "ChietaApp.tw4sc55izp.bundle.scp.css",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\projectbundle\\ChietaApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3Zcff9htpeg6CZoI6EVjFl01izVzt6aBBm2b9obt3rQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 22:19:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tw4sc55izp"
+        },
+        {
+          "Name": "label",
+          "Value": "ChietaApp.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3Zcff9htpeg6CZoI6EVjFl01izVzt6aBBm2b9obt3rQ="
+        }
+      ]
+    },
+    {
+      "Route": "ChietaApp.tw4sc55izp.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\btc5k7c35h-tw4sc55izp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"loM19x97HL78BfeuyKoxo++ATArnZiOIo0DdVXOf0bs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 22:19:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tw4sc55izp"
+        },
+        {
+          "Name": "label",
+          "Value": "ChietaApp.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-loM19x97HL78BfeuyKoxo++ATArnZiOIo0DdVXOf0bs="
+        }
+      ]
+    },
+    {
+      "Route": "ChietaApp.tw4sc55izp.styles.css",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\r14fuvwmtm-tw4sc55izp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000614628150"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1626"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"loM19x97HL78BfeuyKoxo++ATArnZiOIo0DdVXOf0bs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 22:19:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3Zcff9htpeg6CZoI6EVjFl01izVzt6aBBm2b9obt3rQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tw4sc55izp"
+        },
+        {
+          "Name": "label",
+          "Value": "ChietaApp.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3Zcff9htpeg6CZoI6EVjFl01izVzt6aBBm2b9obt3rQ="
+        }
+      ]
+    },
+    {
+      "Route": "ChietaApp.tw4sc55izp.styles.css",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\ChietaApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3Zcff9htpeg6CZoI6EVjFl01izVzt6aBBm2b9obt3rQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 22:19:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tw4sc55izp"
+        },
+        {
+          "Name": "label",
+          "Value": "ChietaApp.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3Zcff9htpeg6CZoI6EVjFl01izVzt6aBBm2b9obt3rQ="
+        }
+      ]
+    },
+    {
+      "Route": "ChietaApp.tw4sc55izp.styles.css.gz",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\r14fuvwmtm-tw4sc55izp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"loM19x97HL78BfeuyKoxo++ATArnZiOIo0DdVXOf0bs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 22:19:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tw4sc55izp"
+        },
+        {
+          "Name": "label",
+          "Value": "ChietaApp.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-loM19x97HL78BfeuyKoxo++ATArnZiOIo0DdVXOf0bs="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.8whpw7uog5.css",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\9w8ash39pw-8whpw7uog5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001721170396"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "580"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6HxVtdzWxBJuYHiGkt817yDxBIWB8SsZQlRI9pdU73Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 22:11:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2KL+IQBmjJ1+/sQSOgOMZbxH5zZdHwvgL52+KL8t/80=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8whpw7uog5"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2KL+IQBmjJ1+/sQSOgOMZbxH5zZdHwvgL52+KL8t/80="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.8whpw7uog5.css",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1788"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2KL+IQBmjJ1+/sQSOgOMZbxH5zZdHwvgL52+KL8t/80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 22:11:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8whpw7uog5"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2KL+IQBmjJ1+/sQSOgOMZbxH5zZdHwvgL52+KL8t/80="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.8whpw7uog5.css.gz",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\9w8ash39pw-8whpw7uog5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "580"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6HxVtdzWxBJuYHiGkt817yDxBIWB8SsZQlRI9pdU73Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 22:11:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8whpw7uog5"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6HxVtdzWxBJuYHiGkt817yDxBIWB8SsZQlRI9pdU73Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\9w8ash39pw-8whpw7uog5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001721170396"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "580"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6HxVtdzWxBJuYHiGkt817yDxBIWB8SsZQlRI9pdU73Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 22:11:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2KL+IQBmjJ1+/sQSOgOMZbxH5zZdHwvgL52+KL8t/80=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2KL+IQBmjJ1+/sQSOgOMZbxH5zZdHwvgL52+KL8t/80="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1788"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2KL+IQBmjJ1+/sQSOgOMZbxH5zZdHwvgL52+KL8t/80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 22:11:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2KL+IQBmjJ1+/sQSOgOMZbxH5zZdHwvgL52+KL8t/80="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css.gz",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\9w8ash39pw-8whpw7uog5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "580"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6HxVtdzWxBJuYHiGkt817yDxBIWB8SsZQlRI9pdU73Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 22:11:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6HxVtdzWxBJuYHiGkt817yDxBIWB8SsZQlRI9pdU73Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\byu1sj4xpy-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041844506"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 13:22:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 13:22:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css.gz",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\byu1sj4xpy-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 13:22:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\byu1sj4xpy-6gzpyzhau4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041844506"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 13:22:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 13:22:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\053obva0vb-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013350065"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 13:22:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 13:22:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map.gz",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\053obva0vb-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 13:22:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.gz",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\byu1sj4xpy-6gzpyzhau4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 13:22:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\053obva0vb-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013350065"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 13:22:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 13:22:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map.gz",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\053obva0vb-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 13:22:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU="
+        }
+      ]
+    },
+    {
+      "Route": "images/chietalogo.2i5ozeg6ab.png",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\images\\chietalogo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6620"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JlNcZLU+k3XBKy8/NxcTPxZ3ZuUvBwpgxMZIUPbl+oY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:53:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2i5ozeg6ab"
+        },
+        {
+          "Name": "label",
+          "Value": "images/chietalogo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JlNcZLU+k3XBKy8/NxcTPxZ3ZuUvBwpgxMZIUPbl+oY="
+        }
+      ]
+    },
+    {
+      "Route": "images/chietalogo.png",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\images\\chietalogo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6620"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JlNcZLU+k3XBKy8/NxcTPxZ3ZuUvBwpgxMZIUPbl+oY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 08:53:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JlNcZLU+k3XBKy8/NxcTPxZ3ZuUvBwpgxMZIUPbl+oY="
+        }
+      ]
+    },
+    {
+      "Route": "index.asx38bmddw.html",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\e25xx7drf2-asx38bmddw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002283105023"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "437"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z6lvUPn2TFE8UiO/qvuNmmZ1hcieMqqs57P04A0oLek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 13:22:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Nn5Zm/Q9tbi1OrtsYmBheS8oslrbQlzlttitL0HC0js=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "asx38bmddw"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nn5Zm/Q9tbi1OrtsYmBheS8oslrbQlzlttitL0HC0js="
+        }
+      ]
+    },
+    {
+      "Route": "index.asx38bmddw.html",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nn5Zm/Q9tbi1OrtsYmBheS8oslrbQlzlttitL0HC0js=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 13:22:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "asx38bmddw"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nn5Zm/Q9tbi1OrtsYmBheS8oslrbQlzlttitL0HC0js="
+        }
+      ]
+    },
+    {
+      "Route": "index.asx38bmddw.html.gz",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\e25xx7drf2-asx38bmddw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "437"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z6lvUPn2TFE8UiO/qvuNmmZ1hcieMqqs57P04A0oLek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 13:22:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "asx38bmddw"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z6lvUPn2TFE8UiO/qvuNmmZ1hcieMqqs57P04A0oLek="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\e25xx7drf2-asx38bmddw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002283105023"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "437"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z6lvUPn2TFE8UiO/qvuNmmZ1hcieMqqs57P04A0oLek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 13:22:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Nn5Zm/Q9tbi1OrtsYmBheS8oslrbQlzlttitL0HC0js=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nn5Zm/Q9tbi1OrtsYmBheS8oslrbQlzlttitL0HC0js="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nn5Zm/Q9tbi1OrtsYmBheS8oslrbQlzlttitL0HC0js=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 13:22:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nn5Zm/Q9tbi1OrtsYmBheS8oslrbQlzlttitL0HC0js="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\compressed\\e25xx7drf2-asx38bmddw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "437"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z6lvUPn2TFE8UiO/qvuNmmZ1hcieMqqs57P04A0oLek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 13:22:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z6lvUPn2TFE8UiO/qvuNmmZ1hcieMqqs57P04A0oLek="
+        }
+      ]
+    }
+  ]
+}

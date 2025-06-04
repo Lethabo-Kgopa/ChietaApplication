@@ -2,7 +2,8 @@
 
 <div class="welcome-container">
 
-    <img src="images/chietalogo.png" alt="" style="height: 100px;" />
+    <img src="images/chietalogo.png" alt="CHiETA Logo" style="height: 100px;" />
+
 
 
     <br />
@@ -29,7 +30,7 @@
     <br /><br />
 
     <p class="register-message">
-        Don't have an account? <a href="#">Register Now</a>
+        Don't have an account? <a href="https://ims.chieta.org.za/account/register"><span>Register Now</span></a>
     </p>
 </div>
 
@@ -37,12 +38,14 @@
 
 
 @code {
-     [Inject]
+    [Inject]
     NavigationManager Navigation { get; set; }
 
     void GoToLogin()
     {
         Navigation.NavigateTo("/login");
     }
+
+   
 
 }

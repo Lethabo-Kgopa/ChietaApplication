@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Id": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\images\\chietalogo.png",
+      "PackagePath": "staticwebassets\\images\\chietalogo.png"
+    },
+    {
       "Id": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },

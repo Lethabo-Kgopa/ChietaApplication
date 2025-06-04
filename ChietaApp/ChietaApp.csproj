@@ -69,4 +69,14 @@
       <MauiImage Update="Resources\Images\dotnet_bot.svg" BaseSize="168,208" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Models\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Update="wwwroot\images\chietalogo.png">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+    </ItemGroup>
+
 </Project>

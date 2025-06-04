@@ -5,4 +5,5 @@ C:\Users\lkgopa\source\repos\CHIETAMobileApp\ChietaApp\ChietaApp\wwwroot\index.h
 wwwroot\css\app.css
 wwwroot\css\bootstrap\bootstrap.min.css
 wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\images\chietalogo.png
 wwwroot\index.html
