@@ -7,6 +7,7 @@
 package androidx.viewpager;
 
 public final class R {
+<<<<<<< HEAD
 	public static final class attr {
 		public static final int alpha = 0x7f030031;
 		public static final int font = 0x7f03020d;
@@ -158,4 +159,6 @@ public final class R {
 		public static final int GradientColorItem_android_color = 0;
 		public static final int GradientColorItem_android_offset = 1;
 	}
+=======
+>>>>>>> ff3d6be12746b10a9c128fb2680e2a3655712489
 }

@@ -11,14 +11,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyMetadataAttribute("Microsoft.Maui.ApplicationModel.AppInfo.PackageName", "com.companyname.chietaapp")]
-[assembly: System.Reflection.AssemblyMetadataAttribute("Microsoft.Maui.ApplicationModel.AppInfo.PublisherName", "User Name")]
-[assembly: System.Reflection.AssemblyMetadataAttribute("Microsoft.Maui.ApplicationModel.AppInfo.Name", "ChietaApp")]
-[assembly: System.Reflection.AssemblyMetadataAttribute("Microsoft.Maui.ApplicationModel.AppInfo.Version", "1.0.0.1")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChietaApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+258192526efb0e07b38f0504f06f31731bc001cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6801ba89b2751bc5e4b42e7d8eddab5ae5932d0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChietaApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChietaApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
