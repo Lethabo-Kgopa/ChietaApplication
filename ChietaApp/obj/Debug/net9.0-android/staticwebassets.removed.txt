@@ -1,4 +1,0 @@
-C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\wwwroot\css\app.css
-C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\wwwroot\css\bootstrap\bootstrap.min.css
-C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\wwwroot\css\bootstrap\bootstrap.min.css.map
-C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\wwwroot\index.html
