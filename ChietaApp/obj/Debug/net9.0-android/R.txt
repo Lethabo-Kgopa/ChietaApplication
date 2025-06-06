@@ -1,4 +1,0 @@
-int attr swipeRefreshLayoutProgressSpinnerBackgroundColor 0x7f010000
-int raw aboutassets 0x7f020000
-int[] styleable SwipeRefreshLayout { 0x7f010000 }
-int styleable SwipeRefreshLayout_swipeRefreshLayoutProgressSpinnerBackgroundColor 0
