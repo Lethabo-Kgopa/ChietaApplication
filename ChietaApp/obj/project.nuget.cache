@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "EUQJhFOKVm4=",
+=======
+  "dgSpecHash": "mwwNW9PwSRU=",
+>>>>>>> Stashed changes
   "success": true,
   "projectFilePath": "C:\\Users\\Smart_Room2\\Desktop\\application\\ChietaApp\\ChietaApp.csproj",
   "expectedPackageFiles": [
