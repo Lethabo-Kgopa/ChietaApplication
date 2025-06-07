@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<<<<<<< Updated upstream
     <item name="report_drawn" type="id"/>
     <id name="view_tree_on_back_pressed_dispatcher_owner"/>
+=======
+    <declare-styleable name="SwipeRefreshLayout">
+        <!-- Background color for SwipeRefreshLayout progress spinner. -->
+        <attr format="color" name="swipeRefreshLayoutProgressSpinnerBackgroundColor"/>
+    </declare-styleable>
+>>>>>>> Stashed changes
 </resources>

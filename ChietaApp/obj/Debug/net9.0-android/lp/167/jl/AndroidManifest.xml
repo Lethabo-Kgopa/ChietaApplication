@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< Updated upstream:ChietaApp/obj/Debug/net9.0-android/lp/167/jl/AndroidManifest.xml
 <!--
  Copyright (C) 2020 The Android Open Source Project
 
@@ -16,7 +17,11 @@
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="androidx.savedstate.ktx" >
+=======
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="androidx.annotation.experimental" >
+>>>>>>> Stashed changes:ChietaApp/obj/Debug/net9.0-android/lp/105/jl/AndroidManifest.xml
 
-    <uses-sdk android:minSdkVersion="14" />
+    <uses-sdk android:minSdkVersion="19" />
 
 </manifest>

@@ -25,7 +25,11 @@ os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 _nugetassetsfilehash=04e7d6b3ae248fb565f56544e485499c0f705d3febc6df991733c531a0a5f76b
+=======
+_nugetassetsfilehash=3bd9dcd8f35a142999463865117ee93773314ce179fc927549e238e440278549
+>>>>>>> Stashed changes
 =======
 _nugetassetsfilehash=3bd9dcd8f35a142999463865117ee93773314ce179fc927549e238e440278549
 >>>>>>> Stashed changes

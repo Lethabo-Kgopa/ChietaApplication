@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< Updated upstream:ChietaApp/obj/Debug/net9.0-android/lp/163/jl/AndroidManifest.xml
 <!--
  Copyright (C) 2015 The Android Open Source Project
 
@@ -16,8 +17,12 @@
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.google.android.material" >
+=======
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="androidx.fragment" >
+>>>>>>> Stashed changes:ChietaApp/obj/Debug/net9.0-android/lp/119/jl/AndroidManifest.xml
 
-    <uses-sdk android:minSdkVersion="19" />
+    <uses-sdk android:minSdkVersion="21" />
 
     <application />
 

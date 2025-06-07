@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
+<<<<<<< Updated upstream
   Copyright 2019 The Android Open Source Project
+=======
+  Copyright 2021 The Android Open Source Project
+>>>>>>> Stashed changes
 
   Licensed under the Apache License, Version 2.0 (the "License");
   you may not use this file except in compliance with the License.
@@ -15,8 +19,28 @@
   limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< Updated upstream
     package="androidx.lifecycle.runtime" >
+=======
+    xmlns:tools="http://schemas.android.com/tools"
+    package="androidx.emoji2" >
+>>>>>>> Stashed changes
 
-    <uses-sdk android:minSdkVersion="19" />
+    <uses-sdk android:minSdkVersion="21" />
 
+<<<<<<< Updated upstream
+=======
+    <application>
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="${applicationId}.androidx-startup"
+            android:exported="false"
+            tools:node="merge" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+        </provider>
+    </application>
+
+>>>>>>> Stashed changes
 </manifest>

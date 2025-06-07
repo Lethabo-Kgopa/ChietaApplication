@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< Updated upstream:ChietaApp/obj/Debug/net9.0-android/lp/176/jl/AndroidManifest.xml
     package="androidx.fragment.ktx" >
+=======
+    package="androidx.viewpager2" >
+>>>>>>> Stashed changes:ChietaApp/obj/Debug/net9.0-android/lp/120/jl/AndroidManifest.xml
 
-    <uses-sdk android:minSdkVersion="21" />
+    <uses-sdk android:minSdkVersion="19" />
 
 </manifest>

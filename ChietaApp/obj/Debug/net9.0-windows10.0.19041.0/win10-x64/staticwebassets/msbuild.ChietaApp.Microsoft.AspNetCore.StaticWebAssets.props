@@ -17,7 +17,11 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <FileLength>5481</FileLength>
+<<<<<<< Updated upstream
       <LastWriteTime>Sat, 07 Jun 2025 08:17:03 GMT</LastWriteTime>
+=======
+      <LastWriteTime>Sat, 07 Jun 2025 08:52:26 GMT</LastWriteTime>
+>>>>>>> Stashed changes
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ChietaApp.styles.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))">
@@ -37,7 +41,11 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <FileLength>5346</FileLength>
+<<<<<<< Updated upstream
       <LastWriteTime>Sat, 07 Jun 2025 08:31:30 GMT</LastWriteTime>
+=======
+      <LastWriteTime>Sat, 07 Jun 2025 08:40:21 GMT</LastWriteTime>
+>>>>>>> Stashed changes
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrap\bootstrap.min.css'))">
@@ -97,7 +105,11 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <FileLength>6620</FileLength>
+<<<<<<< Updated upstream
       <LastWriteTime>Sat, 07 Jun 2025 08:31:30 GMT</LastWriteTime>
+=======
+      <LastWriteTime>Sat, 07 Jun 2025 08:40:21 GMT</LastWriteTime>
+>>>>>>> Stashed changes
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\chietalogo.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Landing1.jpg'))">
@@ -117,7 +129,11 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <FileLength>21436</FileLength>
+<<<<<<< Updated upstream
       <LastWriteTime>Sat, 07 Jun 2025 08:31:30 GMT</LastWriteTime>
+=======
+      <LastWriteTime>Sat, 07 Jun 2025 08:40:21 GMT</LastWriteTime>
+>>>>>>> Stashed changes
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Landing1.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Landing2.jpg'))">
@@ -137,7 +153,11 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <FileLength>32523</FileLength>
+<<<<<<< Updated upstream
       <LastWriteTime>Sat, 07 Jun 2025 08:31:30 GMT</LastWriteTime>
+=======
+      <LastWriteTime>Sat, 07 Jun 2025 08:40:21 GMT</LastWriteTime>
+>>>>>>> Stashed changes
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Landing2.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))">

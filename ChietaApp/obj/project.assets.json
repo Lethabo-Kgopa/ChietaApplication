@@ -7907,6 +7907,9 @@
     "net9.0-android35.0/iossimulator-x64": {
 =======
     "net9.0-android35.0/ios-arm64": {
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       "GoogleGson/2.11.0.5": {
         "type": "package",
@@ -17958,7 +17961,11 @@
       }
     },
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "net9.0-ios18.4/iossimulator-x64": {
+=======
+    "net9.0-ios18.4/ios-arm64": {
+>>>>>>> Stashed changes
 =======
     "net9.0-ios18.4/ios-arm64": {
 >>>>>>> Stashed changes
@@ -22258,7 +22265,11 @@
       }
     },
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "net9.0-maccatalyst18.4/iossimulator-x64": {
+=======
+    "net9.0-maccatalyst18.4/ios-arm64": {
+>>>>>>> Stashed changes
 =======
     "net9.0-maccatalyst18.4/ios-arm64": {
 >>>>>>> Stashed changes

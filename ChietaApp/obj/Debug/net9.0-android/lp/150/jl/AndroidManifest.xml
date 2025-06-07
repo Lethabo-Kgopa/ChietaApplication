@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< Updated upstream
 <!--
  Copyright (C) 2014 The Android Open Source Project
 
@@ -18,5 +19,11 @@
     package="androidx.legacy.coreutils" >
 
     <uses-sdk android:minSdkVersion="14" />
+=======
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="androidx.activity.ktx" >
+
+    <uses-sdk android:minSdkVersion="19" />
+>>>>>>> Stashed changes
 
 </manifest>

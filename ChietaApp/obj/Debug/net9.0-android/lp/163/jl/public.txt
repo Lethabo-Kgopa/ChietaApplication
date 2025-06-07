@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream:ChietaApp/obj/Debug/net9.0-android/lp/163/jl/public.txt
 style Animation_Design_BottomSheetDialog
 style MaterialAlertDialog_Material3
 style MaterialAlertDialog_Material3_Body_Text
@@ -1154,3 +1155,5 @@ attr verticalOffset
 attr yearSelectedStyle
 attr yearStyle
 attr yearTodayStyle
+=======
+>>>>>>> Stashed changes:ChietaApp/obj/Debug/net9.0-android/lp/140/jl/public.txt

@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 int attr alpha 0x0
 int attr font 0x0
 int attr fontProviderAuthority 0x0
@@ -172,3 +173,6 @@ int styleable GradientColorItem_android_color 0
 int styleable GradientColorItem_android_offset 1
 int[] styleable SwipeRefreshLayout { 0x0 }
 int styleable SwipeRefreshLayout_swipeRefreshLayoutProgressSpinnerBackgroundColor 0
+=======
+int id view_tree_lifecycle_owner 0x0
+>>>>>>> Stashed changes

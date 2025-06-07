@@ -15,8 +15,21 @@
      limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< Updated upstream
     package="androidx.interpolator" >
+=======
+    xmlns:tools="http://schemas.android.com/tools"
+    package="androidx.startup" >
+>>>>>>> Stashed changes
 
-    <uses-sdk android:minSdkVersion="14" />
+    <uses-sdk android:minSdkVersion="21" />
+
+    <application>
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="${applicationId}.androidx-startup"
+            android:exported="false"
+            tools:node="merge" />
+    </application>
 
 </manifest>
