@@ -1,0 +1,153 @@
+﻿@page "/"
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mandatory Grant Application</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+        }
+
+        .container {
+            width: 300px; /* Adjusted width to simulate mobile screen */
+            margin: auto;
+            padding: 0;
+            background-color: white;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        .header {
+            background-color: #7b2f7f; /* Purple */
+            color: white;
+            padding: 10px;
+            border-radius: 8px 8px 0 0;
+        }
+
+            .header h2 {
+                margin: 0;
+                font-size: 16px;
+            }
+
+            .header p {
+                margin: 0;
+                font-size: 12px;
+            }
+
+        .nav-tabs {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            border-bottom: 1px solid #ddd;
+        }
+
+            .nav-tabs li {
+                padding: 10px;
+                cursor: pointer;
+                font-size: 14px;
+            }
+
+                .nav-tabs li.active {
+                    border-bottom: 2px solid #6c2f7f; /* Purple color */
+                    color: #642f7f;
+                }
+
+        .form-group {
+            margin-bottom: 20px;
+            padding: 0 10px;
+        }
+
+            .form-group label {
+                display: block;
+                margin-bottom: 5px;
+                font-size: 14px;
+            }
+
+            .form-group input {
+                width: 100%;
+                padding: 10px;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+                font-size: 14px;
+            }
+
+                .form-group input[readonly] {
+                    background-color: #f0f0f0;
+                }
+
+        .bottom-nav {
+            background-color: #7b2f7f; /* Dark blue color */
+            padding: 10px;
+            border-radius: 0 0 8px 8px;
+            display: flex;
+            justify-content: space-around;
+        }
+
+            .bottom-nav button {
+                background-color: transparent;
+                border: none;
+                color: white;
+                cursor: pointer;
+            }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="header">
+            <h2>Mandatory Grant Application</h2>
+            <p>MG 2023 - Mandatory Grants 2023</p>
+        </div>
+        <ul class="nav-tabs">
+            <li class="active">SDF Details</li>
+            <li>Summary</li>
+            <li>Payment Overview</li>
+            <li>Downloads</li>
+        </ul>
+        <form>
+            <div class="form-group">
+                <label for="destination">Destination</label>
+                <input type="text" id="destination" value="SDF" readonly>
+            </div>
+            <div class="form-group">
+                <label for="title">Title</label>
+                <input type="text" id="title" value="Mrs">
+            </div>
+            <div class="form-group">
+                <label for="firstName">First Name</label>
+                <input type="text" id="firstName" value="">
+            </div>
+            <div class="form-group">
+                <label for="middleName">Middle Name</label>
+                <input type="text" id="middleName" value="">
+            </div>
+            <div class="form-group">
+                <label for="lastName">Last Name</label>
+                <input type="text" id="lastName" value="">
+            </div>
+            <div class="form-group">
+                <label for="email">Email Address</label>
+                <input type="email" id="email" value="">
+            </div>
+        </form>
+        <div class="bottom-nav">
+            <button>&#8592; home</button>
+            <button> Lesedi Student bursary &amp;</button>
+
+            <button>Save &amp; Continue</button>
+        </div>
+
+
+    </div>
+
+</body>
+</html>
+
+@code {
+
+}

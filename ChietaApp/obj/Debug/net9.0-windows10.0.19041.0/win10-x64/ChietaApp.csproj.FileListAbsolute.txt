@@ -1,0 +1,5 @@
+C:\Users\Smart_Room2\Desktop\application\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\ChietaApp.csproj.AssemblyReference.cache
+C:\Users\Smart_Room2\Desktop\application\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Smart_Room2\Desktop\application\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\Smart_Room2\Desktop\application\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\ChietaApp.styles.css
+C:\Users\Smart_Room2\Desktop\application\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\ChietaApp.bundle.scp.css
