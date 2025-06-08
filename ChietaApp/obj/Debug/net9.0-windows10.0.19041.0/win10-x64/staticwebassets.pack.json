@@ -9,18 +9,6 @@
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile App\\ChietaApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
-    },
-    {
-      "Id": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile App\\ChietaApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile App\\ChietaApp\\wwwroot\\index.html",
-      "PackagePath": "staticwebassets\\index.html"
-    },
-    {
       "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.ChietaApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

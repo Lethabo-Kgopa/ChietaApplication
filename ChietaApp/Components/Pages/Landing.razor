@@ -2,13 +2,14 @@
 
 <div class="welcome-container">
 
-    <img src="images/chietalogo.png" alt="" style="height: 100px;" />
+    <img src="images/chietalogo.png" alt="CHiETA Logo" style="height: 100px;" />
+
 
 
     <br />
     <br />
 
-    <h2 class="welcome-heading">Welcome to Chieta!</h2>
+    <h2 class="welcome-heading">Welcome!</h2>
 
     <p>
         Access discretionary & mandatory grants,<br />
@@ -18,9 +19,15 @@
 
     <br />
 
-    <p><em>[Another image will be here]</em></p>
+    <div class="image-container">
+        <img src="images/Landing1.jpg" alt="CHiETA Logo" class="circle-image first" />
+        <img src="images/Landing2.jpg" alt="CHiETA Logo" class="circle-image second" />
+        <div class="decorative-circle"></div>
+    </div>
 
     <br />
+    <br/>
+    <br/>
 
     <button class="login-button" @onclick="GoToLogin">
         Login
@@ -29,7 +36,7 @@
     <br /><br />
 
     <p class="register-message">
-        Don't have an account? <a href="#">Register Now</a>
+        Don't have an account? <a href="https://ims.chieta.org.za/account/login"><span>Register</span></a>
     </p>
 </div>
 
@@ -37,12 +44,14 @@
 
 
 @code {
-     [Inject]
+    [Inject]
     NavigationManager Navigation { get; set; }
 
     void GoToLogin()
     {
         Navigation.NavigateTo("/login");
     }
+
+   
 
 }

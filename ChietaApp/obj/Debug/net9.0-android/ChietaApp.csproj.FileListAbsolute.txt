@@ -1,3 +1,4 @@
+C:\Users\lkgopa\source\repos\CHIETAMobileApp\ChietaApp\ChietaApp\bin\Debug\net9.0-android\wwwroot\images\chietalogo.png
 C:\Users\lkgopa\source\repos\CHIETAMobileApp\ChietaApp\ChietaApp\bin\Debug\net9.0-android\ChietaApp.staticwebassets.endpoints.json
 C:\Users\lkgopa\source\repos\CHIETAMobileApp\ChietaApp\ChietaApp\bin\Debug\net9.0-android\ChietaApp.runtimeconfig.json
 C:\Users\lkgopa\source\repos\CHIETAMobileApp\ChietaApp\ChietaApp\bin\Debug\net9.0-android\ChietaApp.dll
@@ -977,6 +978,7 @@ C:\Users\lkgopa\source\repos\CHIETAMobileApp\ChietaApp\ChietaApp\obj\Debug\net9.
 C:\Users\lkgopa\source\repos\CHIETAMobileApp\ChietaApp\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\css\app.css
 C:\Users\lkgopa\source\repos\CHIETAMobileApp\ChietaApp\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\css\bootstrap\bootstrap.min.css
 C:\Users\lkgopa\source\repos\CHIETAMobileApp\ChietaApp\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\lkgopa\source\repos\CHIETAMobileApp\ChietaApp\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\images\chietalogo.png
 C:\Users\lkgopa\source\repos\CHIETAMobileApp\ChietaApp\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\index.html
 C:\Users\lkgopa\source\repos\CHIETAMobileApp\ChietaApp\ChietaApp\obj\Debug\net9.0-android\assets\OpenSans-Regular.ttf
 C:\Users\lkgopa\source\repos\CHIETAMobileApp\ChietaApp\ChietaApp\obj\Debug\net9.0-android\android\bin\packaged_resources
@@ -999,9 +1001,16 @@ C:\Users\lkgopa\source\repos\CHIETAMobileApp\ChietaApp\ChietaApp\obj\Debug\net9.
 C:\Users\lkgopa\source\repos\CHIETAMobileApp\ChietaApp\ChietaApp\obj\Debug\net9.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\lkgopa\source\repos\CHIETAMobileApp\ChietaApp\ChietaApp\obj\Debug\net9.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\lkgopa\source\repos\CHIETAMobileApp\ChietaApp\ChietaApp\obj\Debug\net9.0-android\stamp\_ResolveLibraryProjectImports.stamp
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\CHIETAMobileApp\ChietaApp\ChietaApp\obj\Debug\net9.0-android\resizetizer\r\drawable\chietalogo.png
 C:\Users\lkgopa\source\repos\CHIETAMobileApp\ChietaApp\ChietaApp\obj\Debug\net9.0-android\compressed\9w8ash39pw-s5m7a7gswt.gz
 C:\Users\lkgopa\source\repos\CHIETAMobileApp\ChietaApp\ChietaApp\obj\Debug\net9.0-android\compressed\publish\9w8ash39pw-s5m7a7gswt.br
+=======
+C:\Users\lkgopa\source\repos\CHIETAMobileApp\ChietaApp\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\images\Landing1.jpg
+C:\Users\lkgopa\source\repos\CHIETAMobileApp\ChietaApp\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\images\Landing2.jpg
+C:\Users\lkgopa\source\repos\CHIETAMobileApp\ChietaApp\ChietaApp\obj\Debug\net9.0-android\compressed\9w8ash39pw-avrpsqdqv7.gz
+C:\Users\lkgopa\source\repos\CHIETAMobileApp\ChietaApp\ChietaApp\obj\Debug\net9.0-android\compressed\publish\9w8ash39pw-avrpsqdqv7.br
+>>>>>>> bece8aa99f4be9c1d271cca79c2f90865090b116
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\bin\Debug\net9.0-android\ChietaApp.staticwebassets.endpoints.json
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\bin\Debug\net9.0-android\ChietaApp.runtimeconfig.json
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\bin\Debug\net9.0-android\ChietaApp.dll
@@ -1022,9 +1031,7 @@ C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-and
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\scopedcss\bundle\ChietaApp.styles.css
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\scopedcss\projectbundle\ChietaApp.bundle.scp.css
-C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\compressed\byu1sj4xpy-6gzpyzhau4.gz
-C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\compressed\053obva0vb-8inm30yfxf.gz
-C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\compressed\e25xx7drf2-asx38bmddw.gz
+C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\compressed\9w8ash39pw-zbqterjfcf.gz
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\compressed\r14fuvwmtm-tw4sc55izp.gz
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\compressed\btc5k7c35h-tw4sc55izp.gz
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\staticwebassets.build.json
@@ -1038,9 +1045,7 @@ C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-and
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\staticwebassets\msbuild.buildTransitive.ChietaApp.props
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\staticwebassets.pack.json
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\staticwebassets.upToDateCheck.txt
-C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\compressed\publish\byu1sj4xpy-6gzpyzhau4.br
-C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\compressed\publish\053obva0vb-8inm30yfxf.br
-C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\compressed\publish\e25xx7drf2-asx38bmddw.br
+C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\compressed\publish\9w8ash39pw-zbqterjfcf.br
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\compressed\publish\r14fuvwmtm-tw4sc55izp.br
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\compressed\publish\btc5k7c35h-tw4sc55izp.br
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\staticwebassets.publish.json
@@ -1066,7 +1071,6 @@ C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-and
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\resizetizer\r\drawable-xhdpi\dotnet_bot.png
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\resizetizer\r\drawable-xxhdpi\dotnet_bot.png
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\resizetizer\r\drawable-xxxhdpi\dotnet_bot.png
-C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\resizetizer\r\drawable\chietalogo.png
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\resizetizer\r\mipmap-anydpi-v26\appicon.xml
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\resizetizer\r\mipmap-anydpi-v26\appicon_round.xml
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\resizetizer\r\mipmap-hdpi\appicon.png
@@ -1982,24 +1986,15 @@ C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-and
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEndIconChangedListenerImplementor.java
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\android\src\mono\MonoPackageManager_Resources.java
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\assets\AboutAssets.txt
-C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\css\bootstrap\bootstrap.min.css.map.gz
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\css\app.css.gz
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\ChietaApp.tw4sc55izp.bundle.scp.css.gz
-C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\css\bootstrap\bootstrap.min.css.gz
-C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\index.html.gz
-C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\css\bootstrap\bootstrap.min.css.map.br
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\css\app.css.br
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\ChietaApp.tw4sc55izp.bundle.scp.css.br
-C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\css\bootstrap\bootstrap.min.css.br
-C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\index.html.br
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\ChietaApp.styles.css.br
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\ChietaApp.styles.css.gz
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\ChietaApp.styles.css
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\ChietaApp.tw4sc55izp.bundle.scp.css
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\css\app.css
-C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\css\bootstrap\bootstrap.min.css
-C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\css\bootstrap\bootstrap.min.css.map
-C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\index.html
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\assets\OpenSans-Regular.ttf
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\android\bin\packaged_resources
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\android\src\com\companyname\chietaapp\R.java
@@ -2021,5 +2016,5 @@ C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-and
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\stamp\_ResolveLibraryProjectImports.stamp
-C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\compressed\9w8ash39pw-bh2dvam66l.gz
-C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\compressed\publish\9w8ash39pw-bh2dvam66l.br
+C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\compressed\9w8ash39pw-t9dflmdx1v.gz
+C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\compressed\publish\9w8ash39pw-t9dflmdx1v.br
