@@ -1,0 +1,4 @@
+wwwroot\css\App.css
+wwwroot\index.html
+C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\wwwroot\css\App.css
+C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\wwwroot\index.html
