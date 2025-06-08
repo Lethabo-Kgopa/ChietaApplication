@@ -2018,3 +2018,5 @@ C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-and
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\compressed\9w8ash39pw-t9dflmdx1v.gz
 C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\compressed\publish\9w8ash39pw-t9dflmdx1v.br
+C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\compressed\f0k85rtv8j-t9dflmdx1v.gz
+C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\obj\Debug\net9.0-android\compressed\publish\f0k85rtv8j-t9dflmdx1v.br
