@@ -9,6 +9,7 @@
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
+<<<<<<< HEAD
       "Id": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile App\\ChietaApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
@@ -29,6 +30,8 @@
       "PackagePath": "staticwebassets\\images\\chietalogo.png"
     },
     {
+=======
+>>>>>>> NT_Dev
       "Id": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile App\\ChietaApp\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },

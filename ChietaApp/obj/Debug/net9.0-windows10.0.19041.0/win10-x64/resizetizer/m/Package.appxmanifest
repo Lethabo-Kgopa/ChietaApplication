@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:rescap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities" IgnorableNamespaces="uap rescap">
-  <Identity Name="com.companyname.chietaapp" Publisher="CN=User Name" Version="1.0.0.1" />
+  <Identity Name="com.companyname.chietaapp" Publisher="CN=User Name" Version="0.0.0.0" />
   <mp:PhoneIdentity PhoneProductId="5F02AFA7-84DD-46A2-BDFA-FD451F5667A6" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>ChietaApp</DisplayName>

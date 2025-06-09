@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 int anim abc_fade_in 0x0
 int anim abc_fade_out 0x0
 int anim abc_grow_fade_in_from_bottom 0x0
@@ -6706,3 +6707,5 @@ int[] styleable ViewStubCompat { 0x10100d0, 0x10100f3, 0x10100f2 }
 int styleable ViewStubCompat_android_id 0
 int styleable ViewStubCompat_android_inflatedId 1
 int styleable ViewStubCompat_android_layout 2
+=======
+>>>>>>> NT_Dev

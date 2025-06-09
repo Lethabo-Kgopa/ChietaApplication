@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "MWxjFPcuHZs=",
+=======
+  "dgSpecHash": "8Z4yF3xNB/4=",
+>>>>>>> NT_Dev
   "success": true,
   "projectFilePath": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile App\\ChietaApp\\ChietaApp.csproj",
   "expectedPackageFiles": [

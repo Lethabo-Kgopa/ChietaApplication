@@ -32,10 +32,11 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>avrpsqdqv7</Fingerprint>
-      <Integrity>qhJaMnyKYaSFSU/6mtg0gOEmJe3k8v1jQgM7KmxqVVA=</Integrity>
+      <Fingerprint>u6mgjw4z0s</Fingerprint>
+      <Integrity>qrj5srTxyDL0PQ0XkBcNi0ZEyQzJ+tZKzEWnD9E7GPg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
       <FileLength>5346</FileLength>
       <LastWriteTime>Mon, 09 Jun 2025 09:28:02 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))</OriginalItemSpec>
@@ -140,6 +141,12 @@
       <LastWriteTime>Mon, 09 Jun 2025 09:28:02 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Landing2.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+=======
+      <FileLength>4877</FileLength>
+      <LastWriteTime>Sun, 08 Jun 2025 17:43:25 GMT</LastWriteTime>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+>>>>>>> NT_Dev
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))">
       <SourceType>Package</SourceType>
       <SourceId>ChietaApp</SourceId>
@@ -152,12 +159,17 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>asx38bmddw</Fingerprint>
-      <Integrity>Nn5Zm/Q9tbi1OrtsYmBheS8oslrbQlzlttitL0HC0js=</Integrity>
+      <Fingerprint>m312kmym3l</Fingerprint>
+      <Integrity>Er68aRlbFClkkpLQM8wsLkbZn6cCg/YupN4bHhQIPpI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
       <FileLength>851</FileLength>
       <LastWriteTime>Mon, 09 Jun 2025 09:28:02 GMT</LastWriteTime>
+=======
+      <FileLength>307</FileLength>
+      <LastWriteTime>Sun, 08 Jun 2025 13:25:48 GMT</LastWriteTime>
+>>>>>>> NT_Dev
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>

@@ -15,8 +15,9 @@
      limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="androidx.core" >
+    package="androidx.customview" >
 
+<<<<<<< HEAD
     <uses-sdk android:minSdkVersion="21" />
 
     <permission
@@ -26,5 +27,10 @@
     <uses-permission android:name="${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 
     <application android:appComponentFactory="androidx.core.app.CoreComponentFactory" />
+=======
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="29" />
+>>>>>>> NT_Dev
 
 </manifest>
