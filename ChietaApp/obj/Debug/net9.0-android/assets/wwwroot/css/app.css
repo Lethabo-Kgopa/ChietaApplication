@@ -174,3 +174,112 @@
         color: #f9a825;
         font-weight: bold;
     }
+<<<<<<< HEAD
+=======
+
+.grant-header {
+    background-color: #3d2057;
+    color: #fff;
+    padding: 20px;
+    border-bottom-right-radius: 80px;
+    text-align: left;
+}
+
+    .grant-header h2 {
+        margin: 0;
+        font-size: 20px;
+        font-weight: bold;
+        color: #fdb913;
+    }
+
+    .grant-header p {
+        margin: 5px 0 0;
+        font-size: 14px;
+    }
+
+.back-button {
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.tabs {
+    display: flex;
+    background-color: white;
+    padding: 10px 15px;
+    overflow-x: auto;
+    border-bottom: 1px solid #ccc;
+}
+
+.tab {
+    padding: 10px 15px;
+    border: none;
+    background: none;
+    font-weight: bold;
+    color: #444;
+    margin-right: 10px;
+    border-bottom: 3px solid transparent;
+}
+
+    .tab.active {
+        border-bottom: 3px solid #3d2057;
+        color: #3d2057;
+    }
+
+.form-section {
+    padding: 20px;
+}
+
+.section-title {
+    background-color: #fdeac7;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 6px;
+    margin-bottom: 20px;
+}
+
+.form-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+    .form-group.full-width {
+        grid-column: span 2;
+    }
+
+.form-control {
+    padding: 10px;
+    border: 1px solid #e0a638;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: white;
+    color: #000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> origin/developing_branch
