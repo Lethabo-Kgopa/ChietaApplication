@@ -1,12 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "MWxjFPcuHZs=",
-=======
-  "dgSpecHash": "8Z4yF3xNB/4=",
->>>>>>> NT_Dev
+  "dgSpecHash": "WmGSeqiWmt4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile App\\ChietaApp\\ChietaApp.csproj",
+  "projectFilePath": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile\\ChietaApp\\ChietaApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Orbit_Welder\\.nuget\\packages\\googlegson\\2.11.0.5\\googlegson.2.11.0.5.nupkg.sha512",
     "C:\\Users\\Orbit_Welder\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.0\\microsoft.aspnetcore.authorization.9.0.0.nupkg.sha512",

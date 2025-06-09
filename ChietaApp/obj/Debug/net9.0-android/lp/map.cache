@@ -169,11 +169,6 @@ glide.aar
 gifdecoder.aar
 Xamarin.Google.Crypto.Tink.Android.aar
 Xamarin.Google.ErrorProne.Annotations.aar
-<<<<<<< HEAD
-Xamarin.Android.Glide.Annotations.aar
-Xamarin.Android.Glide.DiskLruCache.aar
-=======
->>>>>>> NT_Dev
 Xamarin.Google.Guava.ListenableFuture.aar
 Xamarin.Jetbrains.Annotations.aar
 Xamarin.Kotlin.StdLib.aar

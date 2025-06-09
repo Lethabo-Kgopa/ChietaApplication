@@ -17,12 +17,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="androidx.cardview" >
 
-<<<<<<< HEAD
-    <uses-sdk android:minSdkVersion="21" />
-    <!-- package="androidx.constraintlayout.widget" -->
-    <application />
-=======
     <uses-sdk android:minSdkVersion="14" />
->>>>>>> NT_Dev
 
 </manifest>

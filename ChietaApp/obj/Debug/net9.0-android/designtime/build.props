@@ -24,12 +24,8 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-<<<<<<< HEAD
-_nugetassetsfilehash=28212d68d027ba1d16cb0dc2b6966583fbc473972c86afe1c7ec24570d2d39a1
-=======
-_nugetassetsfilehash=494dd9647ba8d663cb4582b28314584c18689130a3064ab63c18a8e6a8c1d35e
->>>>>>> NT_Dev
+_nugetassetsfilehash=5fc785ff4a000b67918029335718032fd01c6794f1f8e2de0a77d5383c0b7d91
 typemapkind=strings-asm
 androidmanifestplaceholders=
-projectfullpath=c:\users\orbit_welder\documents\chieta mobile app\chietaapp\chietaapp.csproj
+projectfullpath=c:\users\orbit_welder\documents\chieta mobile\chietaapp\chietaapp.csproj
 androidusedesignerassembly=true

@@ -1,38 +1,15 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile App\\ChietaApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\ChietaApp.styles.css",
+      "Id": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile\\ChietaApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\ChietaApp.styles.css",
       "PackagePath": "staticwebassets\\ChietaApp.styles.css"
     },
     {
-      "Id": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile App\\ChietaApp\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile\\ChietaApp\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-<<<<<<< HEAD
-      "Id": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile App\\ChietaApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
-    },
-    {
-      "Id": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile App\\ChietaApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile App\\ChietaApp\\wwwroot\\images\\Landing1.jpg",
-      "PackagePath": "staticwebassets\\images\\Landing1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile App\\ChietaApp\\wwwroot\\images\\Landing2.jpg",
-      "PackagePath": "staticwebassets\\images\\Landing2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile App\\ChietaApp\\wwwroot\\images\\chietalogo.png",
-      "PackagePath": "staticwebassets\\images\\chietalogo.png"
-    },
-    {
-=======
->>>>>>> NT_Dev
-      "Id": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile App\\ChietaApp\\wwwroot\\index.html",
+      "Id": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile\\ChietaApp\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {

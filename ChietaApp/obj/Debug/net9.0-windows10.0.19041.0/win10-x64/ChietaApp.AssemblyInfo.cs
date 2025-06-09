@@ -18,11 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChietaApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+f6c372f127313baa024442317683bb8609736168")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98e7e4691ab46efd0e71b0bb2e210f5efa74580c")]
->>>>>>> NT_Dev
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f52fa83d076fd1bcb3d23068aa9c7dfed0ef7d87")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChietaApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChietaApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

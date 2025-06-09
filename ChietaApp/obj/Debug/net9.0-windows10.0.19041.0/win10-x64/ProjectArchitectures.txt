@@ -1,1 +1,1 @@
-C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\ChietaApp.csproj;x64
+C:\Users\Orbit_Welder\Documents\Chieta Mobile\ChietaApp\ChietaApp.csproj;x64

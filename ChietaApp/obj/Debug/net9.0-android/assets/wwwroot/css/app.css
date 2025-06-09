@@ -1,4 +1,41 @@
-﻿
+﻿.welcome-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.welcome-heading {
+    color: #B7791F;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.welcome-message {
+    font-size: 18px;
+    color: #333;
+    line-height: 1.5;
+}
+
+.login-button {
+    background-color: #4C2A6A;
+    border: 2px solid purple;
+    font-size: 18px;
+    width: 250px;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    Hover: purle;
+}
+
+    .login-button:hover {
+        background-color: #4C2A6A;
+    }
+
+.register-message {
+    font-size: 16px;
+}
+
+
 .container {
     font-family: Arial, sans-serif;
     padding: 20px;

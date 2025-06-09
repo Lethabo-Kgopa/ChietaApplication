@@ -1,15 +1,15 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile App\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\scopedcss\\bundle\\ChietaApp.styles.css",
+      "Id": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\scopedcss\\bundle\\ChietaApp.styles.css",
       "PackagePath": "staticwebassets\\ChietaApp.styles.css"
     },
     {
-      "Id": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile App\\ChietaApp\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile\\ChietaApp\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile App\\ChietaApp\\wwwroot\\index.html",
+      "Id": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile\\ChietaApp\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {

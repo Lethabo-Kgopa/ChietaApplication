@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile App\\ChietaApp\\ChietaApp.csproj": {}
+    "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile\\ChietaApp\\ChietaApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile App\\ChietaApp\\ChietaApp.csproj": {
+    "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile\\ChietaApp\\ChietaApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile App\\ChietaApp\\ChietaApp.csproj",
+        "projectUniqueName": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile\\ChietaApp\\ChietaApp.csproj",
         "projectName": "ChietaApp",
-        "projectPath": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile App\\ChietaApp\\ChietaApp.csproj",
+        "projectPath": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile\\ChietaApp\\ChietaApp.csproj",
         "packagesPath": "C:\\Users\\Orbit_Welder\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile App\\ChietaApp\\obj\\",
+        "outputPath": "C:\\Users\\Orbit_Welder\\Documents\\Chieta Mobile\\ChietaApp\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
