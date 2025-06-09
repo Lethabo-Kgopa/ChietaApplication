@@ -17,7 +17,7 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <FileLength>5481</FileLength>
-      <LastWriteTime>Mon, 09 Jun 2025 10:42:00 GMT</LastWriteTime>
+      <LastWriteTime>Mon, 09 Jun 2025 16:35:44 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ChietaApp.styles.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))">
@@ -32,12 +32,12 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>gearn2gxv6</Fingerprint>
-      <Integrity>mJM7UlBLGRCT34SiVN2adfqWcI1dONEoRszbQJX8eFo=</Integrity>
+      <Fingerprint>tuomqsha1q</Fingerprint>
+      <Integrity>VQEsX3S7yY0Ldk7dEc4RYHPG+nQzDyJTVqRwGi2whro=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <FileLength>5480</FileLength>
-      <LastWriteTime>Mon, 09 Jun 2025 13:21:55 GMT</LastWriteTime>
+      <FileLength>11743</FileLength>
+      <LastWriteTime>Mon, 09 Jun 2025 20:35:32 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))">
@@ -57,7 +57,7 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <FileLength>826</FileLength>
-      <LastWriteTime>Mon, 09 Jun 2025 13:22:46 GMT</LastWriteTime>
+      <LastWriteTime>Mon, 09 Jun 2025 15:08:29 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>

@@ -17,7 +17,7 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <FileLength>5481</FileLength>
-      <LastWriteTime>Mon, 09 Jun 2025 10:42:02 GMT</LastWriteTime>
+      <LastWriteTime>Mon, 09 Jun 2025 16:35:44 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ChietaApp.styles.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))">
@@ -32,12 +32,12 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>u6mgjw4z0s</Fingerprint>
-      <Integrity>qrj5srTxyDL0PQ0XkBcNi0ZEyQzJ+tZKzEWnD9E7GPg=</Integrity>
+      <Fingerprint>gearn2gxv6</Fingerprint>
+      <Integrity>mJM7UlBLGRCT34SiVN2adfqWcI1dONEoRszbQJX8eFo=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <FileLength>4877</FileLength>
-      <LastWriteTime>Mon, 09 Jun 2025 10:39:17 GMT</LastWriteTime>
+      <FileLength>5480</FileLength>
+      <LastWriteTime>Mon, 09 Jun 2025 19:13:34 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))">
@@ -52,12 +52,12 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>m312kmym3l</Fingerprint>
-      <Integrity>Er68aRlbFClkkpLQM8wsLkbZn6cCg/YupN4bHhQIPpI=</Integrity>
+      <Fingerprint>1mh4gtnd6r</Fingerprint>
+      <Integrity>13lI+fzIX4XW+34+Wn2a56yHz/colUnJ8hFd2GAT5mM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <FileLength>307</FileLength>
-      <LastWriteTime>Mon, 09 Jun 2025 10:39:17 GMT</LastWriteTime>
+      <FileLength>826</FileLength>
+      <LastWriteTime>Mon, 09 Jun 2025 15:08:29 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>

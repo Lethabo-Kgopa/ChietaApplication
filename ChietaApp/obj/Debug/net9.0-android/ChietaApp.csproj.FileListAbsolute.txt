@@ -1428,7 +1428,7 @@ C:\Users\Orbit_Welder\Documents\Chieta Mobile\ChietaApp\obj\Debug\net9.0-android
 C:\Users\Orbit_Welder\Documents\Chieta Mobile\ChietaApp\obj\Debug\net9.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\Orbit_Welder\Documents\Chieta Mobile\ChietaApp\obj\Debug\net9.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Orbit_Welder\Documents\Chieta Mobile\ChietaApp\obj\Debug\net9.0-android\stamp\_ResolveLibraryProjectImports.stamp
-C:\Users\Orbit_Welder\Documents\Chieta Mobile\ChietaApp\obj\Debug\net9.0-android\compressed\9w8ash39pw-gearn2gxv6.gz
 C:\Users\Orbit_Welder\Documents\Chieta Mobile\ChietaApp\obj\Debug\net9.0-android\compressed\e25xx7drf2-1mh4gtnd6r.gz
-C:\Users\Orbit_Welder\Documents\Chieta Mobile\ChietaApp\obj\Debug\net9.0-android\compressed\publish\9w8ash39pw-gearn2gxv6.br
 C:\Users\Orbit_Welder\Documents\Chieta Mobile\ChietaApp\obj\Debug\net9.0-android\compressed\publish\e25xx7drf2-1mh4gtnd6r.br
+C:\Users\Orbit_Welder\Documents\Chieta Mobile\ChietaApp\obj\Debug\net9.0-android\compressed\9w8ash39pw-tuomqsha1q.gz
+C:\Users\Orbit_Welder\Documents\Chieta Mobile\ChietaApp\obj\Debug\net9.0-android\compressed\publish\9w8ash39pw-tuomqsha1q.br
