@@ -1,9 +1,11 @@
+C:\Users\lkgopa\source\repos\CHIETAMobileApp\ChietaApp\ChietaApp\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\lkgopa\source\repos\CHIETAMobileApp\ChietaApp\ChietaApp\wwwroot\css\app.css
+C:\Users\lkgopa\source\repos\CHIETAMobileApp\ChietaApp\ChietaApp\wwwroot\css\bootstrap\bootstrap.min.css
+C:\Users\lkgopa\source\repos\CHIETAMobileApp\ChietaApp\ChietaApp\wwwroot\index.html
 wwwroot\css\app.css
 wwwroot\css\bootstrap\bootstrap.min.css
 wwwroot\css\bootstrap\bootstrap.min.css.map
 wwwroot\images\chietalogo.png
+wwwroot\images\Landing1.jpg
+wwwroot\images\Landing2.jpg
 wwwroot\index.html
-C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\wwwroot\css\app.css
-C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\wwwroot\css\bootstrap\bootstrap.min.css
-C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\wwwroot\css\bootstrap\bootstrap.min.css.map
-C:\Users\Orbit_Welder\Documents\Chieta Mobile App\ChietaApp\wwwroot\index.html

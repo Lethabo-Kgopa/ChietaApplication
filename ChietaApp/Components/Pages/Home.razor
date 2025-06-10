@@ -1,0 +1,97 @@
+﻿@page "/home"
+
+<div class="header">
+    <h2>SDF/Grant Applicant Profile</h2>
+</div>
+
+<div class="profile-container">
+    <p>You must be linked to the organisation to begin the grant application.</p>
+    <h3>Name of linked SDF</h3>
+    <button class="view-org-button" @onclick="GoToLinkedOrganisation">View Linked Organization</button>
+
+    <!-- Mandatory Grant Card -->
+    <div class="card">
+        <div class="card-title">Mandatory Grant</div>
+        <div style="color: orange;">Application Closes in:</div>
+        <div class="card-countdown">
+            <div class="timer-box">
+                <div>0</div>
+                <small>Days</small>
+            </div>
+            <div class="timer-box">
+                <div>00</div>
+                <small>hh</small>
+            </div>
+            <div class="timer-box">
+                <div>00</div>
+                <small>mm</small>
+            </div>
+            <div class="timer-box">
+                <div>00</div>
+                <small>ss</small>
+            </div>
+        </div>
+        <div style="font-weight: bold;">Upcoming Grants</div>
+        <small><i>Mandatory Grants Applications 2024/25</i></small><br />
+        <small>15/02/2025 - 30/04/2025</small>
+    </div>
+
+    <!-- Discretionary Grant Card -->
+    <div class="card">
+        <div class="card-title">Discretionary Grant</div>
+        <div style="color: orange;">Application Closes in:</div>
+        <div class="card-countdown">
+            <div class="timer-box">
+                <div>0</div>
+                <small>Days</small>
+            </div>
+            <div class="timer-box">
+                <div>00</div>
+                <small>hh</small>
+            </div>
+            <div class="timer-box">
+                <div>00</div>
+                <small>mm</small>
+            </div>
+            <div class="timer-box">
+                <div>00</div>
+                <small>ss</small>
+            </div>
+        </div>
+        <div style="font-weight: bold;">Upcoming Grants</div>
+        <small><i>Discretionary Grants FuturePrenuer 2024/25</i></small><br />
+        <small>15/02/2025 - 30/04/2025</small>
+    </div>
+</div>
+
+<!-- Bottom Navigation -->
+<div class="footer-nav">
+    <div>
+        <div>🏠</div>
+        <div>Home</div>
+    </div>
+    <div>
+        <div>📆</div>
+        <div>Discretionary<br />Grant</div>
+    </div>
+    <div>
+        <div>📅</div>
+        <div>Mandatory<br />Grant</div>
+    </div>
+    <div>
+        <div>🎓</div>
+        <div>Lesedi<br />Student Fund</div>
+    </div>
+</div>
+
+
+@code {
+    [Inject]
+    NavigationManager Navigation{ get; set; }
+
+    void GoToLinkedOrganisation()
+    {
+        Navigation.NavigateTo("/linked-organisations");
+    }
+
+}

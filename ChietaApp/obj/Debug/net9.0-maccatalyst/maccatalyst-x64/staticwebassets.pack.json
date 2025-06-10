@@ -17,6 +17,14 @@
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Id": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\images\\Landing1.jpg",
+      "PackagePath": "staticwebassets\\images\\Landing1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\images\\Landing2.jpg",
+      "PackagePath": "staticwebassets\\images\\Landing2.jpg"
+    },
+    {
       "Id": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\images\\chietalogo.png",
       "PackagePath": "staticwebassets\\images\\chietalogo.png"
     },
