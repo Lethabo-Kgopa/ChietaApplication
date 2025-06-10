@@ -7,7 +7,7 @@
 <div class="profile-container">
     <p>You must be linked to the organisation to begin the grant application.</p>
     <h3>Name of linked SDF</h3>
-    <button class="view-org-button">View Linked Organization</button>
+    <button class="view-org-button" @onclick="GoToLinkedOrganisation">View Linked Organization</button>
 
     <!-- Mandatory Grant Card -->
     <div class="card">
@@ -86,5 +86,12 @@
 
 
 @code {
+    [Inject]
+    NavigationManager Navigation{ get; set; }
+
+    void GoToLinkedOrganisation()
+    {
+        Navigation.NavigateTo("/linked-organisations");
+    }
 
 }

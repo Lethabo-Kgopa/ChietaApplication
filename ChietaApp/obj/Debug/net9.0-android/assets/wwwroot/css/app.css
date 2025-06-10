@@ -24,7 +24,7 @@
     color: white;
     border-radius: 5px;
     cursor: pointer;
-    Hover: purle;
+    Hover:purle;
 }
 
     .login-button:hover {
@@ -53,6 +53,7 @@
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
     text-align: center;
 }
+
 .logo {
     width: 120px;
     margin-bottom: 20px;
@@ -146,6 +147,7 @@ span {
     bottom: 10px;
     left: 30px;
 }
+
 .login-container {
     max-width: 350px;
     margin: 0 auto;
@@ -233,7 +235,6 @@ span {
 }
 
 /* app.css */
-
 .header {
     background-color: #4b2562;
     color: #fcb515;
@@ -268,6 +269,7 @@ span {
     gap: 5px;
     margin-bottom: 10px;
 }
+
 .timer-box {
     background-color: #fddde0;
     padding: 10px;
@@ -349,6 +351,7 @@ span {
     margin-right: 10px;
     border-bottom: 3px solid transparent;
 }
+
     .tab.active {
         border-bottom: 3px solid #3d2057;
         color: #3d2057;
@@ -406,6 +409,7 @@ span {
 .table-container {
     padding: 20px;
 }
+
 .org-table {
     width: 100%;
     border-collapse: collapse;
@@ -474,6 +478,7 @@ span {
     cursor: pointer;
     font-size: 0.85rem;
 }
+
 .dropdown-menu {
     display: none;
     position: absolute;
@@ -498,12 +503,11 @@ span {
     font-size: 0.85rem;
 }
 
-    .dropdown-menu a:hover {
+.dropdown-menu a:hover {
         background-color: #F0F0F0;
     }
 
 /*#if (SampleContent)*/
-
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -527,7 +531,6 @@ a, .btn-link {
 }
 
 /*#endif*/
-
 h1:focus {
     outline: none;
 }
@@ -578,7 +581,6 @@ h1:focus {
 }
 
 @supports (-webkit-touch-callout: none) {
-
     .status-bar-safe-area {
         display: flex;
         position: sticky;
@@ -594,6 +596,28 @@ h1:focus {
     }
 }
 
- 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

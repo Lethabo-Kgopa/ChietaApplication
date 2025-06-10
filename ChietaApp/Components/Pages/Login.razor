@@ -1,7 +1,6 @@
 ﻿@page "/login"
 
-<div class="login-container">
-    
+<div class="login-container">  
     <img src="images/chietalogo.png" alt="CHiETA Logo" style="height: 100px;" />
     <br />
 
@@ -14,17 +13,21 @@
     <div class="form-group">
         <input type="password" placeholder="Password" class="input-field" />
     </div>
-    <br
-    <p class="forgot-password">
-        Forgot Password? <a href="https://ims.chieta.org.za/account/forgot-password" class="reset-link">Reset Now</a>
-    </p>
-    <br />
-    <div class="form-group checkbox-group">
-        <input type="checkbox" id="agree" />
-        <label for="agree">
-            I agree to <a href="#">terms of use</a> & <a href="#">privacy statement</a>
-        </label>
-    </div>
+    <div class="form-section">
+        <p class="forgot-password">
+            Forgot Password? <a href="https://ims.chieta.org.za/account/forgot-password" class="reset-link">Reset Now</a>
+        </p>
+
+        <div class="form-group checkbox-group">
+            <label>
+                <input type="checkbox" id="agree" />
+                I agree to <a href="#">terms of use</a> & <a href="#">privacy statement</a>
+            </label>
+        </div>
+        </div>
+
+       
+
 
     <button class="btn-login" @onclick="GoToHome">
         Login
