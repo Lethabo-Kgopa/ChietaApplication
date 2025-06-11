@@ -596,6 +596,215 @@ h1:focus {
     }
 }
 
+.section-title {
+    font-size: 14px;
+    font-weight: 600;
+    margin: 16px 0 8px;
+}
+
+.summary-section {
+    margin-top: 16px;
+}
+
+.biodata-card {
+    background-color: #F4F4F4;
+    border-radius: 8px;
+    padding: 12px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    font-size: 12px;
+    color: #333;
+}
+
+    .biodata-card p {
+        display: flex;
+        justify-content: space-between;
+        margin: 4px 0;
+    }
+
+    .biodata-card.totals {
+        display: flex;
+        justify-content: space-between;
+        font-weight: bold;
+        background-color: #f8f8f8;
+    }
+
+.training-cards {
+    display: flex;
+    gap: 8px;
+    justify-content: space-between;
+    margin-top: 12px;
+}
+
+.training-card {
+    flex: 1;
+    padding: 8px;
+    border-radius: 8px;
+    font-size: 11px;
+    text-align: center;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+    .training-card h2 {
+        font-size: 20px;
+        margin: 4px 0;
+    }
+
+    .training-card span {
+        font-size: 10px;
+        color: #666;
+    }
+
+    .training-card.achieved {
+        background-color: #E9FFF1;
+        color: #2B8D55;
+        border-left: 4px solid #2B8D55;
+    }
+
+    .training-card.busy {
+        background-color: #FDF4E3;
+        color: #A67A00;
+        border-left: 4px solid #A67A00;
+    }
+
+    .training-card.planned {
+        background-color: #F5F5F5;
+        color: #666;
+        border-left: 4px solid #999;
+    }
+}
+
+.main-container {
+    font-family: 'Segoe UI', sans-serif;
+    padding: 16px;
+    background-color: white;
+    min-height: 100vh;
+}
+
+.header {
+    padding-bottom: 12px;
+}
+
+.back {
+    font-size: 14px;
+    color: black;
+    display: inline-block;
+    margin-bottom: 4px;
+}
+
+.title {
+    color: #FFB400;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.subtitle {
+    font-size: 12px;
+    color: #4A4A4A;
+    margin: 0;
+}
+
+.tabs {
+    display: flex;
+    gap: 12px;
+    padding: 8px 0;
+}
+
+.tab {
+    background: none;
+    border: none;
+    font-size: 13px;
+    padding: 4px 8px;
+    cursor: pointer;
+    color: #333;
+}
+
+    .tab.active {
+        font-weight: bold;
+        background-color: #f1e4cd;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+.payment-section {
+    margin-top: 20px;
+}
+
+.overview-title {
+    text-align: center;
+    background-color: #F1E4CD;
+    font-weight: bold;
+    padding: 8px;
+    border-radius: 6px;
+    margin-bottom: 16px;
+}
+
+.table-header {
+    display: flex;
+    justify-content: space-between;
+    font-size: 11px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.table-divider {
+    border-top: 1px solid #ccc;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.yellow-bar {
+    height: 4px;
+    width: 60px;
+    background-color: #FFB400;
+    margin: auto;
+    margin-top: -2px;
+    border-radius: 2px;
+}
+
+.download-btn {
+    display: block;
+    width: 100%;
+    padding: 8px;
+    font-size: 12px;
+    border: 1px solid #000;
+    background: transparent;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.bottom-nav {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #3D1E5D;
+    display: flex;
+    justify-content: space-around;
+    padding: 8px 0;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+}
+
+.nav-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 10px;
+    color: white;
+}
+
+    .nav-item.active {
+        color: #FFB400;
+    }
+
+.icon {
+    font-size: 16px;
+    margin-bottom: 2px;
+}
+
+
 
 
 

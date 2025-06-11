@@ -1,11 +1,11 @@
-wwwroot\css\app.css
 wwwroot\css\bootstrap\bootstrap.min.css
 wwwroot\css\bootstrap\bootstrap.min.css.map
 wwwroot\images\chietalogo.png
 wwwroot\images\Landing1.jpg
 wwwroot\images\Landing2.jpg
 wwwroot\index.html
-C:\sources\ChietaApplication\ChietaApp\wwwroot\css\app.css
+wwwroot\css\app.css
 C:\sources\ChietaApplication\ChietaApp\wwwroot\css\bootstrap\bootstrap.min.css
 C:\sources\ChietaApplication\ChietaApp\wwwroot\css\bootstrap\bootstrap.min.css.map
 C:\sources\ChietaApplication\ChietaApp\wwwroot\index.html
+C:\sources\ChietaApplication\ChietaApp\wwwroot\css\app.css
