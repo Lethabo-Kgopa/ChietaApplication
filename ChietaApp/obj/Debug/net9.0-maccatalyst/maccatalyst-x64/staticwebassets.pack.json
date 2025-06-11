@@ -1,35 +1,35 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\ChietaApp.styles.css",
+      "Id": "C:\\Users\\Smart_Room2\\Desktop\\koaLA\\ChietaApp\\obj\\Debug\\net9.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\ChietaApp.styles.css",
       "PackagePath": "staticwebassets\\ChietaApp.styles.css"
     },
     {
-      "Id": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\Smart_Room2\\Desktop\\koaLA\\ChietaApp\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\Smart_Room2\\Desktop\\koaLA\\ChietaApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Smart_Room2\\Desktop\\koaLA\\ChietaApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\images\\Landing1.jpg",
+      "Id": "C:\\Users\\Smart_Room2\\Desktop\\koaLA\\ChietaApp\\wwwroot\\images\\Landing1.jpg",
       "PackagePath": "staticwebassets\\images\\Landing1.jpg"
     },
     {
-      "Id": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\images\\Landing2.jpg",
+      "Id": "C:\\Users\\Smart_Room2\\Desktop\\koaLA\\ChietaApp\\wwwroot\\images\\Landing2.jpg",
       "PackagePath": "staticwebassets\\images\\Landing2.jpg"
     },
     {
-      "Id": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\images\\chietalogo.png",
+      "Id": "C:\\Users\\Smart_Room2\\Desktop\\koaLA\\ChietaApp\\wwwroot\\images\\chietalogo.png",
       "PackagePath": "staticwebassets\\images\\chietalogo.png"
     },
     {
-      "Id": "C:\\Users\\lkgopa\\source\\repos\\CHIETAMobileApp\\ChietaApp\\ChietaApp\\wwwroot\\index.html",
+      "Id": "C:\\Users\\Smart_Room2\\Desktop\\koaLA\\ChietaApp\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
