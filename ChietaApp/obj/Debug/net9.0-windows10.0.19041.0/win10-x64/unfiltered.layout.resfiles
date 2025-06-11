@@ -1,4 +1,3 @@
-runtimes\win-x64\native\WebView2Loader.dll
 Components\Layout\MainLayout.razor.css
 Components\Layout\NavMenu.razor.css
 wwwroot\css\bootstrap\bootstrap.min.css.map.gz
@@ -13,7 +12,6 @@ wwwroot\css\bootstrap\bootstrap.min.css.br
 wwwroot\index.html.br
 wwwroot\ChietaApp.styles.css.br
 wwwroot\ChietaApp.styles.css.gz
-OpenSans-Regular.ttf
 appicon.ico
 appiconLargeTile.scale-100.png
 appiconLargeTile.scale-125.png
@@ -65,11 +63,6 @@ dotnet_bot.scale-125.png
 dotnet_bot.scale-150.png
 dotnet_bot.scale-200.png
 dotnet_bot.scale-400.png
-splashSplashScreen.scale-100.png
-splashSplashScreen.scale-125.png
-splashSplashScreen.scale-150.png
-splashSplashScreen.scale-200.png
-splashSplashScreen.scale-400.png
 wwwroot\ChietaApp.styles.css
 wwwroot\ChietaApp.tw4sc55izp.bundle.scp.css
 AboutAssets.txt
