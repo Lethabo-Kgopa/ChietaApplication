@@ -1,4 +1,11 @@
+<<<<<<< HEAD
+C:\Users\Smart_Room2\.nuget\packages\microsoft.maui.controls.core\9.0.51\lib\net9.0-windows10.0.19041\Microsoft.Maui.Controls.pri
+C:\Users\Smart_Room2\.nuget\packages\microsoft.maui.core\9.0.51\lib\net9.0-windows10.0.19041\Microsoft.Maui.pri
+C:\Users\Smart_Room2\Desktop\koaLA\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\MsixContent\Microsoft.UI.pri
+C:\Users\Smart_Room2\Desktop\koaLA\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\MsixContent\Microsoft.UI.Xaml.Controls.pri
+=======
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\MsixContent\Microsoft.UI.pri
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\MsixContent\Microsoft.UI.Xaml.Controls.pri
 C:\Users\Orbit_Welder\.nuget\packages\microsoft.maui.controls.core\9.0.51\lib\net9.0-windows10.0.19041\Microsoft.Maui.Controls.pri
 C:\Users\Orbit_Welder\.nuget\packages\microsoft.maui.core\9.0.51\lib\net9.0-windows10.0.19041\Microsoft.Maui.pri
+>>>>>>> d07512e80572cc220cc4769763183edf96f8df09

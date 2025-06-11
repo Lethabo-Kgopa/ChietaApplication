@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+﻿C:\Users\Smart_Room2\Desktop\koaLA\ChietaApp\obj\Debug\net9.0-android\lp\161\jl\res\anim\enterfromleft.xml
+C:\Users\Smart_Room2\Desktop\koaLA\ChietaApp\obj\Debug\net9.0-android\lp\161\jl\res\anim\enterfromright.xml
+C:\Users\Smart_Room2\Desktop\koaLA\ChietaApp\obj\Debug\net9.0-android\lp\161\jl\res\anim\exittoleft.xml
+C:\Users\Smart_Room2\Desktop\koaLA\ChietaApp\obj\Debug\net9.0-android\lp\161\jl\res\anim\exittoright.xml
+C:\Users\Smart_Room2\Desktop\koaLA\ChietaApp\obj\Debug\net9.0-android\lp\161\jl\res\layout\flyoutcontent.xml
+C:\Users\Smart_Room2\Desktop\koaLA\ChietaApp\obj\Debug\net9.0-android\lp\161\jl\res\layout\shellcontent.xml
+C:\Users\Smart_Room2\Desktop\koaLA\ChietaApp\obj\Debug\net9.0-android\lp\161\jl\res\values\strings.xml
+=======
 ﻿C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\161\jl\res\anim\enterfromleft.xml
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\161\jl\res\anim\enterfromright.xml
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\161\jl\res\anim\exittoleft.xml
@@ -5,3 +14,4 @@ C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\161\jl\res\an
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\161\jl\res\layout\flyoutcontent.xml
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\161\jl\res\layout\shellcontent.xml
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\161\jl\res\values\strings.xml
+>>>>>>> d07512e80572cc220cc4769763183edf96f8df09

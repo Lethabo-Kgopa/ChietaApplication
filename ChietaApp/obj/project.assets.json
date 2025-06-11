@@ -34163,24 +34163,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Orbit_Welder\\.nuget\\packages\\": {},
+    "C:\\Users\\Smart_Room2\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\sources\\ChietaApplication\\ChietaApp\\ChietaApp.csproj",
+      "projectUniqueName": "C:\\Users\\Smart_Room2\\Desktop\\koaLA\\ChietaApp\\ChietaApp.csproj",
       "projectName": "ChietaApp",
-      "projectPath": "C:\\sources\\ChietaApplication\\ChietaApp\\ChietaApp.csproj",
-      "packagesPath": "C:\\Users\\Orbit_Welder\\.nuget\\packages\\",
-      "outputPath": "C:\\sources\\ChietaApplication\\ChietaApp\\obj\\",
+      "projectPath": "C:\\Users\\Smart_Room2\\Desktop\\koaLA\\ChietaApp\\ChietaApp.csproj",
+      "packagesPath": "C:\\Users\\Smart_Room2\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Smart_Room2\\Desktop\\koaLA\\ChietaApp\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Orbit_Welder\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Smart_Room2\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
