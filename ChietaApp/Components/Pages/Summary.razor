@@ -1,0 +1,76 @@
+﻿@page "/Summary"
+
+<link href="css/mandatory-grant.css" rel="stylesheet" />
+
+<div class="page-container">
+    <div class="header">
+        <h1>Mandatory Grant Application</h1>
+        <p>MG 2023 - Mandatory Grants 2023</p>
+    </div>
+
+    <div class="tabs">
+        <NavLink class="tab" activeClass="active" href="/mandatory-SDF-Details">SDF Details</NavLink>
+        <NavLink class="tab" activeClass="active" href="/Summary">Summary</NavLink>
+        <NavLink class="tab" activeClass="active" href="/OverviewPayment">Payment Overview</NavLink>
+        <NavLink class="tab" activeClass="active" href="">Downloads</NavLink>
+
+    </div>
+    <div class="section">
+        <div class="summary-box">Summary</div>
+
+        <h2>Biodata</h2>
+        <div class="biodata-summary">
+            <div>Male</div>
+            <div>Female</div>
+            <div>Total</div>
+        </div>
+
+        <div class="biodata-card">
+            <div>18 - 25 <span>Male: 8, Female: 6</span></div>
+            <div>26 - 35 <span>Male: 7, Female: 4</span></div>
+            <div>36+ <span>Male: 3, Female: 2</span></div>
+        </div>
+
+        <div class="biodata-card">
+            <div>18 - 25 <span>Male: 8, Female: 6</span></div>
+            <div>26 - 35 <span>Male: 7, Female: 4</span></div>
+            <div>36+ <span>Male: 3, Female: 2</span></div>
+        </div>
+
+        <div class="biodata-card">
+            <div>GP: M: 10, F: 8</div>
+            <div>KZN: M: 5, F: 3</div>
+            <div>WC: M: 3, F: 1</div>
+        </div>
+
+        <h2>Training</h2>
+        <div class="training-cards">
+            <div class="card achieved">
+                <div>Achieved</div>
+                <div class="count">15</div>
+                <div class="year">2023</div>
+            </div>
+            <div class="card busy">
+                <div>Busy</div>
+                <div class="count">8</div>
+                <div class="year">Current</div>
+            </div>
+            <div class="card planned">
+                <div>Planned</div>
+                <div class="count">7</div>
+                <div class="year">2024</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="bottom-nav">
+        <div class="nav-item">🏠<br />Home</div>
+        <div class="nav-item">📅<br />Discretionery Grant</div>
+        <div class="nav-item active">📄<br />Mandatory Grant</div>
+        <div class="nav-item">🎓<br />Lesedi Student Fund</div>
+    </div>
+</div>
+
+@code{
+
+}
