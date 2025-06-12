@@ -18,6 +18,7 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\scopedcss\bundle\ChietaApp.styles.css
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\scopedcss\projectbundle\ChietaApp.bundle.scp.css
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\9w8ash39pw-hoha7myd8o.gz
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\byu1sj4xpy-6gzpyzhau4.gz
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\053obva0vb-8inm30yfxf.gz
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\e25xx7drf2-asx38bmddw.gz
@@ -35,6 +36,7 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\staticwebassets.upToDateCheck.txt
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\publish\r14fuvwmtm-tw4sc55izp.br
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\publish\btc5k7c35h-tw4sc55izp.br
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\publish\9w8ash39pw-hoha7myd8o.br
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\publish\byu1sj4xpy-6gzpyzhau4.br
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\publish\053obva0vb-8inm30yfxf.br
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\publish\e25xx7drf2-asx38bmddw.br
@@ -45,17 +47,8 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\mauiimage.inputs
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\mauifont.inputs
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\mauisplash.inputs
-C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resizetizer\sp\drawable-hdpi\splash.png
-C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resizetizer\sp\drawable-mdpi\splash.png
-C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resizetizer\sp\drawable-v31\maui_splash_image.xml
-C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resizetizer\sp\drawable-xhdpi\splash.png
-C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resizetizer\sp\drawable-xxhdpi\splash.png
-C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resizetizer\sp\drawable-xxxhdpi\splash.png
-C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resizetizer\sp\drawable\maui_splash_image.xml
-C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resizetizer\sp\values\maui_colors.xml
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\mauisplash.stamp
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\mauifont.stamp
-C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resizetizer\f\OpenSans-Regular.ttf
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resizetizer\r\drawable-xxxhdpi\dotnet_bot.png
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resizetizer\r\drawable-xxhdpi\dotnet_bot.png
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resizetizer\r\drawable-xhdpi\dotnet_bot.png
@@ -90,7 +83,6 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\case_map.txt
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\__Microsoft.Android.Resource.Designer.cs
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\res.flag
-C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resizetizer\6CD7C47F03026257-files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resizetizer\B81013EDA07D2EB8-files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\98\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\99\jl\files.cache
@@ -1009,6 +1001,7 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\zh-Hant\Microsoft.Maui.Controls.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\zh-HK\Microsoft.Maui.Controls.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\_Microsoft.Android.Resource.Designer.dll
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\typemaps.arm64-v8a.ll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\typemaps.x86_64.ll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\AndroidManifest.xml
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\AndroidManifest.xml
@@ -1018,6 +1011,7 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\bin\mono.android.jar
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\static.flag
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\__environment__.txt
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\environment.arm64-v8a.ll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\environment.x86_64.ll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\androidx\activity\ktx\R.java
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\androidx\activity\R.java
@@ -1403,16 +1397,22 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\images\Landing1.jpg
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\images\Landing2.jpg
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\index.html
-C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\assets\OpenSans-Regular.ttf
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\bin\packaged_resources
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\com\companyname\chietaapp\R.java
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\_CompileJava.FileList.txt
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\compressed_assemblies.arm64-v8a.ll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\compressed_assemblies.x86_64.ll
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\typemaps.arm64-v8a.o
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\typemaps.x86_64.o
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\environment.arm64-v8a.o
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\environment.x86_64.o
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\compressed_assemblies.arm64-v8a.o
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\compressed_assemblies.x86_64.o
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\marshal_methods.arm64-v8a.o
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\marshal_methods.x86_64.o
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\jni_remap.arm64-v8a.o
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\jni_remap.x86_64.o
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\app_shared_libraries\arm64-v8a\libxamarin-app.so
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\app_shared_libraries\x86_64\libxamarin-app.so
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\bin\classes.dex
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\bin\classes2.dex
@@ -1424,5 +1424,3 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\stamp\_ResolveLibraryProjectImports.stamp
-C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\9w8ash39pw-hoha7myd8o.gz
-C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\publish\9w8ash39pw-hoha7myd8o.br

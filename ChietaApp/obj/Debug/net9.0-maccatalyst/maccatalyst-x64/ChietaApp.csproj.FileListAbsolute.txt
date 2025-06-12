@@ -271,7 +271,7 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-maccat
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\scopedcss\bundle\ChietaApp.styles.css
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\scopedcss\projectbundle\ChietaApp.bundle.scp.css
-C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\compressed\9w8ash39pw-cbk7g2tgc6.gz
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\compressed\9w8ash39pw-hoha7myd8o.gz
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\compressed\byu1sj4xpy-6gzpyzhau4.gz
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\compressed\053obva0vb-8inm30yfxf.gz
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\compressed\e25xx7drf2-asx38bmddw.gz
@@ -289,7 +289,7 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-maccat
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\staticwebassets.upToDateCheck.txt
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\compressed\publish\r14fuvwmtm-tw4sc55izp.br
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\compressed\publish\btc5k7c35h-tw4sc55izp.br
-C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\compressed\publish\9w8ash39pw-cbk7g2tgc6.br
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\compressed\publish\9w8ash39pw-hoha7myd8o.br
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\compressed\publish\byu1sj4xpy-6gzpyzhau4.br
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\compressed\publish\053obva0vb-8inm30yfxf.br
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\compressed\publish\e25xx7drf2-asx38bmddw.br
