@@ -577,6 +577,186 @@ h1:focus {
     }
 }
 
+<<<<<<< HEAD
+/*Mandatory Downloads page*/
+
+
+.container2 {
+    max-width: 375px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.header2 {
+    background-color: #522e7f;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.back-btn2 {
+    background: none;
+    border: none;
+    color: #ffd700;
+    cursor: pointer;
+    position: absolute;
+    left: 10px;
+    top: 20px;
+}
+
+.tabs {
+    display: flex;
+    justify-content: space-around;
+    background-color: #e0e0e0;
+}
+
+.tab {
+    flex-grow: 1;
+    padding: 10px;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+    .tab.active {
+        background-color: #d8c9a3;
+    }
+
+.content2 {
+    padding: 20px;
+    text-align: center;
+}
+
+.download-btn {
+    background-color: #d8c9a3;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.footer2 {
+    display: flex;
+    background-color: #522e7f;
+    justify-content: space-around;
+    padding: 10px 0;
+}
+
+.footer-tab2 {
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+    .footer-tab.active {
+        color: #ffd700;
+    }
+
+
+/*Lesedi Student Fund*/
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.form-container2 {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    background-color: #2c115d;
+    color: white;
+    padding: 15px;
+    border-radius: 8px 8px 0 0;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+    header .back-button {
+        color: white;
+        text-decoration: none;
+        font-size: 18px;
+        display: block;
+        text-align: left;
+        margin-bottom: 10px;
+    }
+
+h1, h2, h3 {
+    margin: 0 0 15px 0;
+}
+
+.form-section2 {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #fafafa;
+}
+
+.form-group2 {
+    margin-bottom: 15px;
+}
+
+.form-row2 {
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+    .form-row .form-group {
+        flex: 1;
+    }
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+input, select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+    input[type="date"] {
+        cursor: pointer;
+    }
+
+button.submit-button {
+    width: 100%;
+    padding: 12px;
+    background-color: #2c115d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+    button.submit-button:hover {
+        background-color: #4e2a88;
+    }
+
+
 .page-container {
     font-family: 'Segoe UI', sans-serif;
     color: #000;
@@ -584,6 +764,7 @@ h1:focus {
     margin: 0;
     background: #fff;
 }
+
 
 .header {
     background: #3d0050;

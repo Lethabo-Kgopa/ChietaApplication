@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EoqaORIVKVqnjwzmzhHE9tstywhZkvW+kOFfgPe/doI=",
+  "Hash": "eBljM9T2EvKrbSM6g2f5gwOM/4LtG/j0rD7Sdo9/Z1I=",
   "Source": "ChietaApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -38,12 +38,12 @@
       "OriginalItemSpec": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\9w8ash39pw-mgl8yf6y5f.gz",
+      "Identity": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\9w8ash39pw-cbk7g2tgc6.gz",
       "SourceId": "ChietaApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "css/app#[.{fingerprint=mgl8yf6y5f}]?.css.gz",
+      "RelativePath": "css/app#[.{fingerprint=cbk7g2tgc6}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -52,8 +52,8 @@
       "RelatedAsset": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\wwwroot\\css\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "34ev341ynf",
-      "Integrity": "M1wU1CaEjKNVflZxLk9gezQf3P30DriVManySBc85c0=",
+      "Fingerprint": "e5fvjkf2rt",
+      "Integrity": "jm5g2LUMlneVIht3YficEKfCGfgKoNaOxomEBLbkDes=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\wwwroot\\css\\app.css"
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "mgl8yf6y5f",
-      "Integrity": "pvxM90SofedarLSsk6o9CZslZ3/Nx2JMrZxhuVWO6Uw=",
+      "Fingerprint": "cbk7g2tgc6",
+      "Integrity": "aHXOQ8QuUuWIxol22/6XRJlpMe2fyXWNhLHfagMmrvo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\app.css"
@@ -358,7 +358,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jun 2025 11:01:41 GMT"
+          "Value": "Wed, 11 Jun 2025 21:33:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -411,7 +411,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jun 2025 11:01:41 GMT"
+          "Value": "Wed, 11 Jun 2025 21:33:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -448,7 +448,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jun 2025 11:01:41 GMT"
+          "Value": "Wed, 11 Jun 2025 21:33:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -495,7 +495,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jun 2025 11:01:41 GMT"
+          "Value": "Wed, 11 Jun 2025 21:33:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -548,7 +548,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jun 2025 11:01:41 GMT"
+          "Value": "Wed, 11 Jun 2025 21:33:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -585,7 +585,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jun 2025 11:01:41 GMT"
+          "Value": "Wed, 11 Jun 2025 21:33:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -632,7 +632,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jun 2025 11:01:41 GMT"
+          "Value": "Wed, 11 Jun 2025 21:33:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -693,7 +693,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jun 2025 11:01:41 GMT"
+          "Value": "Wed, 11 Jun 2025 21:33:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -738,7 +738,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jun 2025 11:01:41 GMT"
+          "Value": "Wed, 11 Jun 2025 21:33:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -793,7 +793,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jun 2025 11:01:41 GMT"
+          "Value": "Wed, 11 Jun 2025 21:33:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -854,7 +854,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jun 2025 11:01:41 GMT"
+          "Value": "Wed, 11 Jun 2025 21:33:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -899,7 +899,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jun 2025 11:01:41 GMT"
+          "Value": "Wed, 11 Jun 2025 21:33:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -930,13 +930,13 @@
       ]
     },
     {
-      "Route": "css/app.css",
-      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\9w8ash39pw-mgl8yf6y5f.gz",
+      "Route": "css/app.cbk7g2tgc6.css",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\9w8ash39pw-cbk7g2tgc6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000230149597"
+          "Quality": "0.000206228088"
         }
       ],
       "ResponseHeaders": [
@@ -946,19 +946,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4344"
+          "Value": "4848"
         },
         {
           "Name": "ETag",
-          "Value": "\"M1wU1CaEjKNVflZxLk9gezQf3P30DriVManySBc85c0=\""
+          "Value": "\"jm5g2LUMlneVIht3YficEKfCGfgKoNaOxomEBLbkDes=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jun 2025 10:34:11 GMT"
+          "Value": "Wed, 11 Jun 2025 21:04:54 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -974,18 +974,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"pvxM90SofedarLSsk6o9CZslZ3/Nx2JMrZxhuVWO6Uw=\""
+          "Value": "W/\"aHXOQ8QuUuWIxol22/6XRJlpMe2fyXWNhLHfagMmrvo=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "cbk7g2tgc6"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-pvxM90SofedarLSsk6o9CZslZ3/Nx2JMrZxhuVWO6Uw="
+          "Value": "sha256-aHXOQ8QuUuWIxol22/6XRJlpMe2fyXWNhLHfagMmrvo="
         }
       ]
     },
     {
-      "Route": "css/app.css",
+      "Route": "css/app.cbk7g2tgc6.css",
       "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -995,7 +1003,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17608"
+          "Value": "20478"
         },
         {
           "Name": "Content-Type",
@@ -1003,121 +1011,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pvxM90SofedarLSsk6o9CZslZ3/Nx2JMrZxhuVWO6Uw=\""
+          "Value": "\"aHXOQ8QuUuWIxol22/6XRJlpMe2fyXWNhLHfagMmrvo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jun 2025 10:34:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-pvxM90SofedarLSsk6o9CZslZ3/Nx2JMrZxhuVWO6Uw="
-        }
-      ]
-    },
-    {
-      "Route": "css/app.css.gz",
-      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\9w8ash39pw-mgl8yf6y5f.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4344"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"M1wU1CaEjKNVflZxLk9gezQf3P30DriVManySBc85c0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Jun 2025 10:34:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-M1wU1CaEjKNVflZxLk9gezQf3P30DriVManySBc85c0="
-        }
-      ]
-    },
-    {
-      "Route": "css/app.mgl8yf6y5f.css",
-      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\9w8ash39pw-mgl8yf6y5f.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000230149597"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4344"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"M1wU1CaEjKNVflZxLk9gezQf3P30DriVManySBc85c0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Jun 2025 10:34:11 GMT"
+          "Value": "Wed, 11 Jun 2025 21:04:54 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"pvxM90SofedarLSsk6o9CZslZ3/Nx2JMrZxhuVWO6Uw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mgl8yf6y5f"
+          "Value": "cbk7g2tgc6"
         },
         {
           "Name": "label",
@@ -1125,13 +1033,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pvxM90SofedarLSsk6o9CZslZ3/Nx2JMrZxhuVWO6Uw="
+          "Value": "sha256-aHXOQ8QuUuWIxol22/6XRJlpMe2fyXWNhLHfagMmrvo="
         }
       ]
     },
     {
-      "Route": "css/app.mgl8yf6y5f.css",
-      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\wwwroot\\css\\app.css",
+      "Route": "css/app.cbk7g2tgc6.css.gz",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\9w8ash39pw-cbk7g2tgc6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1140,7 +1048,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17608"
+          "Value": "4848"
         },
         {
           "Name": "Content-Type",
@@ -1148,56 +1056,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pvxM90SofedarLSsk6o9CZslZ3/Nx2JMrZxhuVWO6Uw=\""
+          "Value": "\"jm5g2LUMlneVIht3YficEKfCGfgKoNaOxomEBLbkDes=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jun 2025 10:34:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mgl8yf6y5f"
-        },
-        {
-          "Name": "label",
-          "Value": "css/app.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pvxM90SofedarLSsk6o9CZslZ3/Nx2JMrZxhuVWO6Uw="
-        }
-      ]
-    },
-    {
-      "Route": "css/app.mgl8yf6y5f.css.gz",
-      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\9w8ash39pw-mgl8yf6y5f.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4344"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"M1wU1CaEjKNVflZxLk9gezQf3P30DriVManySBc85c0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Jun 2025 10:34:11 GMT"
+          "Value": "Wed, 11 Jun 2025 21:04:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1215,7 +1078,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mgl8yf6y5f"
+          "Value": "cbk7g2tgc6"
         },
         {
           "Name": "label",
@@ -1223,7 +1086,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-M1wU1CaEjKNVflZxLk9gezQf3P30DriVManySBc85c0="
+          "Value": "sha256-jm5g2LUMlneVIht3YficEKfCGfgKoNaOxomEBLbkDes="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\9w8ash39pw-cbk7g2tgc6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000206228088"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4848"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jm5g2LUMlneVIht3YficEKfCGfgKoNaOxomEBLbkDes=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 21:04:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"aHXOQ8QuUuWIxol22/6XRJlpMe2fyXWNhLHfagMmrvo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aHXOQ8QuUuWIxol22/6XRJlpMe2fyXWNhLHfagMmrvo="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20478"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aHXOQ8QuUuWIxol22/6XRJlpMe2fyXWNhLHfagMmrvo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 21:04:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aHXOQ8QuUuWIxol22/6XRJlpMe2fyXWNhLHfagMmrvo="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css.gz",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\9w8ash39pw-cbk7g2tgc6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4848"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jm5g2LUMlneVIht3YficEKfCGfgKoNaOxomEBLbkDes=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 21:04:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jm5g2LUMlneVIht3YficEKfCGfgKoNaOxomEBLbkDes="
         }
       ]
     },
