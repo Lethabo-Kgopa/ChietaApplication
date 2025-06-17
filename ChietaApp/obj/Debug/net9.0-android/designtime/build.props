@@ -24,8 +24,15 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
+<<<<<<< HEAD
 _nugetassetsfilehash=cd455698ff1cc2d276cb97953388d967991a086310b83851a5e3dedc8e00e77f
 typemapkind=strings-asm
 androidmanifestplaceholders=
 projectfullpath=c:\users\smart_room2\desktop\koala2\chietaapp\chietaapp.csproj
+=======
+_nugetassetsfilehash=510a35eee4f2799c10c8324947aaed2c49ead7efe42e0fb77b4868a871faea34
+typemapkind=strings-asm
+androidmanifestplaceholders=
+projectfullpath=c:\sources\chietaapplication\chietaapp\chietaapp.csproj
+>>>>>>> 29baf9435812f4187105257d2e3eee1ad85ed2af
 androidusedesignerassembly=true

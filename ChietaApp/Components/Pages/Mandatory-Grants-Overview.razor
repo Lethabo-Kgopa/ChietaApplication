@@ -28,7 +28,15 @@
                 <td>RSA Review completed</td>
             </tr>
             <tr>
-                <td></td>
+                <td>
+                    <div class="dropdown">
+                        <button class="dropdown-toggle">Options</button>
+                        <div class="dropdown-menu">
+                            <a href="/mandatory-SDF-Details">View Application</a>
+                            <a href="#">Evaluation letter</a>
+                        </div>
+                    </div>
+                </td>
                 <td>MG 2024</td>
                 <td>Mandatory Grants 2024</td>
                 <td>Approved</td>
@@ -50,6 +58,51 @@
         </tbody>
     </table>
 </div>
+
+<footer class="footer-nav4">
+    <NavLink href="/home" class="footer-tab4" activeClass="active4">
+        <div class="icon4">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="white" viewBox="0 0 24 24">
+                <path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z" />
+            </svg>
+        </div>
+        <div class="label4">Home</div>
+    </NavLink>
+
+    <NavLink href="/discretionary-grant" class="footer-tab4" activeClass="active4">
+        <div class="icon4">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="white" viewBox="0 0 24 24">
+                <path d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.1 0-2 .9-2 2v14c0
+                1.1.9 2 2 2h14c1.1 0 2-.9
+                2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zm0-12H5V6h14v2z" />
+            </svg>
+        </div>
+        <div class="label4">Discretionary<br />Grant</div>
+    </NavLink>
+    
+    <NavLink href="/mandatory-grants" class="footer-tab4" activeClass="active4">
+        <div class="icon4 highlighted4">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="white" viewBox="0 0 24 24">
+                <path d="M14 2H6c-1.1 0-2 .9-2
+                2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9
+                2-2V8l-6-6zM13 9V3.5L18.5
+                9H13z" />
+            </svg>
+        </div>
+        <div class="label4 highlighted4">Mandatory<br />Grant</div>
+    </NavLink>
+
+    <NavLink href="/LesediStudentFund" class="footer-tab4" activeClass="active4">
+        <div class="icon4">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="white" viewBox="0 0 24 24">
+                <path d="M12 3L1 9l11 6 9-4.91V17h2V9L12
+                3zm0 13.09L3.74 10.5 12 6l8.26
+                4.5L12 16.09zM11 18h2v3h-2z" />
+            </svg>
+        </div>
+        <div class="label4">Lesedi<br />Student Fund</div>
+    </NavLink>
+</footer>
 
 
 @code {

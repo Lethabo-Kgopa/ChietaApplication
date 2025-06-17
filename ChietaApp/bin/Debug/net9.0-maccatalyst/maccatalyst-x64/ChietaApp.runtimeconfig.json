@@ -8,7 +8,11 @@
       },
       {
         "name": "Microsoft.MacCatalyst",
+<<<<<<< HEAD
         "version": "18.4.9288"
+=======
+        "version": "18.4.9289"
+>>>>>>> 29baf9435812f4187105257d2e3eee1ad85ed2af
       }
     ],
     "configProperties": {

@@ -138,5 +138,15 @@
     "C:\\Users\\Smart_Room2\\.nuget\\packages\\xamarin.kotlinx.serialization.core.jvm\\1.7.3.2\\xamarin.kotlinx.serialization.core.jvm.1.7.3.2.nupkg.sha512",
     "C:\\Users\\Smart_Room2\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.57\\microsoft.windows.sdk.net.ref.10.0.19041.57.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Users\\Smart_Room2\\Desktop\\koala2\\ChietaApp\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\Smart_Room2\\Desktop\\koala2\\ChietaApp\\ChietaApp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Smart_Room2\\Desktop\\koala2\\ChietaApp\\ChietaApp.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

@@ -24,7 +24,7 @@
     color: white;
     border-radius: 5px;
     cursor: pointer;
-    Hover:purle;
+    
 }
 
     .login-button:hover {
@@ -235,11 +235,13 @@ span {
 }
 
 /* app.css */
-.header {
+.headerA {
     background-color: #4b2562;
     color: #fcb515;
-    padding: 40px 20px 20px;
+    padding: 45px 20px 20px;
     border-bottom-left-radius: 100px;
+    text-align: center;
+    padding-right: 20px;
 }
 
     .header h2 {
@@ -247,11 +249,11 @@ span {
         font-weight: bold;
     }
 
-.profile-container {
+.profile-containerA {
     padding: 20px;
 }
 
-.card {
+.cardA {
     background-color: #f6f6f6;
     border-radius: 15px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -288,24 +290,65 @@ span {
     margin-bottom: 20px;
 }
 
-.footer-nav {
+.footer-nav4 {
     position: fixed;
     bottom: 0;
-    width: 100%;
-    background-color: #4b2562;
+    left: 0;
+    right: 0;
+    height: 70px;
+    background-color: #3e215d; /* deep purple as in screenshot */
     display: flex;
     justify-content: space-around;
-    padding: 10px 0;
-    color: white;
+    align-items: center;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
+    z-index: 1000;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.2);
+    padding: 0 8px;
 }
 
-    .footer-nav div {
-        text-align: center;
-        font-size: 12px;
+.footer-tab4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    text-decoration: none;
+    flex: 1;
+    height: 100%;
+    transition: all 0.3s ease;
+}
+
+    .footer-tab4:hover {
+        background-color: #533078; /* subtle hover effect */
+        border-radius: 10px;
     }
 
+.icon4 {
+    font-size: 18px;
+}
+
+.label4 {
+    font-size: 10px;
+    line-height: 1.1;
+}
+
+.highlighted4 {
+    color: white;
+    font-weight: bold;
+}
+
+.active4 {
+    background-color: #4f2a70;
+    border-radius: 10px;
+}
+
+
+
+
+    /*Css For Linked Organization Starts here*/
 .grant-header {
     background-color: #3d2057;
     color: #fff;
@@ -334,28 +377,6 @@ span {
     margin-bottom: 10px;
 }
 
-.tabs {
-    display: flex;
-    background-color: white;
-    padding: 10px 15px;
-    overflow-x: auto;
-    border-bottom: 1px solid #ccc;
-}
-
-.tab {
-    padding: 10px 15px;
-    border: none;
-    background: none;
-    font-weight: bold;
-    color: #444;
-    margin-right: 10px;
-    border-bottom: 3px solid transparent;
-}
-
-    .tab.active {
-        border-bottom: 3px solid #3d2057;
-        color: #3d2057;
-    }
 
 .form-section {
     padding: 20px;
@@ -597,6 +618,7 @@ h1:focus {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 /*Mandatory Downloads page*/
 body {
     font-family: Arial, sans-serif;
@@ -633,19 +655,92 @@ body {
     text-align: center;
     padding: 10px;
     cursor: pointer;
-    font-weight: bold;
-    font-size: 14px;
+=======
+
+/*Mandatory Downloads page*/
+.container2 {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #fff;
 }
 
-    .tab.active {
-        border-bottom: 2px solid black;
+.header2 {
+    background-color: #3d2057;
+    color: white;
+    padding: 20px;
+    border-bottom-left-radius: 50px;
+}
+
+.back-btn2 {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.title-main2 {
+    margin: 0;
+    font-size: 20px;
+>>>>>>> 29baf9435812f4187105257d2e3eee1ad85ed2af
+    font-weight: bold;
+    color: #ffb82e;
+}
+
+.subtitle-main2 {
+    margin: 0;
+    font-size: 14px;
+    color: #eee;
+}
+
+.tabs2 {
+    display: flex;
+    justify-content: space-around;
+    background-color: #fff;
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.tab2 {
+    text-decoration: none;
+    color: black;
+    padding: 6px 12px;
+    border-radius: 5px;
+    font-weight: 500;
+}
+
+    .tab2.active2 {
+        background-color: #f5f5f5;
+        font-weight: bold;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     }
 
-.content {
+.content2 {
+    flex: 1;
     padding: 20px;
+    font-size: 16px;
+}
+
+.downloads-header2 {
+    background-color: #f7e2b9;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.download-btn2 {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 6px;
+    width: 100%;
     background-color: white;
 }
 
+<<<<<<< HEAD
 .download-section {
     text-align: center;
     margin-top: 20px;
@@ -663,21 +758,25 @@ body {
     position: fixed;
     bottom: 0;
     width: 100%;
+=======
+.footer2 {
+>>>>>>> 29baf9435812f4187105257d2e3eee1ad85ed2af
     display: flex;
-    background-color: #3e235e;
-    color: white;
     justify-content: space-around;
+    background-color: #421c52;
     padding: 10px 0;
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
+    color: white;
 }
 
-    .footer div {
-        text-align: center;
-        font-size: 12px;
-        cursor: pointer;
-    }
+.footer-tab2 {
+    background: none;
+    border: none;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+}
 
+<<<<<<< HEAD
     .footer .active2 {
         color: #f5a623;
     }
@@ -694,6 +793,19 @@ body {
     min-height: 100vh;
 }
 
+=======
+    .footer-tab2.active2 {
+        color: #ffb82e;
+    }
+
+
+
+
+
+/*Lesedi Student Fund*/
+
+
+>>>>>>> 29baf9435812f4187105257d2e3eee1ad85ed2af
 .form-container2 {
     max-width: 800px;
     margin: 30px auto;
@@ -705,8 +817,8 @@ body {
 }
 
 header {
-    background-color: #2c115d;
-    color: white;
+    background-color: #3d2057;
+    color: #fcb515;
     padding: 15px;
     border-radius: 8px 8px 0 0;
     margin-bottom: 20px;
@@ -792,6 +904,18 @@ button.submit-button {
 }
 >>>>>>> d07512e80572cc220cc4769763183edf96f8df09
 
+<<<<<<< HEAD
+=======
+.page-container {
+    font-family: 'Segoe UI', sans-serif;
+    color: #000;
+    padding: 0;
+    margin: 0;
+    background: #fff;
+}
+
+
+>>>>>>> 29baf9435812f4187105257d2e3eee1ad85ed2af
 .header {
     background: #3d0050;
     color: white;
@@ -799,6 +923,8 @@ button.submit-button {
     padding: 20px;
     position: relative;
 }
+<<<<<<< HEAD
+=======
 
     .header .back-button {
         position: absolute;
@@ -921,6 +1047,170 @@ h2 {
         background-color: #f2f0f7;
         border: 1px solid #ccc;
     }
+>>>>>>> 29baf9435812f4187105257d2e3eee1ad85ed2af
+
+    .header .back-button {
+        position: absolute;
+        top: 10px;
+        left: 15px;
+        color: white;
+        font-size: 14px;
+        text-decoration: none;
+    }
+
+    .header h1 {
+        font-size: 16px;
+        font-weight: 600;
+        color: #ffc107;
+        margin-bottom: 4px;
+    }
+
+<<<<<<< HEAD
+    .header p {
+        font-size: 12px;
+        color: #e0e0e0;
+        margin: 0;
+    }
+
+.tab-bar {
+=======
+.container {
+    padding: 16px;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: white;
+}
+
+.header {
+    background-color: #4B266D;
+    color: white;
+    border-bottom-right-radius: 90px;
+    padding: 20px;
+    margin-bottom: 16px;
+    position: relative;
+}
+
+.back-link {
+    position: absolute;
+    top: 10px;
+    left: 16px;
+    color: white;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.title {
+    font-size: 16px;
+    font-weight: bold;
+    color: #FFB400;
+    margin-top: 20px;
+}
+
+.subtitle {
+    font-size: 12px;
+    margin-top: 4px;
+}
+
+.tabs {
+>>>>>>> 29baf9435812f4187105257d2e3eee1ad85ed2af
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.tab {
+    padding: 10px;
+    background: transparent;
+    border: none;
+    font-weight: 500;
+    font-size: 13px;
+    color: black;
+}
+
+    .tab.active {
+        border-bottom: 2px solid #3d0050;
+        font-weight: bold;
+    }
+
+<<<<<<< HEAD
+.section {
+    padding: 15px;
+}
+
+.summary-box {
+    background-color: #f8dfbb;
+    text-align: center;
+    padding: 10px;
+    font-weight: 600;
+    border-radius: 6px;
+    margin: 10px 0;
+}
+
+h2 {
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.biodata-summary {
+    display: flex;
+    justify-content: space-between;
+    background: #eee;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.biodata-card {
+    background: #f1f1f1;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    font-size: 14px;
+}
+
+    .biodata-card div {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 4px;
+    }
+
+.training-cards {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.card {
+    flex: 1;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    font-size: 13px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+    .card .count {
+        font-size: 18px;
+        font-weight: bold;
+        margin: 4px 0;
+    }
+
+    .card.achieved {
+        background-color: #e0ffe0;
+        border: 1px solid #9ae59a;
+    }
+
+    .card.busy {
+        background-color: #fff0d9;
+        border: 1px solid #ffc107;
+    }
+
+    .card.planned {
+        background-color: #f2f0f7;
+        border: 1px solid #ccc;
+    }
 
 .bottom-nav {
     position: fixed;
@@ -945,6 +1235,55 @@ h2 {
         .bottom-nav .nav-item.active {
             color: #ffc107;
         }
+=======
+.section-card {
+    background-color: #f5deb3;
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+}
+
+.table-header {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    font-size: 12px;
+    padding: 8px 0;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+.table-placeholder {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loading-bar {
+    width: 60px;
+    height: 4px;
+    background-color: #F1B434;
+    border-radius: 2px;
+}
+
+.download-button-container {
+    margin-top: 16px;
+    display: flex;
+    justify-content: center;
+}
+
+.download-button {
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: 10px 16px;
+    font-size: 14px;
+    cursor: pointer;
+}
+>>>>>>> 29baf9435812f4187105257d2e3eee1ad85ed2af
 
 .container {
     padding: 16px;
