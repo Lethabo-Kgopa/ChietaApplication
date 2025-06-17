@@ -8,13 +8,22 @@
         <p>MG 2023 - Mandatory Grants 2023</p>
     </div>
 
+<<<<<<< HEAD
   <div class="tabs">
     <NavLink class="tab" activeClass="active" href="/mandatory-SDF-Details">SDF Details</NavLink>
     <NavLink class="tab" activeClass="active" href="/Summary">Summary</NavLink>
     <NavLink class="tab" activeClass="active" href="/OverViwe-Payment">Payment Overview</NavLink>
     <NavLink class="tab" activeClass="active" href="">Downloads</NavLink>
 </div>
+=======
+    <div class="tabs">
+        <NavLink class="tab" activeClass="active" href="/mandatory-SDF-Details">SDF Details</NavLink>
+        <NavLink class="tab" activeClass="active" href="/Summary">Summary</NavLink>
+        <NavLink class="tab" activeClass="active" href="/OverviewPayment">Payment Overview</NavLink>
+        <NavLink class="tab" activeClass="active" href="/Downloads">Downloads</NavLink>
+>>>>>>> 009865d4cdabd2c1baa32e115c2b3282618a71e1
 
+    </div>
     <div class="section">
         <div class="summary-box">Summary</div>
 
@@ -62,14 +71,52 @@
             </div>
         </div>
     </div>
-
-    <div class="bottom-nav">
-        <div class="nav-item">🏠<br />Home</div>
-        <div class="nav-item">📅<br />Discretionery Grant</div>
-        <div class="nav-item active">📄<br />Mandatory Grant</div>
-        <div class="nav-item">🎓<br />Lesedi Student Fund</div>
     </div>
-</div>
+
+    <footer class="footer-nav4">
+        <NavLink href="/home" class="footer-tab4" activeClass="active4">
+            <div class="icon4">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="white" viewBox="0 0 24 24">
+                    <path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z" />
+                </svg>
+            </div>
+            <div class="label4">Home</div>
+        </NavLink>
+
+        <NavLink href="/discretionary-grant" class="footer-tab4" activeClass="active4">
+            <div class="icon4">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="white" viewBox="0 0 24 24">
+                    <path d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.1 0-2 .9-2 2v14c0
+                1.1.9 2 2 2h14c1.1 0 2-.9
+                2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zm0-12H5V6h14v2z" />
+                </svg>
+            </div>
+            <div class="label4">Discretionary<br />Grant</div>
+        </NavLink>
+
+        <NavLink href="/mandatory-grants" class="footer-tab4" activeClass="active4">
+            <div class="icon4 highlighted4">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="white" viewBox="0 0 24 24">
+                    <path d="M14 2H6c-1.1 0-2 .9-2
+                2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9
+                2-2V8l-6-6zM13 9V3.5L18.5
+                9H13z" />
+                </svg>
+            </div>
+            <div class="label4 highlighted4">Mandatory<br />Grant</div>
+        </NavLink>
+
+        <NavLink href="/LesediStudentFund" class="footer-tab4" activeClass="active4">
+            <div class="icon4">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="white" viewBox="0 0 24 24">
+                    <path d="M12 3L1 9l11 6 9-4.91V17h2V9L12
+                3zm0 13.09L3.74 10.5 12 6l8.26
+                4.5L12 16.09zM11 18h2v3h-2z" />
+                </svg>
+            </div>
+            <div class="label4">Lesedi<br />Student Fund</div>
+        </NavLink>
+    </footer>
 
 @code{
 

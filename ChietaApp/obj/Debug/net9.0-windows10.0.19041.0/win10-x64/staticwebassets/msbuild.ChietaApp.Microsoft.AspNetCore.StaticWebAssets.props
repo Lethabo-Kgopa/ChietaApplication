@@ -17,7 +17,7 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <FileLength>5481</FileLength>
-      <LastWriteTime>Tue, 10 Jun 2025 21:48:48 GMT</LastWriteTime>
+      <LastWriteTime>Tue, 17 Jun 2025 08:51:14 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ChietaApp.styles.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))">
@@ -32,12 +32,12 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>mgl8yf6y5f</Fingerprint>
-      <Integrity>pvxM90SofedarLSsk6o9CZslZ3/Nx2JMrZxhuVWO6Uw=</Integrity>
+      <Fingerprint>fkrtue0wwy</Fingerprint>
+      <Integrity>Mfl0DK7cNOiOM0Yr+gEw/XVQb6yhoJlnD2NQemVWRvI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <FileLength>17608</FileLength>
-      <LastWriteTime>Wed, 11 Jun 2025 10:07:49 GMT</LastWriteTime>
+      <FileLength>20532</FileLength>
+      <LastWriteTime>Tue, 17 Jun 2025 08:38:39 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrap\bootstrap.min.css'))">
