@@ -8074,7 +8074,7 @@
         }
       }
     },
-    "net9.0-android35.0/ios-arm64": {
+    "net9.0-android35.0/iossimulator-x64": {
       "GoogleGson/2.11.0.3": {
         "type": "package",
         "dependencies": {
@@ -18295,7 +18295,7 @@
         }
       }
     },
-    "net9.0-ios18.2/ios-arm64": {
+    "net9.0-ios18.2/iossimulator-x64": {
       "Microsoft.AspNetCore.Authorization/9.0.0": {
         "type": "package",
         "dependencies": {
@@ -22591,7 +22591,7 @@
         }
       }
     },
-    "net9.0-maccatalyst18.2/ios-arm64": {
+    "net9.0-maccatalyst18.2/iossimulator-x64": {
       "Microsoft.AspNetCore.Authorization/9.0.0": {
         "type": "package",
         "dependencies": {
@@ -27433,7 +27433,7 @@
         }
       }
     },
-    "net9.0-windows10.0.19041/ios-arm64": {
+    "net9.0-windows10.0.19041/iossimulator-x64": {
       "Microsoft.AspNetCore.Authorization/9.0.0": {
         "type": "package",
         "dependencies": {
@@ -34585,7 +34585,7 @@
       "android-x64": {
         "#import": []
       },
-      "ios-arm64": {
+      "iossimulator-x64": {
         "#import": []
       },
       "maccatalyst-x64": {

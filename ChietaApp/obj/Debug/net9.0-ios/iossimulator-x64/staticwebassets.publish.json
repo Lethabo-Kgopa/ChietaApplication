@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "INKksosuWhMjMRS/A4vUPOQpfcBkeGs08OgpTmOuRHg=",
+  "Hash": "PEqRMz0wO8Vic8tdOJqi46OTxEXFFgcIBDvHQCdig7E=",
   "Source": "ChietaApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -38,12 +38,12 @@
       "OriginalItemSpec": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\9w8ash39pw-hoha7myd8o.gz",
+      "Identity": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\9w8ash39pw-fkrtue0wwy.gz",
       "SourceId": "ChietaApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "css/app#[.{fingerprint=hoha7myd8o}]?.css.gz",
+      "RelativePath": "css/app#[.{fingerprint=fkrtue0wwy}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -52,8 +52,8 @@
       "RelatedAsset": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\wwwroot\\css\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ygutngrnlm",
-      "Integrity": "fpl3e/QN2QD62g8pq3ri5bEqTeGnATQcnDmE2sGQ5Jk=",
+      "Fingerprint": "w9d0mchcon",
+      "Integrity": "NNlS9XkYqQF71g59kjF+x5emaqPsMv9VHcXHuOAcSuY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\wwwroot\\css\\app.css"
@@ -143,12 +143,12 @@
       "OriginalItemSpec": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\publish\\9w8ash39pw-hoha7myd8o.br",
+      "Identity": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\publish\\9w8ash39pw-fkrtue0wwy.br",
       "SourceId": "ChietaApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\publish\\",
       "BasePath": "/",
-      "RelativePath": "css/app#[.{fingerprint=hoha7myd8o}]?.css.br",
+      "RelativePath": "css/app#[.{fingerprint=fkrtue0wwy}]?.css.br",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -157,8 +157,8 @@
       "RelatedAsset": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\wwwroot\\css\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "03x2f8ejyv",
-      "Integrity": "BL3Y623RmI38U/46mwuCHQrtvGxd2H+jQchDx87YT2g=",
+      "Fingerprint": "nux1yre6sz",
+      "Integrity": "YZBnRCmrrQOBFPi58bmI7Egp6GaNl9vqRqm69ckNqrA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\wwwroot\\css\\app.css"
@@ -325,8 +325,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "hoha7myd8o",
-      "Integrity": "/6g5yV040Iebo5DJ5xh002WSD0I8fBuBD50XQPXOVSQ=",
+      "Fingerprint": "fkrtue0wwy",
+      "Integrity": "Mfl0DK7cNOiOM0Yr+gEw/XVQb6yhoJlnD2NQemVWRvI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\app.css"
@@ -484,7 +484,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:37:11 GMT"
+          "Value": "Tue, 17 Jun 2025 08:05:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -539,7 +539,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:37:11 GMT"
+          "Value": "Tue, 17 Jun 2025 08:05:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -592,7 +592,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:37:11 GMT"
+          "Value": "Tue, 17 Jun 2025 08:05:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -629,7 +629,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:37:11 GMT"
+          "Value": "Tue, 17 Jun 2025 08:05:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -674,7 +674,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:37:11 GMT"
+          "Value": "Tue, 17 Jun 2025 08:05:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -721,7 +721,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:37:11 GMT"
+          "Value": "Tue, 17 Jun 2025 08:05:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -776,7 +776,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:37:11 GMT"
+          "Value": "Tue, 17 Jun 2025 08:05:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -829,7 +829,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:37:11 GMT"
+          "Value": "Tue, 17 Jun 2025 08:05:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -866,7 +866,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:37:11 GMT"
+          "Value": "Tue, 17 Jun 2025 08:05:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -911,7 +911,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:37:11 GMT"
+          "Value": "Tue, 17 Jun 2025 08:05:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -958,7 +958,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:37:11 GMT"
+          "Value": "Tue, 17 Jun 2025 08:05:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1021,7 +1021,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:37:11 GMT"
+          "Value": "Tue, 17 Jun 2025 08:05:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1082,7 +1082,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:37:11 GMT"
+          "Value": "Tue, 17 Jun 2025 08:05:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1127,7 +1127,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:37:11 GMT"
+          "Value": "Tue, 17 Jun 2025 08:05:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1180,7 +1180,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:37:11 GMT"
+          "Value": "Tue, 17 Jun 2025 08:05:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1235,7 +1235,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:37:11 GMT"
+          "Value": "Tue, 17 Jun 2025 08:05:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1298,7 +1298,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:37:11 GMT"
+          "Value": "Tue, 17 Jun 2025 08:05:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1359,7 +1359,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:37:11 GMT"
+          "Value": "Tue, 17 Jun 2025 08:05:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1404,7 +1404,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:37:11 GMT"
+          "Value": "Tue, 17 Jun 2025 08:05:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1457,7 +1457,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:37:11 GMT"
+          "Value": "Tue, 17 Jun 2025 08:05:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1489,12 +1489,12 @@
     },
     {
       "Route": "css/app.css",
-      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\9w8ash39pw-hoha7myd8o.gz",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\9w8ash39pw-fkrtue0wwy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000207943439"
+          "Quality": "0.000203998368"
         }
       ],
       "ResponseHeaders": [
@@ -1504,15 +1504,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4808"
+          "Value": "4901"
         },
         {
           "Name": "ETag",
-          "Value": "\"fpl3e/QN2QD62g8pq3ri5bEqTeGnATQcnDmE2sGQ5Jk=\""
+          "Value": "\"NNlS9XkYqQF71g59kjF+x5emaqPsMv9VHcXHuOAcSuY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:27:51 GMT"
+          "Value": "Thu, 12 Jun 2025 13:02:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1532,24 +1532,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"/6g5yV040Iebo5DJ5xh002WSD0I8fBuBD50XQPXOVSQ=\""
+          "Value": "W/\"Mfl0DK7cNOiOM0Yr+gEw/XVQb6yhoJlnD2NQemVWRvI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/6g5yV040Iebo5DJ5xh002WSD0I8fBuBD50XQPXOVSQ="
+          "Value": "sha256-Mfl0DK7cNOiOM0Yr+gEw/XVQb6yhoJlnD2NQemVWRvI="
         }
       ]
     },
     {
       "Route": "css/app.css",
-      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\publish\\9w8ash39pw-hoha7myd8o.br",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\publish\\9w8ash39pw-fkrtue0wwy.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000243961942"
+          "Quality": "0.000239463602"
         }
       ],
       "ResponseHeaders": [
@@ -1559,15 +1559,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4098"
+          "Value": "4175"
         },
         {
           "Name": "ETag",
-          "Value": "\"BL3Y623RmI38U/46mwuCHQrtvGxd2H+jQchDx87YT2g=\""
+          "Value": "\"YZBnRCmrrQOBFPi58bmI7Egp6GaNl9vqRqm69ckNqrA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:27:51 GMT"
+          "Value": "Thu, 12 Jun 2025 13:02:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1587,13 +1587,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"/6g5yV040Iebo5DJ5xh002WSD0I8fBuBD50XQPXOVSQ=\""
+          "Value": "W/\"Mfl0DK7cNOiOM0Yr+gEw/XVQb6yhoJlnD2NQemVWRvI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/6g5yV040Iebo5DJ5xh002WSD0I8fBuBD50XQPXOVSQ="
+          "Value": "sha256-Mfl0DK7cNOiOM0Yr+gEw/XVQb6yhoJlnD2NQemVWRvI="
         }
       ]
     },
@@ -1608,7 +1608,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20423"
+          "Value": "20532"
         },
         {
           "Name": "Content-Type",
@@ -1616,11 +1616,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/6g5yV040Iebo5DJ5xh002WSD0I8fBuBD50XQPXOVSQ=\""
+          "Value": "\"Mfl0DK7cNOiOM0Yr+gEw/XVQb6yhoJlnD2NQemVWRvI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:27:51 GMT"
+          "Value": "Thu, 12 Jun 2025 13:02:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1630,13 +1630,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/6g5yV040Iebo5DJ5xh002WSD0I8fBuBD50XQPXOVSQ="
+          "Value": "sha256-Mfl0DK7cNOiOM0Yr+gEw/XVQb6yhoJlnD2NQemVWRvI="
         }
       ]
     },
     {
       "Route": "css/app.css.br",
-      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\publish\\9w8ash39pw-hoha7myd8o.br",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\publish\\9w8ash39pw-fkrtue0wwy.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1645,7 +1645,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4098"
+          "Value": "4175"
         },
         {
           "Name": "Content-Type",
@@ -1653,11 +1653,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BL3Y623RmI38U/46mwuCHQrtvGxd2H+jQchDx87YT2g=\""
+          "Value": "\"YZBnRCmrrQOBFPi58bmI7Egp6GaNl9vqRqm69ckNqrA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:27:51 GMT"
+          "Value": "Thu, 12 Jun 2025 13:02:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1675,13 +1675,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BL3Y623RmI38U/46mwuCHQrtvGxd2H+jQchDx87YT2g="
+          "Value": "sha256-YZBnRCmrrQOBFPi58bmI7Egp6GaNl9vqRqm69ckNqrA="
         }
       ]
     },
     {
       "Route": "css/app.css.gz",
-      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\9w8ash39pw-hoha7myd8o.gz",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\9w8ash39pw-fkrtue0wwy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1690,7 +1690,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4808"
+          "Value": "4901"
         },
         {
           "Name": "Content-Type",
@@ -1698,11 +1698,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fpl3e/QN2QD62g8pq3ri5bEqTeGnATQcnDmE2sGQ5Jk=\""
+          "Value": "\"NNlS9XkYqQF71g59kjF+x5emaqPsMv9VHcXHuOAcSuY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:27:51 GMT"
+          "Value": "Thu, 12 Jun 2025 13:02:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1720,18 +1720,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fpl3e/QN2QD62g8pq3ri5bEqTeGnATQcnDmE2sGQ5Jk="
+          "Value": "sha256-NNlS9XkYqQF71g59kjF+x5emaqPsMv9VHcXHuOAcSuY="
         }
       ]
     },
     {
-      "Route": "css/app.hoha7myd8o.css",
-      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\9w8ash39pw-hoha7myd8o.gz",
+      "Route": "css/app.fkrtue0wwy.css",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\9w8ash39pw-fkrtue0wwy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000207943439"
+          "Quality": "0.000203998368"
         }
       ],
       "ResponseHeaders": [
@@ -1741,15 +1741,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4808"
+          "Value": "4901"
         },
         {
           "Name": "ETag",
-          "Value": "\"fpl3e/QN2QD62g8pq3ri5bEqTeGnATQcnDmE2sGQ5Jk=\""
+          "Value": "\"NNlS9XkYqQF71g59kjF+x5emaqPsMv9VHcXHuOAcSuY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:27:51 GMT"
+          "Value": "Thu, 12 Jun 2025 13:02:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1769,13 +1769,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"/6g5yV040Iebo5DJ5xh002WSD0I8fBuBD50XQPXOVSQ=\""
+          "Value": "W/\"Mfl0DK7cNOiOM0Yr+gEw/XVQb6yhoJlnD2NQemVWRvI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hoha7myd8o"
+          "Value": "fkrtue0wwy"
         },
         {
           "Name": "label",
@@ -1783,18 +1783,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/6g5yV040Iebo5DJ5xh002WSD0I8fBuBD50XQPXOVSQ="
+          "Value": "sha256-Mfl0DK7cNOiOM0Yr+gEw/XVQb6yhoJlnD2NQemVWRvI="
         }
       ]
     },
     {
-      "Route": "css/app.hoha7myd8o.css",
-      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\publish\\9w8ash39pw-hoha7myd8o.br",
+      "Route": "css/app.fkrtue0wwy.css",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\publish\\9w8ash39pw-fkrtue0wwy.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000243961942"
+          "Quality": "0.000239463602"
         }
       ],
       "ResponseHeaders": [
@@ -1804,15 +1804,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4098"
+          "Value": "4175"
         },
         {
           "Name": "ETag",
-          "Value": "\"BL3Y623RmI38U/46mwuCHQrtvGxd2H+jQchDx87YT2g=\""
+          "Value": "\"YZBnRCmrrQOBFPi58bmI7Egp6GaNl9vqRqm69ckNqrA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:27:51 GMT"
+          "Value": "Thu, 12 Jun 2025 13:02:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1832,13 +1832,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"/6g5yV040Iebo5DJ5xh002WSD0I8fBuBD50XQPXOVSQ=\""
+          "Value": "W/\"Mfl0DK7cNOiOM0Yr+gEw/XVQb6yhoJlnD2NQemVWRvI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hoha7myd8o"
+          "Value": "fkrtue0wwy"
         },
         {
           "Name": "label",
@@ -1846,12 +1846,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/6g5yV040Iebo5DJ5xh002WSD0I8fBuBD50XQPXOVSQ="
+          "Value": "sha256-Mfl0DK7cNOiOM0Yr+gEw/XVQb6yhoJlnD2NQemVWRvI="
         }
       ]
     },
     {
-      "Route": "css/app.hoha7myd8o.css",
+      "Route": "css/app.fkrtue0wwy.css",
       "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1861,7 +1861,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20423"
+          "Value": "20532"
         },
         {
           "Name": "Content-Type",
@@ -1869,11 +1869,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/6g5yV040Iebo5DJ5xh002WSD0I8fBuBD50XQPXOVSQ=\""
+          "Value": "\"Mfl0DK7cNOiOM0Yr+gEw/XVQb6yhoJlnD2NQemVWRvI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:27:51 GMT"
+          "Value": "Thu, 12 Jun 2025 13:02:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1883,7 +1883,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hoha7myd8o"
+          "Value": "fkrtue0wwy"
         },
         {
           "Name": "label",
@@ -1891,13 +1891,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/6g5yV040Iebo5DJ5xh002WSD0I8fBuBD50XQPXOVSQ="
+          "Value": "sha256-Mfl0DK7cNOiOM0Yr+gEw/XVQb6yhoJlnD2NQemVWRvI="
         }
       ]
     },
     {
-      "Route": "css/app.hoha7myd8o.css.br",
-      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\publish\\9w8ash39pw-hoha7myd8o.br",
+      "Route": "css/app.fkrtue0wwy.css.br",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\publish\\9w8ash39pw-fkrtue0wwy.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1906,7 +1906,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4098"
+          "Value": "4175"
         },
         {
           "Name": "Content-Type",
@@ -1914,11 +1914,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BL3Y623RmI38U/46mwuCHQrtvGxd2H+jQchDx87YT2g=\""
+          "Value": "\"YZBnRCmrrQOBFPi58bmI7Egp6GaNl9vqRqm69ckNqrA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:27:51 GMT"
+          "Value": "Thu, 12 Jun 2025 13:02:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1936,7 +1936,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hoha7myd8o"
+          "Value": "fkrtue0wwy"
         },
         {
           "Name": "label",
@@ -1944,13 +1944,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BL3Y623RmI38U/46mwuCHQrtvGxd2H+jQchDx87YT2g="
+          "Value": "sha256-YZBnRCmrrQOBFPi58bmI7Egp6GaNl9vqRqm69ckNqrA="
         }
       ]
     },
     {
-      "Route": "css/app.hoha7myd8o.css.gz",
-      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\9w8ash39pw-hoha7myd8o.gz",
+      "Route": "css/app.fkrtue0wwy.css.gz",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-ios\\iossimulator-x64\\compressed\\9w8ash39pw-fkrtue0wwy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1959,7 +1959,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4808"
+          "Value": "4901"
         },
         {
           "Name": "Content-Type",
@@ -1967,11 +1967,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fpl3e/QN2QD62g8pq3ri5bEqTeGnATQcnDmE2sGQ5Jk=\""
+          "Value": "\"NNlS9XkYqQF71g59kjF+x5emaqPsMv9VHcXHuOAcSuY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 04:27:51 GMT"
+          "Value": "Thu, 12 Jun 2025 13:02:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1989,7 +1989,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hoha7myd8o"
+          "Value": "fkrtue0wwy"
         },
         {
           "Name": "label",
@@ -1997,7 +1997,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fpl3e/QN2QD62g8pq3ri5bEqTeGnATQcnDmE2sGQ5Jk="
+          "Value": "sha256-NNlS9XkYqQF71g59kjF+x5emaqPsMv9VHcXHuOAcSuY="
         }
       ]
     },

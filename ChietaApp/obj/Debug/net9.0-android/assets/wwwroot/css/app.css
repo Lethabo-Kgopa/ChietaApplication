@@ -290,23 +290,63 @@ span {
     margin-bottom: 20px;
 }
 
-.footer-nav {
+.footer-nav4 {
     position: fixed;
     bottom: 0;
-    width: 100%;
-    background-color: #4b2562;
+    left: 0;
+    right: 0;
+    height: 70px;
+    background-color: #3e215d; /* deep purple as in screenshot */
     display: flex;
     justify-content: space-around;
-    padding: 10px 0;
-    color: white;
+    align-items: center;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
+    z-index: 1000;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.2);
+    padding: 0 8px;
 }
 
-    .footer-nav div {
-        text-align: center;
-        font-size: 12px;
+.footer-tab4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    text-decoration: none;
+    flex: 1;
+    height: 100%;
+    transition: all 0.3s ease;
+}
+
+    .footer-tab4:hover {
+        background-color: #533078; /* subtle hover effect */
+        border-radius: 10px;
     }
+
+.icon4 {
+    font-size: 18px;
+}
+
+.label4 {
+    font-size: 10px;
+    line-height: 1.1;
+}
+
+.highlighted4 {
+    color: white;
+    font-weight: bold;
+}
+
+.active4 {
+    background-color: #4f2a70;
+    border-radius: 10px;
+}
+
+
+
 
     /*Css For Linked Organization Starts here*/
 .grant-header {
@@ -577,96 +617,115 @@ h1:focus {
     }
 }
 
-<<<<<<< HEAD
+
 /*Mandatory Downloads page*/
-
-
 .container2 {
-    max-width: 375px;
-    margin: 0 auto;
-    background-color: #ffffff;
-    border-radius: 20px;
-    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #fff;
 }
 
 .header2 {
-    background-color: #522e7f;
+    background-color: #3d2057;
     color: white;
     padding: 20px;
-    text-align: center;
+    border-bottom-left-radius: 50px;
 }
 
 .back-btn2 {
     background: none;
     border: none;
-    color: #ffd700;
-    cursor: pointer;
-    position: absolute;
-    left: 10px;
-    top: 20px;
+    color: white;
+    font-size: 18px;
+    margin-bottom: 10px;
 }
 
-.tabs {
+.title-main2 {
+    margin: 0;
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffb82e;
+}
+
+.subtitle-main2 {
+    margin: 0;
+    font-size: 14px;
+    color: #eee;
+}
+
+.tabs2 {
     display: flex;
     justify-content: space-around;
-    background-color: #e0e0e0;
+    background-color: #fff;
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
 }
 
-.tab {
-    flex-grow: 1;
-    padding: 10px;
-    border: none;
-    background-color: transparent;
-    cursor: pointer;
+.tab2 {
+    text-decoration: none;
+    color: black;
+    padding: 6px 12px;
+    border-radius: 5px;
+    font-weight: 500;
 }
 
-    .tab.active {
-        background-color: #d8c9a3;
+    .tab2.active2 {
+        background-color: #f5f5f5;
+        font-weight: bold;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     }
 
 .content2 {
+    flex: 1;
     padding: 20px;
+    font-size: 16px;
+}
+
+.downloads-header2 {
+    background-color: #f7e2b9;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 6px;
+    margin-bottom: 10px;
     text-align: center;
 }
 
-.download-btn {
-    background-color: #d8c9a3;
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    cursor: pointer;
+.download-btn2 {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 6px;
+    width: 100%;
+    background-color: white;
 }
 
 .footer2 {
     display: flex;
-    background-color: #522e7f;
     justify-content: space-around;
+    background-color: #421c52;
     padding: 10px 0;
+    color: white;
 }
 
 .footer-tab2 {
     background: none;
     border: none;
     color: white;
-    cursor: pointer;
+    text-align: center;
+    font-size: 12px;
 }
 
-    .footer-tab.active {
-        color: #ffd700;
+    .footer-tab2.active2 {
+        color: #ffb82e;
     }
 
 
+
+
+
 /*Lesedi Student Fund*/
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-}
+
 
 .form-container2 {
     max-width: 800px;
@@ -679,8 +738,8 @@ body {
 }
 
 header {
-    background-color: #2c115d;
-    color: white;
+    background-color: #3d2057;
+    color: #fcb515;
     padding: 15px;
     border-radius: 8px 8px 0 0;
     margin-bottom: 20px;
@@ -896,29 +955,7 @@ h2 {
         border: 1px solid #ccc;
     }
 
-.bottom-nav {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background-color: #3d0050;
-    color: white;
-    display: flex;
-    justify-content: space-around;
-    padding: 10px 0;
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
-}
 
-    .bottom-nav .nav-item {
-        text-align: center;
-        font-size: 10px;
-        width: 25%;
-    }
-
-        .bottom-nav .nav-item.active {
-            color: #ffc107;
-        }
 
 .container {
     padding: 16px;
@@ -1025,28 +1062,5 @@ h2 {
     cursor: pointer;
 }
 
-.bottom-nav {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background-color: #4B266D;
-    display: flex;
-    justify-content: space-around;
-    padding: 10px 0;
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
-}
 
-.nav-item {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    font-size: 10px;
-    color: white;
-}
-
-    .nav-item.active span {
-        color: #F1B434;
-    }
 
