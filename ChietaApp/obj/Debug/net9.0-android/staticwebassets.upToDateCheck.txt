@@ -1,3 +1,7 @@
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\wwwroot\css\app.css
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\wwwroot\css\bootstrap\bootstrap.min.css
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\wwwroot\index.html
 wwwroot\css\app.css
 wwwroot\css\bootstrap\bootstrap.min.css
 wwwroot\css\bootstrap\bootstrap.min.css.map
@@ -5,7 +9,3 @@ wwwroot\images\chietalogo.png
 wwwroot\images\Landing1.jpg
 wwwroot\images\Landing2.jpg
 wwwroot\index.html
-C:\Users\Smart_Room2\Desktop\koaLA\ChietaApp\wwwroot\css\app.css
-C:\Users\Smart_Room2\Desktop\koaLA\ChietaApp\wwwroot\css\bootstrap\bootstrap.min.css
-C:\Users\Smart_Room2\Desktop\koaLA\ChietaApp\wwwroot\css\bootstrap\bootstrap.min.css.map
-C:\Users\Smart_Room2\Desktop\koaLA\ChietaApp\wwwroot\index.html
