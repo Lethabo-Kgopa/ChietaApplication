@@ -34169,11 +34169,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Smart_Room2\\Desktop\\koaLA\\ChietaApp\\ChietaApp.csproj",
+      "projectUniqueName": "C:\\Users\\Smart_Room2\\Desktop\\koala2\\ChietaApp\\ChietaApp.csproj",
       "projectName": "ChietaApp",
-      "projectPath": "C:\\Users\\Smart_Room2\\Desktop\\koaLA\\ChietaApp\\ChietaApp.csproj",
+      "projectPath": "C:\\Users\\Smart_Room2\\Desktop\\koala2\\ChietaApp\\ChietaApp.csproj",
       "packagesPath": "C:\\Users\\Smart_Room2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Smart_Room2\\Desktop\\koaLA\\ChietaApp\\obj\\",
+      "outputPath": "C:\\Users\\Smart_Room2\\Desktop\\koala2\\ChietaApp\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

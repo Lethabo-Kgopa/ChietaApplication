@@ -596,216 +596,8 @@ h1:focus {
     }
 }
 
-.section-title {
-    font-size: 14px;
-    font-weight: 600;
-    margin: 16px 0 8px;
-}
-
-.summary-section {
-    margin-top: 16px;
-}
-
-.biodata-card {
-    background-color: #F4F4F4;
-    border-radius: 8px;
-    padding: 12px;
-    margin-bottom: 12px;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-    font-size: 12px;
-    color: #333;
-}
-
-    .biodata-card p {
-        display: flex;
-        justify-content: space-between;
-        margin: 4px 0;
-    }
-
-    .biodata-card.totals {
-        display: flex;
-        justify-content: space-between;
-        font-weight: bold;
-        background-color: #f8f8f8;
-    }
-
-.training-cards {
-    display: flex;
-    gap: 8px;
-    justify-content: space-between;
-    margin-top: 12px;
-}
-
-.training-card {
-    flex: 1;
-    padding: 8px;
-    border-radius: 8px;
-    font-size: 11px;
-    text-align: center;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-}
-
-    .training-card h2 {
-        font-size: 20px;
-        margin: 4px 0;
-    }
-
-    .training-card span {
-        font-size: 10px;
-        color: #666;
-    }
-
-    .training-card.achieved {
-        background-color: #E9FFF1;
-        color: #2B8D55;
-        border-left: 4px solid #2B8D55;
-    }
-
-    .training-card.busy {
-        background-color: #FDF4E3;
-        color: #A67A00;
-        border-left: 4px solid #A67A00;
-    }
-
-    .training-card.planned {
-        background-color: #F5F5F5;
-        color: #666;
-        border-left: 4px solid #999;
-    }
-}
-
-.main-container {
-    font-family: 'Segoe UI', sans-serif;
-    padding: 16px;
-    background-color: white;
-    min-height: 100vh;
-}
-
-.header {
-    padding-bottom: 12px;
-}
-
-.back {
-    font-size: 14px;
-    color: black;
-    display: inline-block;
-    margin-bottom: 4px;
-}
-
-.title {
-    color: #FFB400;
-    font-size: 16px;
-    font-weight: bold;
-    margin: 0;
-}
-
-.subtitle {
-    font-size: 12px;
-    color: #4A4A4A;
-    margin: 0;
-}
-
-.tabs {
-    display: flex;
-    gap: 12px;
-    padding: 8px 0;
-}
-
-.tab {
-    background: none;
-    border: none;
-    font-size: 13px;
-    padding: 4px 8px;
-    cursor: pointer;
-    color: #333;
-}
-
-    .tab.active {
-        font-weight: bold;
-        background-color: #f1e4cd;
-        border-radius: 8px;
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    }
-
-.payment-section {
-    margin-top: 20px;
-}
-
-.overview-title {
-    text-align: center;
-    background-color: #F1E4CD;
-    font-weight: bold;
-    padding: 8px;
-    border-radius: 6px;
-    margin-bottom: 16px;
-}
-
-.table-header {
-    display: flex;
-    justify-content: space-between;
-    font-size: 11px;
-    font-weight: 600;
-    margin-bottom: 10px;
-}
-
-.table-divider {
-    border-top: 1px solid #ccc;
-    position: relative;
-    margin-bottom: 20px;
-}
-
-.yellow-bar {
-    height: 4px;
-    width: 60px;
-    background-color: #FFB400;
-    margin: auto;
-    margin-top: -2px;
-    border-radius: 2px;
-}
-
-.download-btn {
-    display: block;
-    width: 100%;
-    padding: 8px;
-    font-size: 12px;
-    border: 1px solid #000;
-    background: transparent;
-    border-radius: 6px;
-    cursor: pointer;
-}
-
-.bottom-nav {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background-color: #3D1E5D;
-    display: flex;
-    justify-content: space-around;
-    padding: 8px 0;
-    border-top-left-radius: 18px;
-    border-top-right-radius: 18px;
-}
-
-.nav-item {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    font-size: 10px;
-    color: white;
-}
-
-    .nav-item.active {
-        color: #FFB400;
-    }
-
-.icon {
-    font-size: 16px;
-    margin-bottom: 2px;
-}
-
-
-
+<<<<<<< HEAD
+/*Mandatory Downloads page*/
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -813,7 +605,7 @@ body {
     background-color: #f5f5f5;
 }
 
-.header {
+.header2 {
     background-color: #3e235e;
     color: white;
     padding: 20px;
@@ -830,13 +622,13 @@ body {
         font-size: 14px;
     }
 
-.tabs {
+.tabs2 {
     display: flex;
     border-bottom: 1px solid #ccc;
     background-color: white;
 }
 
-.tab {
+.tab2 {
     flex: 1;
     text-align: center;
     padding: 10px;
@@ -867,7 +659,7 @@ body {
         font-size: 14px;
     }
 
-.footer {
+.footer2 {
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -886,11 +678,11 @@ body {
         cursor: pointer;
     }
 
-    .footer .active {
+    .footer .active2 {
         color: #f5a623;
     }
 
-
+/*Lesedi Student Fund*/
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -902,7 +694,7 @@ body {
     min-height: 100vh;
 }
 
-.form-container {
+.form-container2 {
     max-width: 800px;
     margin: 30px auto;
     padding: 20px;
@@ -934,7 +726,7 @@ h1, h2, h3 {
     margin: 0 0 15px 0;
 }
 
-.form-section {
+.form-section2 {
     border: 1px solid #ccc;
     border-radius: 8px;
     padding: 20px;
@@ -942,11 +734,11 @@ h1, h2, h3 {
     background-color: #fafafa;
 }
 
-.form-group {
+.form-group2 {
     margin-bottom: 15px;
 }
 
-.form-row {
+.form-row2 {
     display: flex;
     justify-content: space-between;
     gap: 15px;
@@ -990,28 +782,294 @@ button.submit-button {
         background-color: #4e2a88;
     }
 
+=======
+.page-container {
+    font-family: 'Segoe UI', sans-serif;
+    color: #000;
+    padding: 0;
+    margin: 0;
+    background: #fff;
+}
+>>>>>>> d07512e80572cc220cc4769763183edf96f8df09
 
+.header {
+    background: #3d0050;
+    color: white;
+    border-bottom-right-radius: 80px;
+    padding: 20px;
+    position: relative;
+}
 
+    .header .back-button {
+        position: absolute;
+        top: 10px;
+        left: 15px;
+        color: white;
+        font-size: 14px;
+        text-decoration: none;
+    }
 
+    .header h1 {
+        font-size: 16px;
+        font-weight: 600;
+        color: #ffc107;
+        margin-bottom: 4px;
+    }
 
+    .header p {
+        font-size: 12px;
+        color: #e0e0e0;
+        margin: 0;
+    }
 
+.tab-bar {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    border-bottom: 1px solid #ddd;
+}
 
+.tab {
+    padding: 10px;
+    background: transparent;
+    border: none;
+    font-weight: 500;
+    font-size: 13px;
+    color: black;
+}
 
+    .tab.active {
+        border-bottom: 2px solid #3d0050;
+        font-weight: bold;
+    }
 
+.section {
+    padding: 15px;
+}
 
+.summary-box {
+    background-color: #f8dfbb;
+    text-align: center;
+    padding: 10px;
+    font-weight: 600;
+    border-radius: 6px;
+    margin: 10px 0;
+}
 
+h2 {
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 20px;
+}
 
+.biodata-summary {
+    display: flex;
+    justify-content: space-between;
+    background: #eee;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
 
+.biodata-card {
+    background: #f1f1f1;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    font-size: 14px;
+}
 
+    .biodata-card div {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 4px;
+    }
 
+.training-cards {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
 
+.card {
+    flex: 1;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    font-size: 13px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
 
+    .card .count {
+        font-size: 18px;
+        font-weight: bold;
+        margin: 4px 0;
+    }
 
+    .card.achieved {
+        background-color: #e0ffe0;
+        border: 1px solid #9ae59a;
+    }
 
+    .card.busy {
+        background-color: #fff0d9;
+        border: 1px solid #ffc107;
+    }
 
+    .card.planned {
+        background-color: #f2f0f7;
+        border: 1px solid #ccc;
+    }
 
+.bottom-nav {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #3d0050;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
 
+    .bottom-nav .nav-item {
+        text-align: center;
+        font-size: 10px;
+        width: 25%;
+    }
 
+        .bottom-nav .nav-item.active {
+            color: #ffc107;
+        }
 
+.container {
+    padding: 16px;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: white;
+}
 
+.header {
+    background-color: #4B266D;
+    color: white;
+    border-bottom-right-radius: 90px;
+    padding: 20px;
+    margin-bottom: 16px;
+    position: relative;
+}
+
+.back-link {
+    position: absolute;
+    top: 10px;
+    left: 16px;
+    color: white;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.title {
+    font-size: 16px;
+    font-weight: bold;
+    color: #FFB400;
+    margin-top: 20px;
+}
+
+.subtitle {
+    font-size: 12px;
+    margin-top: 4px;
+}
+
+.tabs {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 16px;
+    padding: 0 4px;
+}
+
+.tab {
+    font-size: 13px;
+    color: black;
+    padding: 4px 6px;
+}
+
+    .tab.active {
+        font-weight: bold;
+        border-bottom: 3px solid #4B266D;
+    }
+
+.section-card {
+    background-color: #f5deb3;
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+}
+
+.table-header {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    font-size: 12px;
+    padding: 8px 0;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+.table-placeholder {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loading-bar {
+    width: 60px;
+    height: 4px;
+    background-color: #F1B434;
+    border-radius: 2px;
+}
+
+.download-button-container {
+    margin-top: 16px;
+    display: flex;
+    justify-content: center;
+}
+
+.download-button {
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: 10px 16px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.bottom-nav {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #4B266D;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.nav-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 10px;
+    color: white;
+}
+
+    .nav-item.active span {
+        color: #F1B434;
+    }
 

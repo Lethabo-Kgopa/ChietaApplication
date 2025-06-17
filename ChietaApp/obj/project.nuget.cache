@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d26/3Vuwh30=",
+  "dgSpecHash": "TReJe9tSZsQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Smart_Room2\\Desktop\\koaLA\\ChietaApp\\ChietaApp.csproj",
+  "projectFilePath": "C:\\Users\\Smart_Room2\\Desktop\\koala2\\ChietaApp\\ChietaApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Smart_Room2\\.nuget\\packages\\googlegson\\2.11.0.5\\googlegson.2.11.0.5.nupkg.sha512",
     "C:\\Users\\Smart_Room2\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.0\\microsoft.aspnetcore.authorization.9.0.0.nupkg.sha512",

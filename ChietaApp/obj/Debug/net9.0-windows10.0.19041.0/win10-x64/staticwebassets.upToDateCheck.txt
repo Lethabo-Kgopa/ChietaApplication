@@ -1,18 +1,11 @@
+wwwroot\css\app.css
 wwwroot\css\bootstrap\bootstrap.min.css
 wwwroot\css\bootstrap\bootstrap.min.css.map
 wwwroot\images\chietalogo.png
 wwwroot\images\Landing1.jpg
 wwwroot\images\Landing2.jpg
 wwwroot\index.html
-<<<<<<< HEAD
-C:\Users\Smart_Room2\Desktop\koaLA\ChietaApp\wwwroot\css\app.css
-C:\Users\Smart_Room2\Desktop\koaLA\ChietaApp\wwwroot\css\bootstrap\bootstrap.min.css
-C:\Users\Smart_Room2\Desktop\koaLA\ChietaApp\wwwroot\css\bootstrap\bootstrap.min.css.map
-C:\Users\Smart_Room2\Desktop\koaLA\ChietaApp\wwwroot\index.html
-=======
-wwwroot\css\app.css
-C:\sources\ChietaApplication\ChietaApp\wwwroot\css\bootstrap\bootstrap.min.css
-C:\sources\ChietaApplication\ChietaApp\wwwroot\css\bootstrap\bootstrap.min.css.map
-C:\sources\ChietaApplication\ChietaApp\wwwroot\index.html
-C:\sources\ChietaApplication\ChietaApp\wwwroot\css\app.css
->>>>>>> d07512e80572cc220cc4769763183edf96f8df09
+C:\Users\Smart_Room2\Desktop\koala2\ChietaApp\wwwroot\css\app.css
+C:\Users\Smart_Room2\Desktop\koala2\ChietaApp\wwwroot\css\bootstrap\bootstrap.min.css
+C:\Users\Smart_Room2\Desktop\koala2\ChietaApp\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\Smart_Room2\Desktop\koala2\ChietaApp\wwwroot\index.html

@@ -5,7 +5,7 @@ wwwroot\images\chietalogo.png
 wwwroot\images\Landing1.jpg
 wwwroot\images\Landing2.jpg
 wwwroot\index.html
-C:\Users\Smart_Room2\Desktop\koaLA\ChietaApp\wwwroot\css\app.css
-C:\Users\Smart_Room2\Desktop\koaLA\ChietaApp\wwwroot\css\bootstrap\bootstrap.min.css
-C:\Users\Smart_Room2\Desktop\koaLA\ChietaApp\wwwroot\css\bootstrap\bootstrap.min.css.map
-C:\Users\Smart_Room2\Desktop\koaLA\ChietaApp\wwwroot\index.html
+C:\Users\Smart_Room2\Desktop\koala2\ChietaApp\wwwroot\css\app.css
+C:\Users\Smart_Room2\Desktop\koala2\ChietaApp\wwwroot\css\bootstrap\bootstrap.min.css
+C:\Users\Smart_Room2\Desktop\koala2\ChietaApp\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\Smart_Room2\Desktop\koala2\ChietaApp\wwwroot\index.html
