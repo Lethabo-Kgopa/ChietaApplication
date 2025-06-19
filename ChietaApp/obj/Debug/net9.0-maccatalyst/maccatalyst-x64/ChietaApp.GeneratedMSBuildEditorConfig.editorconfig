@@ -13,137 +13,137 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ChietaApp
 build_property.RootNamespace = ChietaApp
-build_property.ProjectDir = C:\Users\Smart_Room2\Desktop\koala2\ChietaApp\
+build_property.ProjectDir = C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Smart_Room2\Desktop\koala2\ChietaApp
+build_property.MSBuildProjectDirectory = C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Smart_Room2/Desktop/koala2/ChietaApp/App.xaml]
+[C:/Users/lkgopa/source/repos/ChietaApplication/ChietaApp/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ChietaApp.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Smart_Room2/Desktop/koala2/ChietaApp/MainPage.xaml]
+[C:/Users/lkgopa/source/repos/ChietaApplication/ChietaApp/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ChietaApp.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Smart_Room2/Desktop/koala2/ChietaApp/Components/Pages/Counter.razor]
+[C:/Users/lkgopa/source/repos/ChietaApplication/ChietaApp/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Smart_Room2/Desktop/koala2/ChietaApp/Components/Pages/Downloads.razor]
+[C:/Users/lkgopa/source/repos/ChietaApplication/ChietaApp/Components/Pages/Downloads.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEb3dubG9hZHMucmF6b3I=
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Smart_Room2/Desktop/koala2/ChietaApp/Components/Pages/Home.razor]
+[C:/Users/lkgopa/source/repos/ChietaApplication/ChietaApp/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Smart_Room2/Desktop/koala2/ChietaApp/Components/Pages/Landing.razor]
+[C:/Users/lkgopa/source/repos/ChietaApplication/ChietaApp/Components/Pages/Landing.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMYW5kaW5nLnJhem9y
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Smart_Room2/Desktop/koala2/ChietaApp/Components/Pages/LesediStudentFund.razor]
+[C:/Users/lkgopa/source/repos/ChietaApplication/ChietaApp/Components/Pages/LesediStudentFund.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMZXNlZGlTdHVkZW50RnVuZC5yYXpvcg==
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Smart_Room2/Desktop/koala2/ChietaApp/Components/Pages/LinkedOrganizations.razor]
+[C:/Users/lkgopa/source/repos/ChietaApplication/ChietaApp/Components/Pages/LinkedOrganizations.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMaW5rZWRPcmdhbml6YXRpb25zLnJhem9y
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Smart_Room2/Desktop/koala2/ChietaApp/Components/Pages/Login.razor]
+[C:/Users/lkgopa/source/repos/ChietaApplication/ChietaApp/Components/Pages/Login.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMb2dpbi5yYXpvcg==
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Smart_Room2/Desktop/koala2/ChietaApp/Components/Pages/Mandatory-Grants-Overview.razor]
+[C:/Users/lkgopa/source/repos/ChietaApplication/ChietaApp/Components/Pages/Mandatory-Grants-Overview.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xNYW5kYXRvcnktR3JhbnRzLU92ZXJ2aWV3LnJhem9y
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Smart_Room2/Desktop/koala2/ChietaApp/Components/Pages/Mandatory-Sdf-Details.razor]
+[C:/Users/lkgopa/source/repos/ChietaApplication/ChietaApp/Components/Pages/Mandatory-Sdf-Details.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xNYW5kYXRvcnktU2RmLURldGFpbHMucmF6b3I=
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Smart_Room2/Desktop/koala2/ChietaApp/Components/Pages/OverView-Payment.razor]
+[C:/Users/lkgopa/source/repos/ChietaApplication/ChietaApp/Components/Pages/OverView-Payment.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xPdmVyVmlldy1QYXltZW50LnJhem9y
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Smart_Room2/Desktop/koala2/ChietaApp/Components/Pages/Summary.razor]
+[C:/Users/lkgopa/source/repos/ChietaApplication/ChietaApp/Components/Pages/Summary.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTdW1tYXJ5LnJhem9y
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Smart_Room2/Desktop/koala2/ChietaApp/Components/Pages/Weather.razor]
+[C:/Users/lkgopa/source/repos/ChietaApplication/ChietaApp/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Smart_Room2/Desktop/koala2/ChietaApp/Components/Routes.razor]
+[C:/Users/lkgopa/source/repos/ChietaApplication/ChietaApp/Components/Routes.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Smart_Room2/Desktop/koala2/ChietaApp/Components/_Imports.razor]
+[C:/Users/lkgopa/source/repos/ChietaApplication/ChietaApp/Components/_Imports.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Smart_Room2/Desktop/koala2/ChietaApp/Components/Layout/MainLayout.razor]
+[C:/Users/lkgopa/source/repos/ChietaApplication/ChietaApp/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = b-zy5iybebim
 
-[C:/Users/Smart_Room2/Desktop/koala2/ChietaApp/Components/Layout/NavMenu.razor]
+[C:/Users/lkgopa/source/repos/ChietaApplication/ChietaApp/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
