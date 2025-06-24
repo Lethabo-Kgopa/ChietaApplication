@@ -19,7 +19,6 @@ C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\scopedcss\Compon
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\scopedcss\bundle\ChietaApp.styles.css
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\scopedcss\projectbundle\ChietaApp.bundle.scp.css
-C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\9w8ash39pw-fkrtue0wwy.gz
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\byu1sj4xpy-6gzpyzhau4.gz
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\053obva0vb-8inm30yfxf.gz
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\e25xx7drf2-asx38bmddw.gz
@@ -36,7 +35,6 @@ C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\staticwebassets\
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\staticwebassets\msbuild.buildTransitive.ChietaApp.props
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\staticwebassets.pack.json
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\staticwebassets.upToDateCheck.txt
-C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\publish\9w8ash39pw-fkrtue0wwy.br
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\publish\byu1sj4xpy-6gzpyzhau4.br
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\publish\053obva0vb-8inm30yfxf.br
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\publish\e25xx7drf2-asx38bmddw.br
@@ -1042,7 +1040,6 @@ C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\zh-Hant\Microsoft.Maui.Controls.resources.dll
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\zh-HK\Microsoft.Maui.Controls.resources.dll
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\_Microsoft.Android.Resource.Designer.dll
-C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\typemaps.arm64-v8a.ll
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\typemaps.x86_64.ll
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\AndroidManifest.xml
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\AndroidManifest.xml
@@ -1052,7 +1049,6 @@ C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\m
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\bin\mono.android.jar
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\static.flag
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\__environment__.txt
-C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\environment.arm64-v8a.ll
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\environment.x86_64.ll
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\androidx\activity\ktx\R.java
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\androidx\activity\R.java
@@ -1442,19 +1438,12 @@ C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\assets\OpenSans-
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\bin\packaged_resources
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\com\companyname\chietaapp\R.java
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\_CompileJava.FileList.txt
-C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\compressed_assemblies.arm64-v8a.ll
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\compressed_assemblies.x86_64.ll
-C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\typemaps.arm64-v8a.o
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\typemaps.x86_64.o
-C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\environment.arm64-v8a.o
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\environment.x86_64.o
-C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\compressed_assemblies.arm64-v8a.o
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\compressed_assemblies.x86_64.o
-C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\marshal_methods.arm64-v8a.o
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\marshal_methods.x86_64.o
-C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\jni_remap.arm64-v8a.o
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\jni_remap.x86_64.o
-C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\app_shared_libraries\arm64-v8a\libxamarin-app.so
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\app_shared_libraries\x86_64\libxamarin-app.so
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\bin\classes.dex
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\bin\classes2.dex
@@ -1466,3 +1455,5 @@ C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\stamp\_ConvertRe
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\stamp\_GenerateJavaStubs.stamp
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\9w8ash39pw-89zqst8i5c.gz
+C:\sources\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\publish\9w8ash39pw-89zqst8i5c.br

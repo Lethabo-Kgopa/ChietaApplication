@@ -83,9 +83,27 @@
 .checkbox-group {
     display: flex;
     align-items: center;
-    margin: 10px 0;
-    gap: 0.5rem;
+    margin: 15px 0;
+    gap: 8px;
 }
+
+    .checkbox-group input[type="checkbox"] {
+        margin: 0;
+        width: 16px;
+        height: 16px;
+        cursor: pointer;
+    }
+
+    .checkbox-group label {
+        margin: 0;
+        cursor: pointer;  
+        
+    }
+
+    .checkbox-group a {
+        color: #007bff;
+        text-decoration: none;
+    }
 
 .register-button {
     background-color: #007bff;
