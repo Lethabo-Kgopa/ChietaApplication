@@ -1,58 +1,68 @@
 ﻿@page "/login"
+@using ChietaApp.Models
+@using ChietaApp.Services
+@inject DatabaseService DatabaseService
+@inject NavigationManager Navigation
+@inject UserState UserState
 
-<div class="login-container">  
-    <img src="images/chietalogo.png" alt="CHiETA Logo" style="height: 100px;" />
-    <br />
+<EditForm Model="@loginModel" OnValidSubmit="Submit">
+    <DataAnnotationsValidator />
+    <div class="login-container">
+        <img src="images/chietalogo.png" alt="CHiETA Logo" class="logo" />
 
-    <h2 class="login-title">Login</h2>
+        <h2 class="login-title">Login</h2>
 
-    <div class="form-group">
-        <input type="email" placeholder="Email" class="input-field" />
-    </div>
+        <div class="form-group">
+            <input type="text" @bind-value="loginModel.UserNameOrEmailAddress" placeholder="Username" class="input-field" />
+            <ValidationMessage For="@(() => loginModel.UserNameOrEmailAddress)" />
+        </div>
 
-    <div class="form-group">
-        <input type="password" placeholder="Password" class="input-field" />
-    </div>
-    <div class="form-section">
-        <p class="forgot-password">
-            Forgot Password? <a href="https://ims.chieta.org.za/account/forgot-password" class="reset-link">Reset Now</a>
-        </p>
+        <div class="form-group">
+            <input type="password" @bind-value="loginModel.Password" placeholder="Password" class="input-field" />
+            <ValidationMessage For="@(() => loginModel.Password)" />
+        </div>
 
-        <div class="form-group checkbox-group">
-            <label>
+        <div class="form-section">
+            <p class="forgot-password">
+                Forgot Password?
+                <a href="https://ims.chieta.org.za/account/forgot-password" class="reset-link">Reset Now</a>
+            </p>
+
+            <div class="checkbox-group">
                 <input type="checkbox" id="agree" />
-                 I agree to <a href="#">terms of use</a> & <a href="#">privacy statement</a>
-            </label>
+                <label for="agree">
+                    I agree to <a href="#">terms of use</a> &amp; <a href="#">privacy statement</a>
+                </label>
+            </div>
         </div>
-        </div>
 
-       
+        <button class="btn-login" type="submit">
+            Login
+        </button>
 
-
-    <button class="btn-login" @onclick="GoToHome">
-        Login
-    </button>
-
-    <p class="register-message">
-        Don’t have an account? <a href="https://ims.chieta.org.za/account/register" class="register-link">Register</a>
-    </p>
-</div>
-
-
-
-
-
-
-
-
+        <p class="register-message">
+            Don’t have an account?
+            <a href="/register" class="register-link">Register</a>
+        </p>
+    </div>
+</EditForm>
 
 @code {
-    [Inject]
-    NavigationManager Navigation { get; set; }
+    private LoginModel loginModel = new();
 
-     void GoToHome()
+    private void Submit()
     {
-        Navigation.NavigateTo("/home");
-    }
+        string userName = DatabaseService.Login(loginModel.UserNameOrEmailAddress, loginModel.Password);
 
+        if (!string.IsNullOrEmpty(userName))
+        {
+            UserState.UserName = userName;
+            App.Current.MainPage.DisplayAlert("Success", $"Welcome {userName}", "OK");
+            Navigation.NavigateTo("/home");
+        }
+        else
+        {
+            App.Current.MainPage.DisplayAlert("Oops", "Invalid username or password", "OK");
+        }
+    }
 }

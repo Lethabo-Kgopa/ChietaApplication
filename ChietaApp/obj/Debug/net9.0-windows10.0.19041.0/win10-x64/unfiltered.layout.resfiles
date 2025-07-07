@@ -1,3 +1,4 @@
+runtimes\win-x64\native\WebView2Loader.dll
 Components\Layout\MainLayout.razor.css
 Components\Layout\NavMenu.razor.css
 wwwroot\css\bootstrap\bootstrap.min.css.map.gz
@@ -71,6 +72,8 @@ splashSplashScreen.scale-200.png
 splashSplashScreen.scale-400.png
 wwwroot\ChietaApp.styles.css
 wwwroot\ChietaApp.tw4sc55izp.bundle.scp.css
+users.json
+Resources\Data\users.json
 AboutAssets.txt
 wwwroot\css\app.css
 wwwroot\css\bootstrap\bootstrap.min.css

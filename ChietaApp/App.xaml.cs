@@ -1,15 +1,33 @@
-﻿namespace ChietaApp
+﻿using ChietaApp.Services;
+using System.Threading.Tasks;
+using Microsoft.Maui.Dispatching;
+
+namespace ChietaApp
 {
     public partial class App : Application
     {
-        public App()
+        private readonly DatabaseService _databaseService;
+        private Page _mainPage;
+
+        public App(DatabaseService databaseService)
         {
             InitializeComponent();
+            _databaseService = databaseService;
+
+            LoadDataAndPrepareMainPage();
+        }
+
+        private async void LoadDataAndPrepareMainPage()
+        {
+            await _databaseService.InitializeAsync();
+
+            _mainPage = new MainPage(); // Or new AppShell() if you're using Shell
         }
 
         protected override Window CreateWindow(IActivationState? activationState)
         {
-            return new Window(new MainPage()) { Title = "ChietaApp" };
+            // Ensure _mainPage is ready; fallback if somehow not initialized
+            return new Window(_mainPage ?? new MainPage()) { Title = "ChietaApp" };
         }
     }
 }

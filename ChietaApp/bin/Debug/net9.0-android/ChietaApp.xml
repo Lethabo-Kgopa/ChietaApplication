@@ -4,6 +4,16 @@
         <name>ChietaApp</name>
     </assembly>
     <members>
+        <member name="M:ChietaApp.Services.DatabaseService.InitializeAsync">
+            <summary>
+            Loads user data from the packaged users.json file.
+            </summary>
+        </member>
+        <member name="M:ChietaApp.Services.DatabaseService.Login(System.String,System.String)">
+            <summary>
+            Attempts to log in with the given username/email and password.
+            </summary>
+        </member>
         <member name="T:ChietaApp.Resource">
             <summary>
             Android Resource Designer class.
