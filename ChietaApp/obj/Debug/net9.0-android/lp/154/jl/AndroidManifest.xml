@@ -15,8 +15,12 @@
   ~ limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="androidx.navigation.ui" >
+=======
+    package="androidx.lifecycle.livedata.core.ktx" >
+>>>>>>> master
 
-    <uses-sdk android:minSdkVersion="21" />
+    <uses-sdk android:minSdkVersion="19" />
 
 </manifest>

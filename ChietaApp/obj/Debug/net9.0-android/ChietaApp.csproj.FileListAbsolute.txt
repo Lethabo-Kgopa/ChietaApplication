@@ -1,5 +1,8 @@
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-android\wwwroot\images\chietalogo.png
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-android\Resources\Data\users.json
+=======
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-android\ChietaApp.staticwebassets.endpoints.json
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-android\ChietaApp.runtimeconfig.json
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-android\ChietaApp.dll
@@ -19,7 +22,11 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\scopedcss\bundle\ChietaApp.styles.css
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\scopedcss\projectbundle\ChietaApp.bundle.scp.css
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\9w8ash39pw-d75vvab5av.gz
+=======
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\9w8ash39pw-fkrtue0wwy.gz
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\byu1sj4xpy-6gzpyzhau4.gz
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\053obva0vb-8inm30yfxf.gz
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\e25xx7drf2-asx38bmddw.gz
@@ -37,7 +44,11 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\staticwebassets.upToDateCheck.txt
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\publish\r14fuvwmtm-tw4sc55izp.br
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\publish\btc5k7c35h-tw4sc55izp.br
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\publish\9w8ash39pw-d75vvab5av.br
+=======
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\publish\9w8ash39pw-fkrtue0wwy.br
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\publish\byu1sj4xpy-6gzpyzhau4.br
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\publish\053obva0vb-8inm30yfxf.br
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\compressed\publish\e25xx7drf2-asx38bmddw.br
@@ -48,8 +59,22 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\mauiimage.inputs
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\mauifont.inputs
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\mauisplash.inputs
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\mauisplash.stamp
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\mauifont.stamp
+=======
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resizetizer\sp\drawable-hdpi\splash.png
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resizetizer\sp\drawable-mdpi\splash.png
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resizetizer\sp\drawable-v31\maui_splash_image.xml
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resizetizer\sp\drawable-xhdpi\splash.png
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resizetizer\sp\drawable-xxhdpi\splash.png
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resizetizer\sp\drawable-xxxhdpi\splash.png
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resizetizer\sp\drawable\maui_splash_image.xml
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resizetizer\sp\values\maui_colors.xml
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\mauisplash.stamp
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\mauifont.stamp
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resizetizer\f\OpenSans-Regular.ttf
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resizetizer\r\drawable-xxxhdpi\dotnet_bot.png
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resizetizer\r\drawable-xxhdpi\dotnet_bot.png
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resizetizer\r\drawable-xhdpi\dotnet_bot.png
@@ -84,33 +109,59 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\case_map.txt
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\__Microsoft.Android.Resource.Designer.cs
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\res.flag
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resizetizer\B81013EDA07D2EB8-files.cache
+=======
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resizetizer\6CD7C47F03026257-files.cache
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resizetizer\B81013EDA07D2EB8-files.cache
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\98\jl\files.cache
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\99\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\100\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\101\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\102\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\103\jl\files.cache
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\104\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\107\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\108\jl\files.cache
+=======
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\106\jl\files.cache
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\107\jl\files.cache
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\110\jl\files.cache
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\111\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\112\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\113\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\114\jl\files.cache
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\115\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\117\jl\files.cache
+=======
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\116\jl\files.cache
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\118\jl\files.cache
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\119\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\120\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\121\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\122\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\123\jl\files.cache
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\124\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\126\jl\files.cache
+=======
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\125\jl\files.cache
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\129\jl\files.cache
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\130\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\131\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\132\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\133\jl\files.cache
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\134\jl\files.cache
+=======
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\135\jl\files.cache
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\136\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\137\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\138\jl\files.cache
@@ -124,7 +175,11 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\146\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\147\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\148\jl\files.cache
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\149\jl\files.cache
+=======
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\150\jl\files.cache
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\151\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\152\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\153\jl\files.cache
@@ -132,6 +187,7 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\155\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\156\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\157\jl\files.cache
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\158\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\160\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\162\jl\files.cache
@@ -139,6 +195,14 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\166\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\167\jl\files.cache
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\168\jl\files.cache
+=======
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\159\jl\files.cache
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\161\jl\files.cache
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\164\jl\files.cache
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\165\jl\files.cache
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\166\jl\files.cache
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\lp\167\jl\files.cache
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\R.txt
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\_Microsoft.Android.Resource.Designer.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\R.cs.flag
@@ -160,6 +224,7 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\res\values\colors.xml
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\uploadflags.txt
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\resolvedassemblies.hash
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\arm64-v8a\ar\Microsoft.Maui.Controls.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\arm64-v8a\Azure.Core.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\arm64-v8a\Azure.Identity.dll
@@ -635,6 +700,18 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\es\Microsoft.Maui.Controls.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\fi\Microsoft.Maui.Controls.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\fr\Microsoft.Data.SqlClient.resources.dll
+=======
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\ar\Microsoft.Maui.Controls.resources.dll
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\ca\Microsoft.Maui.Controls.resources.dll
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\ChietaApp.dll
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\ChietaApp.pdb
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\cs\Microsoft.Maui.Controls.resources.dll
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\da\Microsoft.Maui.Controls.resources.dll
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\de\Microsoft.Maui.Controls.resources.dll
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\el\Microsoft.Maui.Controls.resources.dll
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\es\Microsoft.Maui.Controls.resources.dll
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\fi\Microsoft.Maui.Controls.resources.dll
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\fr\Microsoft.Maui.Controls.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\GoogleGson.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\GoogleGson.pdb
@@ -643,6 +720,7 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\hr\Microsoft.Maui.Controls.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\hu\Microsoft.Maui.Controls.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\id\Microsoft.Maui.Controls.resources.dll
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\it\Microsoft.Data.SqlClient.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\it\Microsoft.Maui.Controls.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Java.Interop.dll
@@ -652,6 +730,14 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Jsr305Binding.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Jsr305Binding.pdb
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\ko\Microsoft.Data.SqlClient.resources.dll
+=======
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\it\Microsoft.Maui.Controls.resources.dll
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Java.Interop.dll
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Java.Interop.pdb
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\ja\Microsoft.Maui.Controls.resources.dll
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Jsr305Binding.dll
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Jsr305Binding.pdb
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\ko\Microsoft.Maui.Controls.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.AspNetCore.Authorization.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.AspNetCore.Components.dll
@@ -661,12 +747,16 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.AspNetCore.Components.WebView.Maui.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.AspNetCore.Components.WebView.Maui.pdb
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.AspNetCore.Metadata.dll
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.Bcl.Cryptography.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.CSharp.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.Data.SqlClient.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.Extensions.Caching.Memory.dll
+=======
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.CSharp.dll
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.Extensions.Configuration.Binder.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.Extensions.Configuration.dll
@@ -684,6 +774,7 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.Extensions.Logging.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.Extensions.Options.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.Extensions.Primitives.dll
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.Identity.Client.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.Identity.Client.Extensions.Msal.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.IdentityModel.Abstractions.dll
@@ -692,6 +783,8 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.IdentityModel.Protocols.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.IdentityModel.Tokens.dll
+=======
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.JSInterop.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.Maui.Controls.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.Maui.Controls.HotReload.Forms.dll
@@ -704,8 +797,11 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.Maui.Graphics.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.Maui.Graphics.pdb
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.Maui.pdb
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.SqlServer.Server.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.SqlServer.Server.pdb
+=======
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.VisualBasic.Core.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.VisualBasic.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
@@ -722,6 +818,7 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\ms\Microsoft.Maui.Controls.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\nb\Microsoft.Maui.Controls.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\netstandard.dll
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Newtonsoft.Json.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\nl\Microsoft.Maui.Controls.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\pl\Microsoft.Data.SqlClient.resources.dll
@@ -731,12 +828,22 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\pt\Microsoft.Maui.Controls.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\ro\Microsoft.Maui.Controls.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\ru\Microsoft.Data.SqlClient.resources.dll
+=======
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\nl\Microsoft.Maui.Controls.resources.dll
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\pl\Microsoft.Maui.Controls.resources.dll
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\pt-BR\Microsoft.Maui.Controls.resources.dll
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\pt\Microsoft.Maui.Controls.resources.dll
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\ro\Microsoft.Maui.Controls.resources.dll
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\ru\Microsoft.Maui.Controls.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\sk\Microsoft.Maui.Controls.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\sv\Microsoft.Maui.Controls.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.AppContext.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Buffers.dll
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.ClientModel.dll
+=======
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Collections.Concurrent.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Collections.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Collections.Immutable.dll
@@ -748,7 +855,10 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.ComponentModel.EventBasedAsync.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.ComponentModel.Primitives.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.ComponentModel.TypeConverter.dll
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Configuration.ConfigurationManager.dll
+=======
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Configuration.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Console.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Core.dll
@@ -758,7 +868,10 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Diagnostics.Contracts.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Diagnostics.Debug.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Diagnostics.DiagnosticSource.dll
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Diagnostics.EventLog.dll
+=======
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Diagnostics.FileVersionInfo.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Diagnostics.Process.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Diagnostics.StackTrace.dll
@@ -775,7 +888,10 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Globalization.Calendars.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Globalization.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Globalization.Extensions.dll
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.IdentityModel.Tokens.Jwt.dll
+=======
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.IO.Compression.Brotli.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.IO.Compression.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.IO.Compression.FileSystem.dll
@@ -796,7 +912,10 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Linq.Expressions.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Linq.Parallel.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Linq.Queryable.dll
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Memory.Data.dll
+=======
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Memory.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Net.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Net.Http.dll
@@ -861,9 +980,13 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Security.Cryptography.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Security.Cryptography.Encoding.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Security.Cryptography.OpenSsl.dll
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Security.Cryptography.Pkcs.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Security.Cryptography.Primitives.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Security.Cryptography.ProtectedData.dll
+=======
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Security.Cryptography.Primitives.dll
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Security.Cryptography.X509Certificates.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Security.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Security.Principal.dll
@@ -903,7 +1026,10 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Xml.XPath.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\System.Xml.XPath.XDocument.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\th\Microsoft.Maui.Controls.resources.dll
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\tr\Microsoft.Data.SqlClient.resources.dll
+=======
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\tr\Microsoft.Maui.Controls.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\uk\Microsoft.Maui.Controls.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\vi\Microsoft.Maui.Controls.resources.dll
@@ -1072,6 +1198,7 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Xamarin.KotlinX.Coroutines.Core.Jvm.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Xamarin.KotlinX.Serialization.Core.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\Xamarin.KotlinX.Serialization.Core.Jvm.dll
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\zh-Hans\Microsoft.Data.SqlClient.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\zh-Hans\Microsoft.Maui.Controls.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\zh-Hant\Microsoft.Data.SqlClient.resources.dll
@@ -1079,6 +1206,12 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\zh-HK\Microsoft.Maui.Controls.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\_Microsoft.Android.Resource.Designer.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\typemaps.arm64-v8a.ll
+=======
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\zh-HK\Microsoft.Maui.Controls.resources.dll
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\assets\x86_64\_Microsoft.Android.Resource.Designer.dll
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\typemaps.x86_64.ll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\AndroidManifest.xml
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\AndroidManifest.xml
@@ -1088,7 +1221,10 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\bin\mono.android.jar
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\static.flag
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\__environment__.txt
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\environment.arm64-v8a.ll
+=======
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\environment.x86_64.ll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\androidx\activity\ktx\R.java
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\androidx\activity\R.java
@@ -1293,7 +1429,10 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\crc645d80431ce5f73f11\TextViewHolder.java
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\crc6468b6408a11370c2f\WebAuthenticatorCallbackActivity.java
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\crc6468b6408a11370c2f\WebAuthenticatorIntermediateActivity.java
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\crc648316b0a9aa8cfd61\BrowserTabActivity.java
+=======
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\crc6488302ad6e9e4df1a\ImageLoaderCallback.java
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\crc6488302ad6e9e4df1a\ImageLoaderCallbackBase_1.java
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\crc6488302ad6e9e4df1a\ImageLoaderResultCallback.java
@@ -1344,8 +1483,11 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\crc64e1fb321c08285b90\VisualElementRenderer_1.java
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\crc64e53d2f592022988e\ConnectivityBroadcastReceiver.java
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\crc64e53d2f592022988e\ConnectivityImplementation_EssentialsNetworkCallback.java
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\crc64ed1888fb4925e3b7\AuthenticationAgentActivity.java
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\crc64ed1888fb4925e3b7\AuthenticationAgentActivity_CoreWebViewClient.java
+=======
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\crc64f62664462a8937a9\AccelerometerListener.java
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\crc64f62664462a8937a9\BarometerListener.java
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\crc64f62664462a8937a9\ContinuousLocationListener.java
@@ -1363,7 +1505,10 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\crc64fcf28c0e24b4cc31\SliderHandler_SeekBarChangeListener.java
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\crc64fcf28c0e24b4cc31\SwitchHandler_CheckedChangeListener.java
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\crc64fcf28c0e24b4cc31\ToolbarHandler_ProcessBackClick.java
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\microsoft\identity\client\AuthenticationActivity.java
+=======
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\microsoft\maui\essentials\fileProvider.java
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\microsoft\maui\platform\MauiNavHostFragment.java
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\mono\androidx\activity\contextaware\OnContextAvailableListenerImplementor.java
@@ -1457,7 +1602,10 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEndIconChangedListenerImplementor.java
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\mono\MonoPackageManager_Resources.java
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\assets\AboutAssets.txt
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\assets\users.json
+=======
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\css\bootstrap\bootstrap.min.css.map.gz
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\css\app.css.gz
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\ChietaApp.tw4sc55izp.bundle.scp.css.gz
@@ -1479,6 +1627,7 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\images\Landing1.jpg
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\images\Landing2.jpg
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\assets\wwwroot\index.html
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\bin\packaged_resources
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\com\companyname\chietaapp\R.java
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\_CompileJava.FileList.txt
@@ -1495,6 +1644,18 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-androi
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\jni_remap.arm64-v8a.o
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\jni_remap.x86_64.o
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\app_shared_libraries\arm64-v8a\libxamarin-app.so
+=======
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\assets\OpenSans-Regular.ttf
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\bin\packaged_resources
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\src\com\companyname\chietaapp\R.java
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\_CompileJava.FileList.txt
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\compressed_assemblies.x86_64.ll
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\typemaps.x86_64.o
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\environment.x86_64.o
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\compressed_assemblies.x86_64.o
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\marshal_methods.x86_64.o
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\jni_remap.x86_64.o
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\app_shared_libraries\x86_64\libxamarin-app.so
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\bin\classes.dex
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-android\android\bin\classes2.dex

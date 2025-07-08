@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<<<<<<< HEAD
     <declare-styleable name="NavAction">
         <attr name="android:id"/>
         <attr format="reference" name="destination"/>
@@ -33,4 +34,6 @@
         <attr format="string" name="route"/>
         <attr name="android:label"/>
     </declare-styleable>
+=======
+>>>>>>> master
 </resources>

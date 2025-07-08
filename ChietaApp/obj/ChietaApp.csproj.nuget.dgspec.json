@@ -70,10 +70,13 @@
             "Microsoft.AspNetCore.Components.WebView.Maui": {
               "target": "Package",
               "version": "[9.0.14, )"
+<<<<<<< HEAD
             },
             "Microsoft.Data.SqlClient": {
               "target": "Package",
               "version": "[6.0.2, )"
+=======
+>>>>>>> master
             },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
@@ -121,10 +124,13 @@
             "Microsoft.AspNetCore.Components.WebView.Maui": {
               "target": "Package",
               "version": "[9.0.14, )"
+<<<<<<< HEAD
             },
             "Microsoft.Data.SqlClient": {
               "target": "Package",
               "version": "[6.0.2, )"
+=======
+>>>>>>> master
             },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
@@ -172,10 +178,13 @@
             "Microsoft.AspNetCore.Components.WebView.Maui": {
               "target": "Package",
               "version": "[9.0.14, )"
+<<<<<<< HEAD
             },
             "Microsoft.Data.SqlClient": {
               "target": "Package",
               "version": "[6.0.2, )"
+=======
+>>>>>>> master
             },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
@@ -224,10 +233,13 @@
             "Microsoft.AspNetCore.Components.WebView.Maui": {
               "target": "Package",
               "version": "[9.0.14, )"
+<<<<<<< HEAD
             },
             "Microsoft.Data.SqlClient": {
               "target": "Package",
               "version": "[6.0.2, )"
+=======
+>>>>>>> master
             },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
@@ -236,10 +248,13 @@
             "Microsoft.Maui.Controls": {
               "target": "Package",
               "version": "[9.0.14, )"
+<<<<<<< HEAD
             },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
+=======
+>>>>>>> master
             }
           },
           "imports": [

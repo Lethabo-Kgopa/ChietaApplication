@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 anim/nav_default_enter_anim.xml;anim/nav_default_enter_anim.xml
 anim/nav_default_exit_anim.xml;anim/nav_default_exit_anim.xml
 anim/nav_default_pop_enter_anim.xml;anim/nav_default_pop_enter_anim.xml
@@ -28,3 +29,6 @@ values/styles.xml;values/styles.xml
 Layout/drawer_layout.axml;layout/drawer_layout.xml
 Layout/fragment_backstack.axml;layout/fragment_backstack.xml
 Layout/navigationlayout.axml;layout/navigationlayout.xml
+=======
+Resources/xml/microsoft_maui_essentials_fileprovider_file_paths.xml;xml/microsoft_maui_essentials_fileprovider_file_paths.xml
+>>>>>>> master

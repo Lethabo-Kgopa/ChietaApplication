@@ -1,7 +1,10 @@
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\images\chietalogo.png
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\AboutAssets.txt
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\users.json
+=======
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\css\bootstrap\bootstrap.min.css.map.gz
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\css\app.css.gz
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\ChietaApp.tw4sc55izp.bundle.scp.css.gz
@@ -22,11 +25,20 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-window
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\images\Landing1.jpg
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\images\Landing2.jpg
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\index.html
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\dotnet_bot.scale-400.png
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\dotnet_bot.scale-200.png
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\dotnet_bot.scale-150.png
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\dotnet_bot.scale-125.png
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\dotnet_bot.scale-100.png
+=======
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\splashSplashScreen.scale-100.png
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\splashSplashScreen.scale-125.png
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\splashSplashScreen.scale-150.png
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\splashSplashScreen.scale-200.png
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\splashSplashScreen.scale-400.png
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\OpenSans-Regular.ttf
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\appiconLargeTile.scale-400.png
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\appiconLargeTile.scale-200.png
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\appiconLargeTile.scale-150.png
@@ -73,9 +85,19 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-window
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\appiconLogo.scale-125.png
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\appiconLogo.scale-100.png
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\appicon.ico
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Components\Layout\MainLayout.razor.css
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Components\Layout\NavMenu.razor.css
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Resources\Data\users.json
+=======
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\dotnet_bot.scale-400.png
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\dotnet_bot.scale-200.png
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\dotnet_bot.scale-150.png
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\dotnet_bot.scale-125.png
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\dotnet_bot.scale-100.png
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Components\Layout\MainLayout.razor.css
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Components\Layout\NavMenu.razor.css
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\runtimes\win-x64\native\WebView2Loader.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\ChietaApp.staticwebassets.endpoints.json
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\CoreMessagingXP.dll
@@ -312,8 +334,11 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-window
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\ChietaApp.pdb
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\resources.pri
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.Web.WebView2.Core.dll
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Azure.Core.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Azure.Identity.dll
+=======
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Authorization.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Forms.dll
@@ -321,11 +346,14 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-window
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.Maui.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Metadata.dll
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.Bcl.Cryptography.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.Data.SqlClient.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Caching.Memory.dll
+=======
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Binder.dll
@@ -344,6 +372,7 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-window
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.Identity.Client.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.Identity.Client.Extensions.Msal.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.IdentityModel.Abstractions.dll
@@ -352,6 +381,8 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-window
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.IdentityModel.Protocols.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.IdentityModel.Tokens.dll
+=======
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.IO.RecyclableMemoryStream.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.JSInterop.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
@@ -360,7 +391,10 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-window
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.SqlServer.Server.dll
+=======
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
@@ -377,6 +411,7 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-window
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\System.ClientModel.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\System.Configuration.ConfigurationManager.dll
@@ -399,6 +434,8 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-window
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Data.SqlClient.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Data.SqlClient.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+=======
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
@@ -433,7 +470,10 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-window
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.Data.SqlClient.SNI.dll
+=======
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\WebView2Loader.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
@@ -450,7 +490,11 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-window
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\ChietaApp.styles.css
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\ChietaApp.bundle.scp.css
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\9w8ash39pw-d75vvab5av.gz
+=======
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\9w8ash39pw-fkrtue0wwy.gz
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\byu1sj4xpy-6gzpyzhau4.gz
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\053obva0vb-8inm30yfxf.gz
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\e25xx7drf2-asx38bmddw.gz
@@ -468,7 +512,11 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-window
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\staticwebassets.upToDateCheck.txt
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\r14fuvwmtm-tw4sc55izp.br
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\btc5k7c35h-tw4sc55izp.br
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\9w8ash39pw-d75vvab5av.br
+=======
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\9w8ash39pw-fkrtue0wwy.br
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\byu1sj4xpy-6gzpyzhau4.br
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\053obva0vb-8inm30yfxf.br
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\e25xx7drf2-asx38bmddw.br
@@ -485,6 +533,7 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-window
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\ChietaApp.GeneratedMSBuildEditorConfig.editorconfig
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\mauifont.stamp
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
@@ -492,6 +541,16 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-window
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+=======
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
@@ -538,6 +597,14 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-window
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+<<<<<<< HEAD
+=======
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\mauiimage.outputs
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\ChietaApp.AssemblyInfoInputs.cache

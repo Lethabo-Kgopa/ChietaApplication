@@ -15,11 +15,17 @@
      limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="androidx.versionedparcelable" >
 
     <uses-sdk android:minSdkVersion="19" />
 
     <application>
     </application>
+=======
+    package="androidx.tracing" >
+
+    <uses-sdk android:minSdkVersion="14" />
+>>>>>>> master
 
 </manifest>

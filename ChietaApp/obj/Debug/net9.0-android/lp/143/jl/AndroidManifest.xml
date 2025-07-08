@@ -15,6 +15,7 @@
   limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="androidx.window" >
 
     <uses-sdk android:minSdkVersion="21" />
@@ -27,5 +28,12 @@
             android:name="androidx.window.sidecar"
             android:required="false" />
     </application>
+=======
+    package="androidx.swiperefreshlayout" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="29" />
+>>>>>>> master
 
 </manifest>

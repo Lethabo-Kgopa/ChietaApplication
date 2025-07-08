@@ -1,11 +1,17 @@
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\wwwroot\images\chietalogo.png
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Resources\Data\users.json
+=======
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\ChietaApp.staticwebassets.endpoints.json
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\ChietaApp.runtimeconfig.json
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\ChietaApp.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\ChietaApp.pdb
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Azure.Core.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Azure.Identity.dll
+=======
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.AspNetCore.Authorization.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.AspNetCore.Components.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.AspNetCore.Components.Forms.dll
@@ -13,11 +19,14 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\io
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.AspNetCore.Components.WebView.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.AspNetCore.Components.WebView.Maui.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.AspNetCore.Metadata.dll
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Bcl.Cryptography.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Data.SqlClient.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Caching.Memory.dll
+=======
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Binder.dll
@@ -35,6 +44,7 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\io
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Debug.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Options.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Primitives.dll
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Identity.Client.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Identity.Client.Extensions.Msal.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.IdentityModel.Abstractions.dll
@@ -43,12 +53,15 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\io
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.IdentityModel.Protocols.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.IdentityModel.Tokens.dll
+=======
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.JSInterop.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Maui.Controls.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Maui.Controls.Xaml.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Maui.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Maui.Essentials.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Maui.Graphics.dll
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.SqlServer.Server.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\Newtonsoft.Json.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\System.ClientModel.dll
@@ -71,6 +84,8 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\io
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\tr\Microsoft.Data.SqlClient.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\zh-Hans\Microsoft.Data.SqlClient.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+=======
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\ar\Microsoft.Maui.Controls.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\ca\Microsoft.Maui.Controls.resources.dll
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\bin\Debug\net9.0-ios\iossimulator-x64\cs\Microsoft.Maui.Controls.resources.dll
@@ -315,7 +330,11 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-ios\io
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\scopedcss\bundle\ChietaApp.styles.css
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\scopedcss\projectbundle\ChietaApp.bundle.scp.css
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\compressed\9w8ash39pw-d75vvab5av.gz
+=======
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\compressed\9w8ash39pw-fkrtue0wwy.gz
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\compressed\byu1sj4xpy-6gzpyzhau4.gz
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\compressed\053obva0vb-8inm30yfxf.gz
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\compressed\e25xx7drf2-asx38bmddw.gz
@@ -333,7 +352,11 @@ C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-ios\io
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\staticwebassets.upToDateCheck.txt
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\compressed\publish\r14fuvwmtm-tw4sc55izp.br
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\compressed\publish\btc5k7c35h-tw4sc55izp.br
+<<<<<<< HEAD
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\compressed\publish\9w8ash39pw-d75vvab5av.br
+=======
+C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\compressed\publish\9w8ash39pw-fkrtue0wwy.br
+>>>>>>> master
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\compressed\publish\byu1sj4xpy-6gzpyzhau4.br
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\compressed\publish\053obva0vb-8inm30yfxf.br
 C:\Users\lkgopa\source\repos\ChietaApplication\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\compressed\publish\e25xx7drf2-asx38bmddw.br

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="androidx.lifecycle.livedata.core.ktx" >
+=======
+    package="androidx.fragment.ktx" >
+>>>>>>> master
 
     <uses-sdk android:minSdkVersion="19" />
 

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 style Widget_Support_CoordinatorLayout
 attr keylines
 attr layout_anchor
@@ -7,3 +8,5 @@ attr layout_dodgeInsetEdges
 attr layout_insetEdge
 attr layout_keyline
 attr statusBarBackground
+=======
+>>>>>>> master
