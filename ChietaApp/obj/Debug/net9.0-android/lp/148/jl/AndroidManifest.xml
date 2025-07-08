@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-<<<<<<< HEAD
-    package="androidx.lifecycle.viewmodel.ktx" >
-=======
-    package="androidx.lifecycle.ktx" >
->>>>>>> master
-
-    <uses-sdk android:minSdkVersion="19" />
-
+    package="androidx.lifecycle.lifecycle.runtime.ktx.anchor">
+    <uses-sdk android:minSdkVersion="19"/>
 </manifest>
