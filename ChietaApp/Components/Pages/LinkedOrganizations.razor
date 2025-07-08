@@ -1,56 +1,58 @@
 ﻿@page "/linked-organisations"
-
+@using ChietaApp.Services
+@inject DatabaseService DatabaseService
+@inject NavigationManager Navigation
 
 
 
 <div class="header-section">
-    <h2>Linked Organisations</h2>
+    <h2>Linked Organisation</h2>
 </div>
 
-<div class="table-container">
-    <table class="org-table">
-        <thead>
-            <tr>
-                <th>SDL No.</th>
-                <th>Organisational Name</th>
-                <th>Action</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td></td>
-                <td>
-                     <br />
-                    
-                </td>
-                <td>
-                    <select @onchange="OnGrantTypeChanged">
-                    <option value="">Select</option>
-                    <option value="discretionary">Discretionary Grant</option>
-                   <option value="mandatory">Mandatory Grant</option>
-                   </select>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
+@if (DatabaseService.LoggedInUser == null)
+{
+    <p>You are not logged in.</p>
+}
+else
+{
+    <div class="table-container">
+        <table class="org-table">
+            <thead>
+                <tr>
+                    <th>SDL No.</th>
+                    <th>Organisational Name</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>@DatabaseService.LoggedInUser.SDLNO</td>
+                    <td>@DatabaseService.LoggedInUser.OrganisationalName</td>
+                    <td>
+                        <select @onchange="OnGrantTypeChanged">
+                            <option value="">Select</option>
+                            <option value="discretionary">Discretionary Grant</option>
+                            <option value="mandatory">Mandatory Grant</option>
+                        </select>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+}
 
 @code {
-    [Inject]
-    NavigationManager Navigation { get; set; }
-
-
     private void OnGrantTypeChanged(ChangeEventArgs e)
     {
         var selectedValue = e.Value?.ToString();
 
         if (selectedValue == "discretionary")
         {
-            Navigation.NavigateTo("");
+            Navigation.NavigateTo($"/discretionary-grants/");
         }
         else if (selectedValue == "mandatory")
         {
-            Navigation.NavigateTo("/mandatory-grants");
+            Navigation.NavigateTo($"/mandatory-grants/");
         }
     }
 }

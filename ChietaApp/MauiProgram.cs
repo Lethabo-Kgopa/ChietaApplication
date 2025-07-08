@@ -1,4 +1,6 @@
-﻿using Microsoft.Extensions.Logging;
+﻿using ChietaApp.Services;
+using Microsoft.Extensions.Logging;
+using System;
 
 namespace ChietaApp
 {
@@ -20,6 +22,10 @@ namespace ChietaApp
             builder.Services.AddBlazorWebViewDeveloperTools();
             builder.Logging.AddDebug();
 #endif
+
+            // Register DatabaseService
+            builder.Services.AddSingleton<DatabaseService>();
+            builder.Services.AddSingleton<UserState>();
 
             return builder.Build();
         }

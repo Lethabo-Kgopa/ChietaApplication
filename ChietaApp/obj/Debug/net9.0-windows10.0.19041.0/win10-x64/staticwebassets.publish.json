@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "Hash": "L5dP0pIS91xpq3dUIKDIzmfDwMzmWtQ0sfKS18jYe5A=",
+=======
   "Hash": "q4E3bGS6L8VvIRbISiuL38RiW9hK6snL1WttmXGGMG8=",
+>>>>>>> master
   "Source": "ChietaApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -38,12 +42,20 @@
       "OriginalItemSpec": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\9w8ash39pw-d75vvab5av.gz",
+=======
       "Identity": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\9w8ash39pw-fkrtue0wwy.gz",
+>>>>>>> master
       "SourceId": "ChietaApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
       "BasePath": "/",
+<<<<<<< HEAD
+      "RelativePath": "css/app#[.{fingerprint=d75vvab5av}]?.css.gz",
+=======
       "RelativePath": "css/app#[.{fingerprint=fkrtue0wwy}]?.css.gz",
+>>>>>>> master
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -52,8 +64,13 @@
       "RelatedAsset": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\wwwroot\\css\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
+<<<<<<< HEAD
+      "Fingerprint": "6aytd7qzpj",
+      "Integrity": "MqQDiKa9Wxi0o1FMhjXxhPkbHZKiW0UkYuXjYTcaqnY=",
+=======
       "Fingerprint": "w9d0mchcon",
       "Integrity": "NNlS9XkYqQF71g59kjF+x5emaqPsMv9VHcXHuOAcSuY=",
+>>>>>>> master
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\wwwroot\\css\\app.css"
@@ -143,12 +160,20 @@
       "OriginalItemSpec": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\publish\\9w8ash39pw-d75vvab5av.br",
+=======
       "Identity": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\publish\\9w8ash39pw-fkrtue0wwy.br",
+>>>>>>> master
       "SourceId": "ChietaApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\publish\\",
       "BasePath": "/",
+<<<<<<< HEAD
+      "RelativePath": "css/app#[.{fingerprint=d75vvab5av}]?.css.br",
+=======
       "RelativePath": "css/app#[.{fingerprint=fkrtue0wwy}]?.css.br",
+>>>>>>> master
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -157,8 +182,13 @@
       "RelatedAsset": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\wwwroot\\css\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
+<<<<<<< HEAD
+      "Fingerprint": "soezizl97b",
+      "Integrity": "HIOK4C39PZAJjOp98v1dKGGr/3FL2YEdpMy+mT6d+2U=",
+=======
       "Fingerprint": "nux1yre6sz",
       "Integrity": "YZBnRCmrrQOBFPi58bmI7Egp6GaNl9vqRqm69ckNqrA=",
+>>>>>>> master
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\wwwroot\\css\\app.css"
@@ -325,8 +355,13 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+<<<<<<< HEAD
+      "Fingerprint": "d75vvab5av",
+      "Integrity": "5/xxd+lUsAftQV0NjNmdzwuDvadj9qLShFfNvUiED3Q=",
+=======
       "Fingerprint": "fkrtue0wwy",
       "Integrity": "Mfl0DK7cNOiOM0Yr+gEw/XVQb6yhoJlnD2NQemVWRvI=",
+>>>>>>> master
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\app.css"
@@ -484,7 +519,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Tue, 08 Jul 2025 07:54:31 GMT"
+=======
           "Value": "Thu, 19 Jun 2025 07:59:29 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -539,7 +578,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Tue, 08 Jul 2025 07:54:31 GMT"
+=======
           "Value": "Thu, 19 Jun 2025 07:59:29 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -592,7 +635,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Tue, 08 Jul 2025 07:54:31 GMT"
+=======
           "Value": "Thu, 19 Jun 2025 07:59:29 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -629,7 +676,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Tue, 08 Jul 2025 07:54:31 GMT"
+=======
           "Value": "Thu, 19 Jun 2025 07:59:29 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -674,7 +725,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Tue, 08 Jul 2025 07:54:31 GMT"
+=======
           "Value": "Thu, 19 Jun 2025 07:59:29 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -721,7 +776,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Tue, 08 Jul 2025 07:54:31 GMT"
+=======
           "Value": "Thu, 19 Jun 2025 07:59:29 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -776,7 +835,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Tue, 08 Jul 2025 07:54:31 GMT"
+=======
           "Value": "Thu, 19 Jun 2025 07:59:29 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -829,7 +892,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Tue, 08 Jul 2025 07:54:31 GMT"
+=======
           "Value": "Thu, 19 Jun 2025 07:59:29 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -866,7 +933,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Tue, 08 Jul 2025 07:54:31 GMT"
+=======
           "Value": "Thu, 19 Jun 2025 07:59:29 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -911,7 +982,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Tue, 08 Jul 2025 07:54:31 GMT"
+=======
           "Value": "Thu, 19 Jun 2025 07:59:29 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -958,7 +1033,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Tue, 08 Jul 2025 07:54:31 GMT"
+=======
           "Value": "Thu, 19 Jun 2025 07:59:29 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -1021,7 +1100,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Tue, 08 Jul 2025 07:54:31 GMT"
+=======
           "Value": "Thu, 19 Jun 2025 07:59:29 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -1082,7 +1165,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Tue, 08 Jul 2025 07:54:31 GMT"
+=======
           "Value": "Thu, 19 Jun 2025 07:59:29 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -1127,7 +1214,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Tue, 08 Jul 2025 07:54:31 GMT"
+=======
           "Value": "Thu, 19 Jun 2025 07:59:29 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -1180,7 +1271,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Tue, 08 Jul 2025 07:54:31 GMT"
+=======
           "Value": "Thu, 19 Jun 2025 07:59:29 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -1235,7 +1330,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Tue, 08 Jul 2025 07:54:31 GMT"
+=======
           "Value": "Thu, 19 Jun 2025 07:59:29 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -1298,7 +1397,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Tue, 08 Jul 2025 07:54:31 GMT"
+=======
           "Value": "Thu, 19 Jun 2025 07:59:29 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -1359,7 +1462,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Tue, 08 Jul 2025 07:54:31 GMT"
+=======
           "Value": "Thu, 19 Jun 2025 07:59:29 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -1404,7 +1511,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Tue, 08 Jul 2025 07:54:31 GMT"
+=======
           "Value": "Thu, 19 Jun 2025 07:59:29 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -1457,7 +1568,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
+          "Value": "Tue, 08 Jul 2025 07:54:31 GMT"
+=======
           "Value": "Thu, 19 Jun 2025 07:59:29 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -1489,12 +1604,20 @@
     },
     {
       "Route": "css/app.css",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\9w8ash39pw-d75vvab5av.gz",
+=======
       "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\9w8ash39pw-fkrtue0wwy.gz",
+>>>>>>> master
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
+<<<<<<< HEAD
+          "Quality": "0.000191241155"
+=======
           "Quality": "0.000203998368"
+>>>>>>> master
         }
       ],
       "ResponseHeaders": [
@@ -1504,6 +1627,17 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
+          "Value": "5228"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MqQDiKa9Wxi0o1FMhjXxhPkbHZKiW0UkYuXjYTcaqnY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 13:00:56 GMT"
+=======
           "Value": "4901"
         },
         {
@@ -1513,6 +1647,7 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 19 Jun 2025 07:38:48 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -1532,24 +1667,40 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
+          "Value": "W/\"5/xxd+lUsAftQV0NjNmdzwuDvadj9qLShFfNvUiED3Q=\""
+=======
           "Value": "W/\"Mfl0DK7cNOiOM0Yr+gEw/XVQb6yhoJlnD2NQemVWRvI=\""
+>>>>>>> master
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
+<<<<<<< HEAD
+          "Value": "sha256-5/xxd+lUsAftQV0NjNmdzwuDvadj9qLShFfNvUiED3Q="
+=======
           "Value": "sha256-Mfl0DK7cNOiOM0Yr+gEw/XVQb6yhoJlnD2NQemVWRvI="
+>>>>>>> master
         }
       ]
     },
     {
       "Route": "css/app.css",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\publish\\9w8ash39pw-d75vvab5av.br",
+=======
       "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\publish\\9w8ash39pw-fkrtue0wwy.br",
+>>>>>>> master
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
+<<<<<<< HEAD
+          "Quality": "0.000223863891"
+=======
           "Quality": "0.000239463602"
+>>>>>>> master
         }
       ],
       "ResponseHeaders": [
@@ -1559,6 +1710,17 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
+          "Value": "4466"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HIOK4C39PZAJjOp98v1dKGGr/3FL2YEdpMy+mT6d+2U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 13:00:56 GMT"
+=======
           "Value": "4175"
         },
         {
@@ -1568,6 +1730,7 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 19 Jun 2025 07:38:48 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -1587,13 +1750,21 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
+          "Value": "W/\"5/xxd+lUsAftQV0NjNmdzwuDvadj9qLShFfNvUiED3Q=\""
+=======
           "Value": "W/\"Mfl0DK7cNOiOM0Yr+gEw/XVQb6yhoJlnD2NQemVWRvI=\""
+>>>>>>> master
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
+<<<<<<< HEAD
+          "Value": "sha256-5/xxd+lUsAftQV0NjNmdzwuDvadj9qLShFfNvUiED3Q="
+=======
           "Value": "sha256-Mfl0DK7cNOiOM0Yr+gEw/XVQb6yhoJlnD2NQemVWRvI="
+>>>>>>> master
         }
       ]
     },
@@ -1608,7 +1779,11 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
+          "Value": "22538"
+=======
           "Value": "20532"
+>>>>>>> master
         },
         {
           "Name": "Content-Type",
@@ -1616,11 +1791,19 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
+          "Value": "\"5/xxd+lUsAftQV0NjNmdzwuDvadj9qLShFfNvUiED3Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 13:00:56 GMT"
+=======
           "Value": "\"Mfl0DK7cNOiOM0Yr+gEw/XVQb6yhoJlnD2NQemVWRvI=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Thu, 19 Jun 2025 07:38:48 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -1630,13 +1813,21 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
+<<<<<<< HEAD
+          "Value": "sha256-5/xxd+lUsAftQV0NjNmdzwuDvadj9qLShFfNvUiED3Q="
+=======
           "Value": "sha256-Mfl0DK7cNOiOM0Yr+gEw/XVQb6yhoJlnD2NQemVWRvI="
+>>>>>>> master
         }
       ]
     },
     {
       "Route": "css/app.css.br",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\publish\\9w8ash39pw-d75vvab5av.br",
+=======
       "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\publish\\9w8ash39pw-fkrtue0wwy.br",
+>>>>>>> master
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1645,7 +1836,11 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
+          "Value": "4466"
+=======
           "Value": "4175"
+>>>>>>> master
         },
         {
           "Name": "Content-Type",
@@ -1653,11 +1848,19 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
+          "Value": "\"HIOK4C39PZAJjOp98v1dKGGr/3FL2YEdpMy+mT6d+2U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 13:00:56 GMT"
+=======
           "Value": "\"YZBnRCmrrQOBFPi58bmI7Egp6GaNl9vqRqm69ckNqrA=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Thu, 19 Jun 2025 07:38:48 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -1675,13 +1878,21 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
+<<<<<<< HEAD
+          "Value": "sha256-HIOK4C39PZAJjOp98v1dKGGr/3FL2YEdpMy+mT6d+2U="
+=======
           "Value": "sha256-YZBnRCmrrQOBFPi58bmI7Egp6GaNl9vqRqm69ckNqrA="
+>>>>>>> master
         }
       ]
     },
     {
       "Route": "css/app.css.gz",
+<<<<<<< HEAD
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\9w8ash39pw-d75vvab5av.gz",
+=======
       "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\9w8ash39pw-fkrtue0wwy.gz",
+>>>>>>> master
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1690,7 +1901,11 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
+          "Value": "5228"
+=======
           "Value": "4901"
+>>>>>>> master
         },
         {
           "Name": "Content-Type",
@@ -1698,11 +1913,19 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
+          "Value": "\"MqQDiKa9Wxi0o1FMhjXxhPkbHZKiW0UkYuXjYTcaqnY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 13:00:56 GMT"
+=======
           "Value": "\"NNlS9XkYqQF71g59kjF+x5emaqPsMv9VHcXHuOAcSuY=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Thu, 19 Jun 2025 07:38:48 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -1720,18 +1943,31 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
+<<<<<<< HEAD
+          "Value": "sha256-MqQDiKa9Wxi0o1FMhjXxhPkbHZKiW0UkYuXjYTcaqnY="
+=======
           "Value": "sha256-NNlS9XkYqQF71g59kjF+x5emaqPsMv9VHcXHuOAcSuY="
+>>>>>>> master
         }
       ]
     },
     {
+<<<<<<< HEAD
+      "Route": "css/app.d75vvab5av.css",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\9w8ash39pw-d75vvab5av.gz",
+=======
       "Route": "css/app.fkrtue0wwy.css",
       "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\9w8ash39pw-fkrtue0wwy.gz",
+>>>>>>> master
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
+<<<<<<< HEAD
+          "Quality": "0.000191241155"
+=======
           "Quality": "0.000203998368"
+>>>>>>> master
         }
       ],
       "ResponseHeaders": [
@@ -1741,6 +1977,17 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
+          "Value": "5228"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MqQDiKa9Wxi0o1FMhjXxhPkbHZKiW0UkYuXjYTcaqnY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 13:00:56 GMT"
+=======
           "Value": "4901"
         },
         {
@@ -1750,6 +1997,7 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 19 Jun 2025 07:38:48 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -1769,13 +2017,21 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
+          "Value": "W/\"5/xxd+lUsAftQV0NjNmdzwuDvadj9qLShFfNvUiED3Q=\""
+=======
           "Value": "W/\"Mfl0DK7cNOiOM0Yr+gEw/XVQb6yhoJlnD2NQemVWRvI=\""
+>>>>>>> master
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
+<<<<<<< HEAD
+          "Value": "d75vvab5av"
+=======
           "Value": "fkrtue0wwy"
+>>>>>>> master
         },
         {
           "Name": "label",
@@ -1783,18 +2039,31 @@
         },
         {
           "Name": "integrity",
+<<<<<<< HEAD
+          "Value": "sha256-5/xxd+lUsAftQV0NjNmdzwuDvadj9qLShFfNvUiED3Q="
+=======
           "Value": "sha256-Mfl0DK7cNOiOM0Yr+gEw/XVQb6yhoJlnD2NQemVWRvI="
+>>>>>>> master
         }
       ]
     },
     {
+<<<<<<< HEAD
+      "Route": "css/app.d75vvab5av.css",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\publish\\9w8ash39pw-d75vvab5av.br",
+=======
       "Route": "css/app.fkrtue0wwy.css",
       "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\publish\\9w8ash39pw-fkrtue0wwy.br",
+>>>>>>> master
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
+<<<<<<< HEAD
+          "Quality": "0.000223863891"
+=======
           "Quality": "0.000239463602"
+>>>>>>> master
         }
       ],
       "ResponseHeaders": [
@@ -1804,6 +2073,17 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
+          "Value": "4466"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HIOK4C39PZAJjOp98v1dKGGr/3FL2YEdpMy+mT6d+2U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 13:00:56 GMT"
+=======
           "Value": "4175"
         },
         {
@@ -1813,6 +2093,7 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 19 Jun 2025 07:38:48 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -1832,13 +2113,21 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
+          "Value": "W/\"5/xxd+lUsAftQV0NjNmdzwuDvadj9qLShFfNvUiED3Q=\""
+=======
           "Value": "W/\"Mfl0DK7cNOiOM0Yr+gEw/XVQb6yhoJlnD2NQemVWRvI=\""
+>>>>>>> master
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
+<<<<<<< HEAD
+          "Value": "d75vvab5av"
+=======
           "Value": "fkrtue0wwy"
+>>>>>>> master
         },
         {
           "Name": "label",
@@ -1846,12 +2135,20 @@
         },
         {
           "Name": "integrity",
+<<<<<<< HEAD
+          "Value": "sha256-5/xxd+lUsAftQV0NjNmdzwuDvadj9qLShFfNvUiED3Q="
+=======
           "Value": "sha256-Mfl0DK7cNOiOM0Yr+gEw/XVQb6yhoJlnD2NQemVWRvI="
+>>>>>>> master
         }
       ]
     },
     {
+<<<<<<< HEAD
+      "Route": "css/app.d75vvab5av.css",
+=======
       "Route": "css/app.fkrtue0wwy.css",
+>>>>>>> master
       "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1861,7 +2158,11 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
+          "Value": "22538"
+=======
           "Value": "20532"
+>>>>>>> master
         },
         {
           "Name": "Content-Type",
@@ -1869,11 +2170,19 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
+          "Value": "\"5/xxd+lUsAftQV0NjNmdzwuDvadj9qLShFfNvUiED3Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 13:00:56 GMT"
+=======
           "Value": "\"Mfl0DK7cNOiOM0Yr+gEw/XVQb6yhoJlnD2NQemVWRvI=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Thu, 19 Jun 2025 07:38:48 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -1883,7 +2192,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
+<<<<<<< HEAD
+          "Value": "d75vvab5av"
+=======
           "Value": "fkrtue0wwy"
+>>>>>>> master
         },
         {
           "Name": "label",
@@ -1891,13 +2204,22 @@
         },
         {
           "Name": "integrity",
+<<<<<<< HEAD
+          "Value": "sha256-5/xxd+lUsAftQV0NjNmdzwuDvadj9qLShFfNvUiED3Q="
+=======
           "Value": "sha256-Mfl0DK7cNOiOM0Yr+gEw/XVQb6yhoJlnD2NQemVWRvI="
+>>>>>>> master
         }
       ]
     },
     {
+<<<<<<< HEAD
+      "Route": "css/app.d75vvab5av.css.br",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\publish\\9w8ash39pw-d75vvab5av.br",
+=======
       "Route": "css/app.fkrtue0wwy.css.br",
       "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\publish\\9w8ash39pw-fkrtue0wwy.br",
+>>>>>>> master
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1906,7 +2228,11 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
+          "Value": "4466"
+=======
           "Value": "4175"
+>>>>>>> master
         },
         {
           "Name": "Content-Type",
@@ -1914,11 +2240,19 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
+          "Value": "\"HIOK4C39PZAJjOp98v1dKGGr/3FL2YEdpMy+mT6d+2U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 13:00:56 GMT"
+=======
           "Value": "\"YZBnRCmrrQOBFPi58bmI7Egp6GaNl9vqRqm69ckNqrA=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Thu, 19 Jun 2025 07:38:48 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -1936,7 +2270,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
+<<<<<<< HEAD
+          "Value": "d75vvab5av"
+=======
           "Value": "fkrtue0wwy"
+>>>>>>> master
         },
         {
           "Name": "label",
@@ -1944,13 +2282,22 @@
         },
         {
           "Name": "integrity",
+<<<<<<< HEAD
+          "Value": "sha256-HIOK4C39PZAJjOp98v1dKGGr/3FL2YEdpMy+mT6d+2U="
+=======
           "Value": "sha256-YZBnRCmrrQOBFPi58bmI7Egp6GaNl9vqRqm69ckNqrA="
+>>>>>>> master
         }
       ]
     },
     {
+<<<<<<< HEAD
+      "Route": "css/app.d75vvab5av.css.gz",
+      "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\9w8ash39pw-d75vvab5av.gz",
+=======
       "Route": "css/app.fkrtue0wwy.css.gz",
       "AssetFile": "C:\\Users\\lkgopa\\source\\repos\\ChietaApplication\\ChietaApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\9w8ash39pw-fkrtue0wwy.gz",
+>>>>>>> master
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1959,7 +2306,11 @@
         },
         {
           "Name": "Content-Length",
+<<<<<<< HEAD
+          "Value": "5228"
+=======
           "Value": "4901"
+>>>>>>> master
         },
         {
           "Name": "Content-Type",
@@ -1967,11 +2318,19 @@
         },
         {
           "Name": "ETag",
+<<<<<<< HEAD
+          "Value": "\"MqQDiKa9Wxi0o1FMhjXxhPkbHZKiW0UkYuXjYTcaqnY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Jul 2025 13:00:56 GMT"
+=======
           "Value": "\"NNlS9XkYqQF71g59kjF+x5emaqPsMv9VHcXHuOAcSuY=\""
         },
         {
           "Name": "Last-Modified",
           "Value": "Thu, 19 Jun 2025 07:38:48 GMT"
+>>>>>>> master
         },
         {
           "Name": "Cache-Control",
@@ -1989,7 +2348,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
+<<<<<<< HEAD
+          "Value": "d75vvab5av"
+=======
           "Value": "fkrtue0wwy"
+>>>>>>> master
         },
         {
           "Name": "label",
@@ -1997,7 +2360,11 @@
         },
         {
           "Name": "integrity",
+<<<<<<< HEAD
+          "Value": "sha256-MqQDiKa9Wxi0o1FMhjXxhPkbHZKiW0UkYuXjYTcaqnY="
+=======
           "Value": "sha256-NNlS9XkYqQF71g59kjF+x5emaqPsMv9VHcXHuOAcSuY="
+>>>>>>> master
         }
       ]
     },

@@ -24,7 +24,11 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
+<<<<<<< HEAD
+_nugetassetsfilehash=c16bd0e2cac1880cd25b07c5c3071c7cdfad89cd230023214414c2f61fe7da31
+=======
 _nugetassetsfilehash=ca9131dec81478e0073e2a738c712bbe988b3733a4f1e6742a8eb66d18b6596e
+>>>>>>> master
 typemapkind=strings-asm
 androidmanifestplaceholders=
 projectfullpath=c:\users\lkgopa\source\repos\chietaapplication\chietaapp\chietaapp.csproj

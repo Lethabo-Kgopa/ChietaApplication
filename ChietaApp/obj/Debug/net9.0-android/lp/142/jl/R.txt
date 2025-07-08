@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 int attr activityAction 0x0
 int attr activityName 0x0
 int attr alwaysExpand 0x0
@@ -66,3 +68,4 @@ int styleable SplitPlaceholderRule_splitMinWidthDp 8
 int styleable SplitPlaceholderRule_splitRatio 9
 int styleable SplitPlaceholderRule_stickyPlaceholder 10
 int styleable SplitPlaceholderRule_tag 11
+>>>>>>> master

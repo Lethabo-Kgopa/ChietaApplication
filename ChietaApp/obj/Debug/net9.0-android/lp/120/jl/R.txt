@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+int id report_drawn 0x0
+int id view_tree_on_back_pressed_dispatcher_owner 0x0
+=======
 int anim fragment_fast_out_extra_slow_in 0x0
 int animator fragment_close_enter 0x0
 int animator fragment_close_exit 0x0
@@ -15,3 +19,4 @@ int styleable Fragment_android_tag 2
 int[] styleable FragmentContainerView { 0x1010003, 0x10100d1 }
 int styleable FragmentContainerView_android_name 0
 int styleable FragmentContainerView_android_tag 1
+>>>>>>> master

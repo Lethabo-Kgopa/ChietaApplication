@@ -15,8 +15,13 @@
   ~ limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
+    package="androidx.lifecycle.lifecycle.runtime.ktx.anchor">
+    <uses-sdk android:minSdkVersion="19"/>
+=======
     package="androidx.navigation.common" >
 
     <uses-sdk android:minSdkVersion="21" />
 
+>>>>>>> master
 </manifest>

@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 int attr coordinatorLayoutStyle 0x0
 int attr keylines 0x0
 int attr layout_anchor 0x0
@@ -26,3 +28,4 @@ int styleable CoordinatorLayout_Layout_layout_behavior 3
 int styleable CoordinatorLayout_Layout_layout_dodgeInsetEdges 4
 int styleable CoordinatorLayout_Layout_layout_insetEdge 5
 int styleable CoordinatorLayout_Layout_layout_keyline 6
+>>>>>>> master

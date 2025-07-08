@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<<<<<<< HEAD
+    <style name="CardView" parent="Base.CardView">
+        <item name="cardBackgroundColor">?android:attr/colorBackgroundFloating</item>
+    </style>
+=======
     <style name="ThemeOverlay.Material3.AutoCompleteTextView" parent="Base.ThemeOverlay.Material3.AutoCompleteTextView">
     <item name="colorControlNormal">@color/m3_textfield_indicator_text_color</item>
   </style>
@@ -34,4 +39,5 @@
     <item name="android:popupBackground">?attr/popupMenuBackground</item>
     <item name="android:popupElevation">8dp</item>
   </style>
+>>>>>>> master
 </resources>

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<<<<<<< HEAD
+    <item name="is_pooling_container_tag" type="id"/>
+    <item name="pooling_container_listener_holder_tag" type="id"/>
+=======
     <attr format="reference" name="recyclerViewStyle"/>
     <dimen name="fastscroll_default_thickness">8dp</dimen>
     <dimen name="fastscroll_margin">0dp</dimen>
@@ -29,4 +33,5 @@
         <attr format="reference" name="fastScrollHorizontalThumbDrawable"/>
         <attr format="reference" name="fastScrollHorizontalTrackDrawable"/>
     </declare-styleable>
+>>>>>>> master
 </resources>

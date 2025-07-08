@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<<<<<<< HEAD
+=======
     <attr format="color" name="animationBackgroundColor"/>
     <attr format="enum" name="finishPrimaryWithPlaceholder">
         
@@ -103,4 +105,5 @@
         <attr name="tag"/>
         <attr name="animationBackgroundColor"/>
     </declare-styleable>
+>>>>>>> master
 </resources>

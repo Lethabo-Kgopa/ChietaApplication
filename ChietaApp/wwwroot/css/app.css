@@ -83,9 +83,27 @@
 .checkbox-group {
     display: flex;
     align-items: center;
-    margin: 10px 0;
-    gap: 0.5rem;
+    margin: 15px 0;
+    gap: 8px;
 }
+
+    .checkbox-group input[type="checkbox"] {
+        margin: 0;
+        width: 16px;
+        height: 16px;
+        cursor: pointer;
+    }
+
+    .checkbox-group label {
+        margin: 0;
+        cursor: pointer;  
+        
+    }
+
+    .checkbox-group a {
+        color: #007bff;
+        text-decoration: none;
+    }
 
 .register-button {
     background-color: #007bff;
@@ -148,6 +166,7 @@ span {
     left: 30px;
 }
 
+/*Css for Login.razor */
 .login-container {
     max-width: 350px;
     margin: 0 auto;
@@ -196,13 +215,19 @@ span {
     display: flex;
     align-items: center;
     font-size: 13px;
-    text-align: left;
     margin: 10px 0 20px;
-    gap: 10px;
 }
 
     .checkbox-group input[type="checkbox"] {
         transform: scale(1.2);
+        margin-right: 4px; /* small gap */
+    }
+
+    .checkbox-group label,
+    .checkbox-group span {
+        margin: 0;
+        padding: 0;
+        cursor: pointer;
     }
 
     .checkbox-group a {
@@ -210,6 +235,7 @@ span {
         text-decoration: none;
         font-weight: 600;
     }
+
 
 .btn-login {
     background-color: #3b1742;
@@ -233,6 +259,8 @@ span {
     font-weight: bold;
     text-decoration: none;
 }
+
+
 
 /* app.css */
 .headerA {
@@ -672,9 +700,9 @@ h1:focus {
 }
 
     .tab2.active2 {
-        background-color: #f5f5f5;
+       
         font-weight: bold;
-        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        
     }
 
 .content2 {
@@ -1061,6 +1089,97 @@ h2 {
     font-size: 14px;
     cursor: pointer;
 }
+
+/*Register*/
+
+.register-container8 {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    text-align: center;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.tenant-label8 {
+    margin-bottom: 10px;
+    font-size: 14px;
+    color: #444;
+}
+
+.logo8 {
+    height: 100px;
+    margin-bottom: 20px;
+}
+
+.register-title8 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.form-group8 {
+    position: relative;
+    margin-bottom: 15px;
+}
+
+.input8 {
+    width: 100%;
+    padding: 10px 35px 10px 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 14px;
+}
+
+.icon8 {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    pointer-events: none;
+    font-size: 16px;
+    color: #888;
+}
+
+.checkbox8 {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    font-size: 14px;
+    color: #444;
+    margin: 10px 0 20px;
+}
+
+    .checkbox8 input[type="checkbox"] {
+        margin-right: 10px;
+    }
+
+.register-btn8 {
+    width: 100%;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+    .register-btn8:hover {
+        background-color: #0069d9;
+    }
+
+.login-text8 {
+    font-size: 14px;
+    margin-top: 15px;
+}
+
+    .login-text8 a {
+        color: #007bff;
+        text-decoration: none;
+    }
 
 
 

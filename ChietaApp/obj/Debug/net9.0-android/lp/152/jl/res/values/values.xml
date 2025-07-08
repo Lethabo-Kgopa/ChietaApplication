@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<<<<<<< HEAD
+=======
     <item name="nav_controller_view_tag" type="id"/>
     <declare-styleable name="ActivityNavigator">
         <attr name="android:name"/>
@@ -14,4 +16,5 @@
     <declare-styleable name="NavInclude">
         <attr format="reference" name="graph"/>
     </declare-styleable>
+>>>>>>> master
 </resources>
