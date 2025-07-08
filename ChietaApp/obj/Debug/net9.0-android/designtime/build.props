@@ -13,9 +13,9 @@ androidlinkskip=
 androidsdkbuildtoolsversion=35.0.0
 androidsdkpath=c:\program files (x86)\android\android-sdk\
 androidndkpath=
-javasdkpath=c:\program files (x86)\android\openjdk\jdk-17.0.12\
+javasdkpath=c:\program files (x86)\android\openjdk\jdk-17.0.14\
 androidsequencepointsmode=none
-androidnetsdkversion=35.0.39
+androidnetsdkversion=35.0.78
 monosymbolarchive=false
 androiduselatestplatformsdk=false
 targetframeworkversion=v9.0
@@ -24,12 +24,8 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-<<<<<<< HEAD
-_nugetassetsfilehash=c16bd0e2cac1880cd25b07c5c3071c7cdfad89cd230023214414c2f61fe7da31
-=======
-_nugetassetsfilehash=ca9131dec81478e0073e2a738c712bbe988b3733a4f1e6742a8eb66d18b6596e
->>>>>>> master
+_nugetassetsfilehash=b1ce68ef375418a14f6ab17c147d560df03ca615c1df6bcfe1ee96920d3f8748
 typemapkind=strings-asm
 androidmanifestplaceholders=
-projectfullpath=c:\users\lkgopa\source\repos\chietaapplication\chietaapp\chietaapp.csproj
+projectfullpath=c:\sources\chieta applicationlatest\chietaapp\chietaapp.csproj
 androidusedesignerassembly=true
