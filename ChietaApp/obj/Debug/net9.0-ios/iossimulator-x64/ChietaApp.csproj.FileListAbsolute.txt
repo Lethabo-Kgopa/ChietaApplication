@@ -321,7 +321,7 @@ C:\sources\Chieta ApplicationLatest\ChietaApp\obj\Debug\net9.0-ios\iossimulator-
 C:\sources\Chieta ApplicationLatest\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\sources\Chieta ApplicationLatest\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\scopedcss\bundle\ChietaApp.styles.css
 C:\sources\Chieta ApplicationLatest\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\scopedcss\projectbundle\ChietaApp.bundle.scp.css
-C:\sources\Chieta ApplicationLatest\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\compressed\9w8ash39pw-d75vvab5av.gz
+C:\sources\Chieta ApplicationLatest\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\compressed\9w8ash39pw-jcmr23sasa.gz
 C:\sources\Chieta ApplicationLatest\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\compressed\byu1sj4xpy-6gzpyzhau4.gz
 C:\sources\Chieta ApplicationLatest\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\compressed\053obva0vb-8inm30yfxf.gz
 C:\sources\Chieta ApplicationLatest\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\compressed\e25xx7drf2-asx38bmddw.gz
@@ -338,7 +338,7 @@ C:\sources\Chieta ApplicationLatest\ChietaApp\obj\Debug\net9.0-ios\iossimulator-
 C:\sources\Chieta ApplicationLatest\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\staticwebassets\msbuild.buildTransitive.ChietaApp.props
 C:\sources\Chieta ApplicationLatest\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\staticwebassets.pack.json
 C:\sources\Chieta ApplicationLatest\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\staticwebassets.upToDateCheck.txt
-C:\sources\Chieta ApplicationLatest\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\compressed\publish\9w8ash39pw-d75vvab5av.br
+C:\sources\Chieta ApplicationLatest\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\compressed\publish\9w8ash39pw-jcmr23sasa.br
 C:\sources\Chieta ApplicationLatest\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\compressed\publish\byu1sj4xpy-6gzpyzhau4.br
 C:\sources\Chieta ApplicationLatest\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\compressed\publish\053obva0vb-8inm30yfxf.br
 C:\sources\Chieta ApplicationLatest\ChietaApp\obj\Debug\net9.0-ios\iossimulator-x64\compressed\publish\e25xx7drf2-asx38bmddw.br

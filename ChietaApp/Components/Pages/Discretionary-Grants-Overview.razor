@@ -1,0 +1,81 @@
+﻿@page "/"
+
+<div class="grants-container">
+    <div class="grants-header">
+        <h2 class="grants-title">Discretionary Grants Overview</h2>
+        <button class="start-application-btn" @onclick="NavigateToApplication">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                <path d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z" />
+            </svg>
+            Start Application
+        </button>
+    </div>
+
+    <table class="grants-table">
+        <thead>
+            <tr>
+                <th>Actions</th>
+                <th>Title</th>
+                <th>Description</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    <div class="dropdown">
+                        <button class="dropdown-toggle">Options</button>
+                        <div class="dropdown-menu">
+                            <a href="/discretionary-SDF-Details">View Application</a>
+                            <a href="#">Evaluation letter</a>
+                        </div>
+                    </div>
+                </td>
+                <td>DG 2023</td>
+                <td>Discretionary Grants 2023</td>
+                <td>RSA Review completed</td>
+            </tr>
+            <tr>
+                <td>
+                    <div class="dropdown">
+                        <button class="dropdown-toggle">Options</button>
+                        <div class="dropdown-menu">
+                            <a href="/discretionary-SDF-Details">View Application</a>
+                            <a href="#">Evaluation letter</a>
+                        </div>
+                    </div>
+                </td>
+                <td>DG 2024</td>
+                <td>Discretionary Grants 2024</td>
+                <td>Approved</td>
+            </tr>
+            <tr>
+                <td>
+                    <div class="dropdown">
+                        <button class="dropdown-toggle">Options</button>
+                        <div class="dropdown-menu">
+                            <a href="/discretionary-SDF-Details">View Application</a>
+                            <a href="#">Evaluation letter</a>
+                        </div>
+                    </div>
+                </td>
+                <td>DG 2025</td>
+                <td>Discretionary Grants 2025</td>
+                <td>Extension Granted</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<footer class="footer-nav4">
+    <!-- Your existing footer remains unchanged -->
+</footer>
+
+@code {
+    [Inject] private NavigationManager NavigationManager { get; set; }
+
+    private void NavigateToApplication()
+    {
+        NavigationManager.NavigateTo("/new-discretionary-application");
+    }
+}
