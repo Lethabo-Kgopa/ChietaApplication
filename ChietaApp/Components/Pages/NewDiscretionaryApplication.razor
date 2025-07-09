@@ -1,0 +1,103 @@
+﻿@page "/new-discretionary-application"
+
+<div class="application-container">
+    <div class="application-header">
+        <h2>New Discretionary Grant Application</h2>
+        <button class="add-application-btn" @onclick="AddApplication">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                <path d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z" />
+            </svg>
+            Add Application
+        </button>
+    </div>
+
+    <table class="application-table">
+        <thead>
+            <tr>
+                <th>DG.</th>
+                <th>Project Type</th>
+                <th>Title</th>
+                <th>Focus Area</th>
+                <th>Sub Category</th>
+                <th>Intervention</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var app in applications)
+            {
+                <tr>
+                    <td>
+                        <select class="form-select" @bind="app.Code">
+                            <option value="">Select DG</option>
+                            <option value="DG2023">DG2023</option>
+                            <option value="DG2024">DG2024</option>
+                            <option value="DG2025">DG2025</option>
+                        </select>
+                    </td>
+                    <td>
+                        <select class="form-select" @bind="app.ProjectType">
+                            <option value="">Select Type</option>
+                            <option value="Learning Projects">Learning Projects</option>
+                            <option value="Research Projects">Research Projects</option>
+                            <option value="Development Projects">Development Projects</option>
+                        </select>
+                    </td>
+                    <td>
+                        <select class="form-select" @bind="app.Title">
+                            <option value="">Select Title</option>
+                            <option value="DG2023-2024 Cycle 1">DG2023-2024 Cycle 1</option>
+                            <option value="DG2024-2025 Cycle 2">DG2024-2025 Cycle 2</option>
+                            <option value="DG2025-2026 Cycle 3">DG2025-2026 Cycle 3</option>
+                        </select>
+                    </td>
+                    <td><input class="form-input" type="text" @bind="app.FocusArea" /></td>
+                    <td><input class="form-input" type="text" @bind="app.SubCategory" /></td>
+                    <td><input class="form-input" type="text" @bind="app.Intervention" /></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="form-actions">
+        <button class="btn-submit" @onclick="SubmitApplication">Submit Application</button>
+    </div>
+</div>
+
+@code {
+    private List<GrantApplication> applications = new();
+
+    protected override void OnInitialized()
+    {
+        // Start with one empty application
+        AddApplication();
+    }
+
+    private void AddApplication()
+    {
+        applications.Add(new GrantApplication
+        {
+            Code = "",
+            ProjectType = "",
+            Title = "",
+            FocusArea = "",
+            SubCategory = "",
+            Intervention = ""
+        });
+    }
+
+    private void SubmitApplication()
+    {
+        // Validate and submit the applications
+        // NavigationManager.NavigateTo("/discretionary-grants");
+    }
+
+    public class GrantApplication
+    {
+        public string Code { get; set; } = string.Empty;
+        public string ProjectType { get; set; } = string.Empty;
+        public string Title { get; set; } = string.Empty;
+        public string FocusArea { get; set; } = string.Empty;
+        public string SubCategory { get; set; } = string.Empty;
+        public string Intervention { get; set; } = string.Empty;
+    }
+}
